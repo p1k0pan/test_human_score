@@ -1,0 +1,9 @@
+评估报告 - /mnt/data/users/liamding/data/MTI/evaluations/gemini-2.0-flash-001/dataset100/zh2ru - zh2ru
+==================================================
+
+总计处理项目: 100
+警告项目(空预测): 1
+空预测比例: 1.00%
+
+
+详细错误信息请查看 error_log.txt

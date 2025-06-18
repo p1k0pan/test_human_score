@@ -1,0 +1,502 @@
+{
+    "it/43/53/it_10412664.jpg": {
+        "mt": "S  \nPersoneD  \nVater  \nNahrungsmittel  \nMilch  \nTiere  \n49  \nler  \nKatze  \nQVelcoll  \nBus  \nHund  \nHund  \nTiere  \nBus",
+        "ref": "Hund\nKatze\nVater\nBus\nMilch",
+        "src": "Cane\nGatto\nPadre\nAutobus\nLatte"
+    },
+    "it/8f/ac/it_10417366.jpg": {
+        "mt": "Neve  \nSandsturm  \nSonne  \nHagel  \nStaub  \nRegen",
+        "ref": "Schnee\nSandsturm\nSonne\nStaub\nHagel\nRegen",
+        "src": "Neve\nTempesta di sabbia\nSole\nPolvere\nGrandine\nPioggia"
+    },
+    "it/03/d9/it_10388340.jpg": {
+        "mt": "Einfache Montage  \nNur wenige Schritte erforderlich",
+        "ref": "Einfache Montage\nNur wenige Schritte\n1\n2\n3\n4\n5",
+        "src": "Montaggio semplice\nBastano pochi passaggi\n1\n2\n3\n4\n5"
+    },
+    "it/97/1b/it_10400237.jpg": {
+        "mt": "Installation\nIM\nM",
+        "ref": "Installation\n1\n2\n3\n4",
+        "src": "installazione\n1\n2\n3\n4"
+    },
+    "it/06/41/it_10408485.jpg": {
+        "mt": "All'aperto  \nDivano  \nAuto  \nUmano  \nLetto  \nPavimenti",
+        "ref": "Draußen\nAuto\nMensch\nSofa\nBett\nBöden",
+        "src": "All'aperto\nAuto\nUmano\nDivano\nLetto\nPavimenti"
+    },
+    "it/43/44/it_10412741.jpg": {
+        "mt": "Buono!\ntrodat\nprinty4910",
+        "ref": "Gut!",
+        "src": "Buono!"
+    },
+    "it/e9/ba/it_10405277.jpg": {
+        "mt": "Waden\nGesäß\nKnöchel\nBauchmuskeln\nSchultern\nArme",
+        "ref": "Oberschenkel\nWaden\nGesäß\nBauch\nSchultern\nArme",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/9a/ca/it_10388965.jpg": {
+        "mt": "Riccardo",
+        "ref": "Riccardo",
+        "src": "Riccardo"
+    },
+    "it/e2/91/it_10381137.jpg": {
+        "mt": "25\nY",
+        "ref": "Diletta",
+        "src": "Diletta"
+    },
+    "it/14/cd/it_10360277.jpg": {
+        "mt": "Jede Art von Anforderung erfüllen  \n15W/3.0A  \nUSB.C  \n12W/2.4A",
+        "ref": "Jeden Bedarf erfüllen\nAC 4000W/16A\nUSB C 15W/3.0\nUSB A 12W/2.4",
+        "src": "Soddisfare ogni tipo di esigenza\nAC 4000W/16A\nUSB C 15W/3.0\nUSB A 12W/2.4"
+    },
+    "it/6b/28/it_10388036.jpg": {
+        "mt": "248 mm  \n222 mm  \nFREITAG  \n10,1 Zoll  \nMORGEN  \n11:56  \nUHR  \n10.  \nJUNI  \n2022  \nTROCOTN",
+        "ref": "FREITAG\nMORGEN\n11:56\nA.M.\n10,\nJUNI\n2022",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\n10,\nGIUGNO\n2022"
+    },
+    "it/c0/75/it_10394247.jpg": {
+        "mt": "CORRENTE  \n6000A  \n26800mAh  \nDIPICCO  \n24  \nTCP1197  \nAndiamo avanti!  \n8,5L  \nFE  \n4,0L  \n6,0L",
+        "ref": "SPITZENSTROM\n6000A\n26800 mAh\nLass uns weitermachen!\n4.0L\n6.0L\n8.5L",
+        "src": "CORRENTE DI PICCO\n6000A\n26800 mAh\nAndiamo avanti !\n4.0L\n6.0L\n8.5L"
+    },
+    "it/ee/e5/it_10373217.jpg": {
+        "mt": "Männer\nFrauen\nÄlterer Mann\nJugendliche\nKinder\nKind",
+        "ref": "Frauen\nMänner\nÄlterer\nJunge\nKinder\nKind",
+        "src": "Donne\nUomini\nAnziano\nGiovani\nBambini\nBambino"
+    },
+    "it/90/80/it_10379274.jpg": {
+        "mt": "trodat\nprinty4912\nPerfetto!\n18mm\n47mm",
+        "ref": "Perfekt!",
+        "src": "Perfetto!"
+    },
+    "it/9c/6e/it_10396800.jpg": {
+        "mt": "IT: Einzelbett  \nES: Cama 80  \nDE/FR/SE/PL/BE: 135 x 200 cm",
+        "ref": "Einzel",
+        "src": "Singolo"
+    },
+    "it/bf/7a/it_10377070.jpg": {
+        "mt": "1.  \n2.  \n3.  \n4.  \n5.  \n\n1.  \n2.  \n3.  \n4.  \n5.",
+        "ref": "Manuela",
+        "src": "Manuela"
+    },
+    "it/83/58/it_10417003.jpg": {
+        "mt": "PUZZLE\n500\nTEILE\n0\nD1&S\nCEO",
+        "ref": "PUZZLE\n500 TEILE\nGOTT",
+        "src": "PUZZLE\n500 PEZZI\nDIOS"
+    },
+    "it/d0/a5/it_10392328.jpg": {
+        "mt": "In wenigen Schritten montiert",
+        "ref": "In wenigen Schritten montiert\n1\n2\n3\n4\n5",
+        "src": "Montata in pochi passaggi\n1\n2\n3\n4\n5"
+    },
+    "it/ed/c8/it_10373632.jpg": {
+        "mt": "GIOCATTOLO 3IN 1  \nSchaukel  \nRutsche  \nKorb",
+        "ref": "SPIELZEUG 3 IN 1\nWippe\nRutsche\nKorbschuss",
+        "src": "GIOCATTolo 3 IN 1\nDondolo\nScivolo\nCanestro"
+    },
+    "it/a3/6a/it_10373914.jpg": {
+        "mt": "204mm  \n156mm  \nFREITAG  \n7Zoll  \nMORGEN  \n88,2mm  \n11:56  \nVORMITTAGS  \n10.  \nJUNI  \n2022  \nTROCOTN",
+        "ref": "FREITAG\nMORGEN\n11:56\nA.M.\nJUNI\n2022\n7 Zoll",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n2022\n7 Pollici"
+    },
+    "it/93/39/it_10409006.jpg": {
+        "mt": "Aadre",
+        "ref": "Sohn\nSohn\nMutter",
+        "src": "Figlio\nFiglio\nMadre"
+    },
+    "it/47/89/it_10406943.jpg": {
+        "mt": "10  \nRistretto  \nINTENSITÄT  \nESPRESSO  \nITALIEN  \nRistretto  \n-10x-  \nESSO  \nY  \nESSO  \nPRESSO  \nHERGESTELLT MIT  \nYe  \nKAPSELKOMPATIBEL  \nYEs  \nNESPRESSO  \nRESSO",
+        "ref": "Ristretto\n10\nINTENSITÄT",
+        "src": "Ristretto\n10\nINTENSITÀ"
+    },
+    "it/ed/e6/it_10373599.jpg": {
+        "mt": "eSTABItOCarbOthcllo  \n1400/642",
+        "ref": "STABILO\nCajal\nM 0.5 12",
+        "src": "STABILO\nCajal\nM 0.5 12"
+    },
+    "it/00/77/it_10365222.jpg": {
+        "mt": "uwnd\nITALIEN",
+        "ref": "PUMA\nITALIEN",
+        "src": "PUMA\nITALIA"
+    },
+    "it/09/4b/it_10360039.jpg": {
+        "mt": "Marmor  \nAus Holz  \nKeramik  \nGras",
+        "ref": "Holz\nMarmor\nKeramik\nGras",
+        "src": "Di legno\nMarmo\nCeramico\nErba"
+    },
+    "it/91/d3/it_10372068.jpg": {
+        "mt": "9 Zoll  \nX  \nAWESAFE",
+        "ref": "9 Zoll",
+        "src": "9 pollici"
+    },
+    "it/6f/bb/it_10375731.jpg": {
+        "mt": "2,5 cm  \n30 cm  \n28 W  \n2800 LM  \n3K/4K/6K  \nIP56 wasserdicht  \nRadarsensor Dämmerungssensor  \n30000 H  \nCRI85",
+        "ref": "28W\n2800LM\n3K/4K/6K\nIP56 Wasserdicht\n30000H\nCRI 85",
+        "src": "28W\n2800LM\n3K/4K/6K\nIP56 Impermeabile\n30000H\nCRI 85"
+    },
+    "it/33/42/it_10378881.jpg": {
+        "mt": "Spritzen  \nFluss",
+        "ref": "Spray\nFluss",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/9a/b6/it_10388908.jpg": {
+        "mt": "Schnellladung  \n3,0h  \n12V Eingang  \nUSBC  \n4,0h  \n5V Eingang  \niOS",
+        "ref": "Schnellladung\n3.0h\n12V Eingang\nUSB C\n4.0h\n5V Eingang\niOS",
+        "src": "Ricarica Rapida\n3.0h\n12V Ingresso\nUSB C\n4.0h\n5V Ingresso\niOS"
+    },
+    "it/fb/65/it_10405319.jpg": {
+        "mt": "Bronzi",
+        "ref": "Bronzi\n\n€20",
+        "src": "Bronzi\n\n€20"
+    },
+    "it/a1/81/it_10429688.jpg": {
+        "mt": "UV-C\nSicura\nSchutz",
+        "ref": "DESINFIZIERT\nUV-C\nDESINFIZIERT",
+        "src": "SANIFICATA\nUV-C\nSANITIZED"
+    },
+    "it/b6/01/it_10418706.jpg": {
+        "mt": "1  \ncm  \nPLASTICA  \ncm 10  \npubblinania",
+        "ref": "KUNSTSTOFF",
+        "src": "PLASTICA"
+    },
+    "it/50/6f/it_10385745.jpg": {
+        "mt": "Pittura  \nRuggine  \nLegno  \nMetallo",
+        "ref": "Malerei\nRost\nHolz\nMetall",
+        "src": "Pittura\nRuggine\nLegno\nMetallo"
+    },
+    "it/77/f9/it_10404800.jpg": {
+        "mt": "MLPIA\ntrodat\nContinua'Cosi!\nSUPER\nBLOROT\nPerfetto!",
+        "ref": "Perfekt!",
+        "src": "Perfetto!"
+    },
+    "it/8a/b7/it_10419746.jpg": {
+        "mt": "REGELBAR  \nSCHARFSTELLUNG  \nHoch  \nMittel  \nNiedrig  \nStroboskop  \nSOS",
+        "ref": "EINSTELLBARE FEUERSTELLUNG\nHoch\nMittel\nNiedrig\nStroboskop\nSOS",
+        "src": "REGOLABILE MESSA A FUOCO\nAlto\nMedio\nBasso\nStrobo\nSos"
+    },
+    "it/14/35/it_10360243.jpg": {
+        "mt": "Waden\nGesäß\nKnöchel\nBauchmuskeln\nSchultern\nArme",
+        "ref": "Oberschenkel\nKnöchel\nGesäß\nBauch\nSchultern\nArme",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/62/8a/it_10413719.jpg": {
+        "mt": "C\nFabio\nR",
+        "ref": "Fabio\nGiorgia\nPaolo",
+        "src": "Fabio\nGiorgia\nPaolo"
+    },
+    "it/94/3a/it_10384213.jpg": {
+        "mt": "CAFFE  \nCORSINI  \n1950",
+        "ref": "KAFFEE\nCORSINI\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/50/d8/it_10385899.jpg": {
+        "mt": "ENERGIE\nAnmossi\nTY-E14-LB\nA\nB\nD\nE\nE\nF\nG\n2019/2015\n12\nkWh/1000h",
+        "ref": "Anmossi\nTY-E14-LB\n\nE\n\n12\nkWh/1000h",
+        "src": "Anmossi\nTY-E14-LB\n\nE\n\n12\nkWh/1000h"
+    },
+    "it/f9/fa/it_10505837.jpg": {
+        "mt": "MILANO\nITALIEN\n60\n15\n30",
+        "ref": "GaG\nMILANO\nITALIEN",
+        "src": "GaG\nMILANO\nITALY"
+    },
+    "it/54/5d/it_10368472.jpg": {
+        "mt": "beper  \nbeper  \n2600W  \nbeper  \n2600W  \nSUPER POWER  \nBügeleisen",
+        "ref": "2600W\nBügeleisen",
+        "src": "2600W\nFerro da stiro"
+    },
+    "it/80/92/it_10424312.jpg": {
+        "mt": "Spritzen\nFluss",
+        "ref": "Spray\nFluss",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/86/bb/it_10395352.jpg": {
+        "mt": "CAFFE\nCORSINI\nI 9 5 O",
+        "ref": "KAFFEE\nCORSINI\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/05/14/it_10377266.jpg": {
+        "mt": "204mm  \n156mm  \nFREITAG  \n7 Zoll  \nMORGEN  \n88,2mm  \n11:56  \nVORMITTAGS  \n10,  \nJUNI  \n2022  \nTROCOTN",
+        "ref": "FREITAG\nMORGEN\n11:56\nA.M.\nJUNI\n2022\n10,\n7 Zoll",
+        "src": "VENEDRÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n2022\n10,\n7 Pollici"
+    },
+    "it/64/3d/it_10409850.jpg": {
+        "mt": "adre",
+        "ref": "Tochter\nSohn\nMutter",
+        "src": "Figlia\nFiglio\nMadre"
+    },
+    "it/d7/8e/it_10395143.jpg": {
+        "mt": "Spritzen  \nFluss",
+        "ref": "Spray\nFluss",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/97/e1/it_10400298.jpg": {
+        "mt": "Bitte geben Sie die OCR-extrahierten Texte an, die Sie ins Deutsche übersetzen möchten.",
+        "ref": "Razzella",
+        "src": "Razzella"
+    },
+    "it/e9/b5/it_10405189.jpg": {
+        "mt": "Riccardo",
+        "ref": "Riccardo",
+        "src": "Riccardo"
+    },
+    "it/f0/9d/it_10433253.jpg": {
+        "mt": "Männer\nMänner\nÄlterer Mann\nJugendliche\nKinder\nKind",
+        "ref": "Frauen\nMänner\nÄlterer\nJunge\nKinder\nKind",
+        "src": "Donne\nUomini\nAnziano\nGiovani\nBambini\nBambino"
+    },
+    "it/c9/53/it_10362206.jpg": {
+        "mt": "Balkone\nCafeteria\nRestaurant",
+        "ref": "Balkon\nCafeteria\nRestaurant",
+        "src": "Balcone\nCaffetteria\nRistorante"
+    },
+    "it/ea/64/it_10372846.jpg": {
+        "mt": "6x\n30\nTag",
+        "ref": "6x\n30 Tage",
+        "src": "6x\n30 giorni"
+    },
+    "it/34/a5/it_10382700.jpg": {
+        "mt": "Verschiedene Abmessungen  \n18L  \n28cm  \n26,5cm  \n5cm  \n2b  \n30L  \n41L  \n30cm  \n30cm  \n33cm  \n38cm",
+        "ref": "Verschiedene Abmessungen\n18L\n30L\n41L",
+        "src": "Dimensioni varie\n18L\n30L\n41L"
+    },
+    "it/4d/ba/it_10393073.jpg": {
+        "mt": "aaoona\n-1901\nOMECNA-ITALIA",
+        "ref": "Lagostina\n1901\nOMEGNA - ITALIEN",
+        "src": "Lagostina\n1901\nOMEGNA - ITALIA"
+    },
+    "it/ff/95/it_10422829.jpg": {
+        "mt": "Balkone  \nCafeteria  \nRestaurant",
+        "ref": "Balkon\nCafeteria\nRestaurant",
+        "src": "Balcone\nCaffetteria\nRistorante"
+    },
+    "it/6b/fb/it_10387940.jpg": {
+        "mt": "Waden\nGesäß\nKnöchel\nBauchmuskeln\nSchultern\nArme",
+        "ref": "Oberschenkel\nKnöchel\nGesäß\nBauch\nSchultern\nArme",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/61/7f/it_10412409.jpg": {
+        "mt": "PUZZLE\n500\nTEILE\nD1&S\nCE",
+        "ref": "PUZZLE\n500 TEILE\nD10S",
+        "src": "PUZZLE\n500 PEZZI\nD10S"
+    },
+    "it/2c/0d/it_10381956.jpg": {
+        "mt": "Vorne  \nSeite  \nHinten",
+        "ref": "Vorne\nSeite\nHinten",
+        "src": "Davanti\nLato\nDietro"
+    },
+    "it/d4/5b/it_10314329.jpg": {
+        "mt": "Mlessid",
+        "ref": "Alessia",
+        "src": "Alessia"
+    },
+    "it/fd/47/it_10362611.jpg": {
+        "mt": "Bacchus.1596  \nFSC  \nEcolabel  \n250gr HOCHWERTIGES PAPIER",
+        "ref": "Bacchus, 1596",
+        "src": "Bacchus, 1596"
+    },
+    "it/28/36/it_10429597.jpg": {
+        "mt": "COUTURE\nMOSCHINO\nCOUTURE!\nMailand",
+        "ref": "MOSCHINO\nCOUTURE !\nMailand",
+        "src": "MOSCHINO\nCOUTURE !\nMilano"
+    },
+    "it/75/e6/it_10428580.jpg": {
+        "mt": "IT: Einzelbett  \nES: Einzelbett 80  \nDE/FR/SE/PL/BE: 140x200 cm",
+        "ref": "Einzel",
+        "src": "Singolo"
+    },
+    "it/85/60/it_10421731.jpg": {
+        "mt": "pubblinania\"\nGebaut, um zu halten!\n20",
+        "ref": "20",
+        "src": "20"
+    },
+    "it/cb/f2/it_10385268.jpg": {
+        "mt": "medipartners\ncores naturol\n1009\n<-\nElastico",
+        "ref": "Elastisch",
+        "src": "Elastico"
+    },
+    "it/ef/4f/it_10394278.jpg": {
+        "mt": "STABILO  \nCarbOthello  \n1400/655***",
+        "ref": "STABILO\nCappuccino\nM 155",
+        "src": "STABILO\nCappuccino\nM 155"
+    },
+    "it/df/37/it_10412261.jpg": {
+        "mt": "VERSION\nVORHERIGE\nMulticentrum\nALRON\nhat\nMulticentrum\nKids\nKomplett von A bis Zink\nErgänzung\nNEUES AUSSEHEN",
+        "ref": "NEUES AUSSEHEN",
+        "src": "NUOVO LOOK"
+    },
+    "it/c7/1d/it_10418764.jpg": {
+        "mt": "IT: Einzelbett  \nES: Bett 80  \nDE/FR/SE/PL/BE: 135x200 cm",
+        "ref": "Einzel",
+        "src": "Singolo"
+    },
+    "it/9f/bf/it_10417920.jpg": {
+        "mt": "Jede Art von Bedarf erfüllen\n15W/3.0A\nUSBC\n12W/2.4A",
+        "ref": "Jeden Bedarf erfüllen\nAC 4000W/16A\nUSB C 15W/3.0A\nUSB 12W/2.4A",
+        "src": "Soddisfare ogni tipo di esigenza\nAC 4000W/16A\nUSB C 15W/3.0A\nUSB 12W/2.4A"
+    },
+    "it/cf/7a/it_10374165.jpg": {
+        "mt": "Maske\nKleidung\nHut\nX\nMefine\nSpielzeug\nSchuhe\nTasche",
+        "ref": "Maske\nKleidung\nHut\nSpielzeug\nSchuhe\nTasche",
+        "src": "Maschera\nVestiti\nCappello\nGiocattolo\nScarpe\nBorsa"
+    },
+    "it/55/14/it_10408520.jpg": {
+        "mt": "Zanzare  \nMosche  \nMücken  \nMotten  \nWespen  \nFruchtfliegen",
+        "ref": "Mücken\nFliegen\nGnitzen\nMotten\nWespen\nFruchtfliegen",
+        "src": "Zanzare\nMosche\nMoscerini\nFalene\nVespe\nDrosophila"
+    },
+    "it/3a/98/it_10431135.jpg": {
+        "mt": "Maske  \nKleidung  \nHut  \nX  \nHandschuhe  \nSpielzeug  \nSchuhe  \nTasche",
+        "ref": "Maske\nKleidung\nHut\nSpielzeug\nSchuhe\nTasche",
+        "src": "Maschera\nVestiti\nCappello\nGiocattolo\nScarpe\nBorsa"
+    },
+    "it/83/c6/it_10340211.jpg": {
+        "mt": "CHANNO\n88056312\n90%\nMANN",
+        "ref": "CHANNON\nS\n90% POLYESTER\nMANN",
+        "src": "CHANNON\nS\n90% POLY\nUOMO"
+    },
+    "it/1a/32/it_10427922.jpg": {
+        "mt": "Oberschenkel\nGesäß\nKnöchel\nBauchmuskeln\nSchultern\nArme",
+        "ref": "Oberschenkel\nKnöchel\nGesäß\nBauch\nSchultern\nArme",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/ce/84/it_10391303.jpg": {
+        "mt": "Bronzio\nRFID)\nBronzi\nBRAND Italienisch",
+        "ref": "Bronzi®\nRFID",
+        "src": "Bronzi®\nRFID"
+    },
+    "it/1b/97/it_10400824.jpg": {
+        "mt": "IT: Einzelbett\nES: Cama80\nDE/FR/SE/PL/BE: 135x200cm",
+        "ref": "Einzel",
+        "src": "Singolo"
+    },
+    "it/e3/69/it_10390282.jpg": {
+        "mt": "Guomsis\nCommes\nGitter\nRosso\n10-2000\nNETY",
+        "ref": "Rot\nWeiß\nGold",
+        "src": "Rosso\nBianco\nOro"
+    },
+    "it/02/71/it_10367541.jpg": {
+        "mt": "KOMME SLUSA: SCHWEFEL PELLETTIERT\n1\nCYCASANA\nfür Cyca\nder Hoffnung\n2\n3",
+        "ref": "WIE MAN ES VERWENDET: GRANULIERTER SCHWEFEL\n1\n2\n3",
+        "src": "COME SI USA: ZOLFO PELLETTATO\n1\n2\n3"
+    },
+    "it/92/56/it_10389538.jpg": {
+        "mt": "39  \nPEGHCHA  \nBlueline  \nXBlue  \nPATCE",
+        "ref": "39\nHERGESTELLT IN ITALIEN\nBlueline\nXceto",
+        "src": "39\nMADE IN ITALY\nBlueline\nXceto"
+    },
+    "it/20/f7/it_10427110.jpg": {
+        "mt": "Spritzen  \nFluss",
+        "ref": "Spray\nFluss",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/60/f8/it_10371481.jpg": {
+        "mt": "CAFFE  \nCORSINI  \nO",
+        "ref": "KAFFEE\nCORSINI\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/52/85/it_10413413.jpg": {
+        "mt": "DETAILS  \nLiegematte  \nBall  \nHundehütte",
+        "ref": "DETAILS\nBett\nBall\nHöhle",
+        "src": "DETTAGLI\nLettino\nPallina\nCuccia"
+    },
+    "it/15/6a/it_10378578.jpg": {
+        "mt": "pubblinania\nBuilttolast!\nMADEinITALY",
+        "ref": "Zutritt verboten",
+        "src": "Divieto di accesso"
+    },
+    "it/8b/ab/it_10363322.jpg": {
+        "mt": "ONESTE\nN'34\nLAYLA'",
+        "ref": "GEL-NAGELLACK\nNr. 34\nLAYLA\nKOSMETIK\nMAILAND - ITALIEN",
+        "src": "SMALTO GEL\nN°34\nLAYLA\nCOSMETICS\nMILANO - ITALY"
+    },
+    "it/92/41/it_10389773.jpg": {
+        "mt": "STABILOCarbOthello\n1400/670**",
+        "ref": "STABILO\nKaramell\n1401/870",
+        "src": "STABILO\nCaramello\n1401/870"
+    },
+    "it/17/d8/it_10423297.jpg": {
+        "mt": "MOSCHINO\nCOUTURE!\nMailand",
+        "ref": "MOSCHINO\nCOUTURE !\nMailand",
+        "src": "MOSCHINO\nCOUTURE !\nMilano"
+    },
+    "it/e8/44/it_10407467.jpg": {
+        "mt": "Waden\nGesäß\nKnöchel\nBauchmuskeln\nSchultern\nArme",
+        "ref": "Oberschenkel\nWaden\nGesäß\nBauchmuskeln\nSchultern\nArme",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/2f/b5/it_10413979.jpg": {
+        "mt": "PUZZLE\n1000\nTEILE\nD1&S",
+        "ref": "PUZZLE\n1000 TEILE\nD10S\nDiego",
+        "src": "PUZZLE\n1000 PEZZI\nD10S\nDiego"
+    },
+    "it/8f/cb/it_10055675.jpg": {
+        "mt": "PRADA\nMAILAND",
+        "ref": "PRADA\nHergestellt in Italien\nCE",
+        "src": "PRADA\nMade in Italy\nCE"
+    },
+    "it/b5/94/it_10409462.jpg": {
+        "mt": "pubblimania\nBuifttolast!\nHergestellt in Italien",
+        "ref": "15",
+        "src": "15"
+    },
+    "it/ef/64/it_10394439.jpg": {
+        "mt": "PLASTIK  \nGLAS  \nGEMISCHT  \nMETALL  \npubblinania  \nFEUCHT  \nwww.pubblimania.com  \nPAPIER",
+        "ref": "KUNSTSTOFF\nGLAS\nMISCHEN\nMETALL\nFEUCHT\nPAPIER",
+        "src": "PLASTICA\nVETRO\nMISTO\nMETALLO\nUMIDO\nCARTA"
+    },
+    "it/97/22/it_10400159.jpg": {
+        "mt": "Für alle Haartypen",
+        "ref": "Für Alle Haartypen\n1\n2A\n2B\n2C\n3A\n3B\n3C",
+        "src": "Per Tutti i Tipi di Capelli\n1\n2A\n2B\n2C\n3A\n3B\n3C"
+    },
+    "it/7b/e4/it_10398026.jpg": {
+        "mt": "ENERGIE\nAnmossi\nTY-CDG40DC-25\nA\nB\nC\nD\nE\nE\nF\nG\n2019/2015\n12\nkWh/1000h",
+        "ref": "Anmossi\nTY-CDG40DC-25\n12\nkWh/1000h",
+        "src": "Anmossi\nTY-CDG40DC-25\n12\nkWh/1000h"
+    },
+    "it/bd/b1/it_10403237.jpg": {
+        "mt": "Für alle Haartypen",
+        "ref": "Für Alle Haartypen\n1\n2A\n2B\n2C\n3A\n3B\n3C",
+        "src": "Per Tutti i Tipi di Capelli\n1\n2A\n2B\n2C\n3A\n3B\n3C"
+    },
+    "it/44/70/it_10397559.jpg": {
+        "mt": "PUZZEL\n1000\nTEILE\nD1&S",
+        "ref": "PUZZLE 1000 TEILE\nD10S\nDiego\n(10)",
+        "src": "PUZZLE 1000 PEZZI\nD10S\nDiego\n(10)"
+    },
+    "it/d1/43/it_10380722.jpg": {
+        "mt": "Balkon\nBalkon\nVIELSEITIG\n3\nSchlafzimmer\nPortikus",
+        "ref": "VIELSEITIG\n1\nBalkon\n2\nBalkon\n3\nSchlafzimmer\n4\nVeranda",
+        "src": "VERSATILE\n1\nBalcone\n2\nBalcone\n3\nCamera da letto\n4\nPortico"
+    },
+    "it/16/e6/it_10431566.jpg": {
+        "mt": "Verfügbar in 3 Größen  \n20cm  \n80cm  \nM  \n300cm  \n120cm  \n30cm  \n160cm",
+        "ref": "Verfügbar in 3 Größen\nS\nM\nL",
+        "src": "Disponibile in 3 Misure\nS\nM\nL"
+    },
+    "it/3e/c9/it_10422279.jpg": {
+        "mt": "Waden\nGesäß\nKnöchel\nBauchmuskeln\nSchultern\nArme",
+        "ref": "Oberschenkel\nWaden\nGesäß\nBauchmuskeln\nSchultern\nArme",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/28/18/it_10429650.jpg": {
+        "mt": "Matteo\nChiara\nMattia",
+        "ref": "Mattia\nChiara\nMatteo",
+        "src": "Mattia\nChiara\nMatteo"
+    },
+    "it/2a/67/it_10371097.jpg": {
+        "mt": "Haus\nBüro\nIm Freien",
+        "ref": "Zuhause\nBüro\nDraußen",
+        "src": "Casa\nUfficio\nAll'Aperto"
+    },
+    "it/35/62/it_10403136.jpg": {
+        "mt": "EIAZZO",
+        "ref": "Deck V1\nMadame\nIC 67%",
+        "src": "Mazzo V1\nMadame\nIC 67%"
+    },
+    "it/3b/37/it_10430572.jpg": {
+        "mt": "248mm  \n222mm  \nFREITAG  \n10.1 Zoll  \nMORGEN  \n11:56  \nUHR  \n10.  \nJUNI  \n2022  \nTROCOTN",
+        "ref": "FREITAG\nMORGEN\n11:56\nA.M.\nJUNI\n10,\n2022",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n10,\n2022"
+    }
+}

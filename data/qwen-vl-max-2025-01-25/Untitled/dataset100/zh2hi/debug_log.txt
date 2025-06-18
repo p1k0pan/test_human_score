@@ -1,0 +1,91 @@
+开始调试: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/logo/zh2hi.json
+文件中第一个图像键: logo/logo_0005.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/主体人工文字/zh2hi.json
+文件中第一个图像键: 主体人工文字/主体人工文字_0006.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/主体自然文字/zh2hi.json
+文件中第一个图像键: 主体自然文字/主体自然文字_0006.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/倾斜文本/zh2hi.json
+文件中第一个图像键: 倾斜文本/倾斜文本_0001.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/同一词翻译一致/zh2hi.json
+文件中第一个图像键: 同一词翻译一致/同一词翻译一致_0001.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/同行文本高度不同/zh2hi.json
+文件中第一个图像键: 同行文本高度不同/同行文本高度不同_0036.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/含字色块牛皮鲜/zh2hi.json
+文件中第一个图像键: 含字色块牛皮鲜/含字色块牛皮鲜_0015.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/品牌logo/zh2hi.json
+文件中第一个图像键: 品牌logo/品牌logo_0010.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/商品自然文字/zh2hi.json
+文件中第一个图像键: 商品自然文字/商品自然文字_0039.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/圆弧形文字/zh2hi.json
+文件中第一个图像键: 圆弧形文字/圆弧形文字_0006.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/圆弧形文字/zh2hi_empty.json
+文件中第一个图像键: 圆弧形文字/圆弧形文字_0014.jpg
+项目中的键: ['zh']
+警告: 文件中的项目缺少'mt'键 /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/圆弧形文字/zh2hi_empty.json
+  样本 1: 图像=圆弧形文字/圆弧形文字_0014.jpg, 键=['zh']
+在文件 /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/圆弧形文字/zh2hi_empty.json 中, 图像 圆弧形文字/圆弧形文字_0014.jpg 缺少'mt'键
+  可用键: ['zh']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/多行文本合并/zh2hi.json
+文件中第一个图像键: 多行文本合并/多行文本合并_0003.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/字体颜色/zh2hi.json
+文件中第一个图像键: 字体颜色/字体颜色_0013.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/字号大小一致/zh2hi.json
+文件中第一个图像键: 字号大小一致/字号大小一致_0012.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/文字完全在商品主体上/zh2hi.json
+文件中第一个图像键: 文字完全在商品主体上/文字完全在商品主体上_0004.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/文字部分在商品主体上/zh2hi.json
+文件中第一个图像键: 文字部分在商品主体上/文字部分在商品主体上_0010.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/竖体文字/zh2hi.json
+文件中第一个图像键: 竖体文字/竖体文字_0021.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/翻译3.5中文/zh2hi.json
+文件中第一个图像键: 翻译3.5中文/翻译3.5中文_0002.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/艺术字花体字/zh2hi.json
+文件中第一个图像键: 艺术字花体字/艺术字花体字_0013.jpg
+项目中的键: ['mt', 'src']
+
+处理文件: /mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/表格尺码/zh2hi.json
+文件中第一个图像键: 表格尺码/表格尺码_0010.jpg
+项目中的键: ['mt', 'src']
+
+
+问题文件总结:
+/mnt/data/users/liamding/data/MTI/evaluations/qwen-vl-max-2025-01-25/dataset100/zh2hi/圆弧形文字/zh2hi_empty.json: 缺少'mt'键
+
+加载完成. 共处理 100 个翻译

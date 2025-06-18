@@ -1,0 +1,502 @@
+{
+    "it/43/53/it_10412664.jpg": {
+        "mt": "ส\nบุคคล\nพ่อ\nอาหาร\nนม\nสัตว์\n49\nเลอ\nแมว\nคอ\nรถบัส\nสุนัข\nสุนัข\nสัตว์\nรถบัส",
+        "ref": "สุนัข\nแมว\nพ่อ\nรถบัส\nนม",
+        "src": "Cane\nGatto\nPadre\nAutobus\nLatte"
+    },
+    "it/8f/ac/it_10417366.jpg": {
+        "mt": "เนเว\nพายุทราย\nแดด\nลูกเห็บ\nฝุ่น\nฝน",
+        "ref": "หิมะ\nพายุทราย\nดวงอาทิตย์\nฝุ่น\nลูกเห็บ\nฝน",
+        "src": "Neve\nTempesta di sabbia\nSole\nPolvere\nGrandine\nPioggia"
+    },
+    "it/03/d9/it_10388340.jpg": {
+        "mt": "การติดตั้งง่าย\nเพียงไม่กี่ขั้นตอน",
+        "ref": "การประกอบที่ง่าย\nใช้เวลาเพียงไม่กี่ขั้นตอน\n1\n2\n3\n4\n5",
+        "src": "Montaggio semplice\nBastano pochi passaggi\n1\n2\n3\n4\n5"
+    },
+    "it/97/1b/it_10400237.jpg": {
+        "mt": "การติดตั้ง\nไอเอ็ม\nเอ็ม",
+        "ref": "การติดตั้ง\n1\n2\n3\n4",
+        "src": "installazione\n1\n2\n3\n4"
+    },
+    "it/06/41/it_10408485.jpg": {
+        "mt": "ออลอาเปร์โต\nดิว่าโน\nออโต้\nอูมาโน\nเลตโต\nปาฟิเมนติ",
+        "ref": "กลางแจ้ง\nรถ\nมนุษย์\nโซฟา\nเตียง\nพื้นต่างๆ",
+        "src": "All'aperto\nAuto\nUmano\nDivano\nLetto\nPavimenti"
+    },
+    "it/43/44/it_10412741.jpg": {
+        "mt": "บูโอโน่!\nโทรดัท\nปริ้นตี้4910",
+        "ref": "ดี!",
+        "src": "Buono!"
+    },
+    "it/e9/ba/it_10405277.jpg": {
+        "mt": "คอสเช่\nกลูเต\nคาวิเกลี\nแอบส์\nสปาลเล\nบรัชชา",
+        "ref": "ต้นขา\nน่อง\nกล้ามเนื้อก้น\nหน้าท้อง\nไหล่\nแขน",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/9a/ca/it_10388965.jpg": {
+        "mt": "ริคคาร์โด",
+        "ref": "ริคคาร์โด",
+        "src": "Riccardo"
+    },
+    "it/e2/91/it_10381137.jpg": {
+        "mt": "25\nวาย",
+        "ref": "ดีเลตต้า",
+        "src": "Diletta"
+    },
+    "it/14/cd/it_10360277.jpg": {
+        "mt": "ตอบสนองความต้องการทุกประเภท\n15W/3.0A\nUSB.C\n12W/2.4A",
+        "ref": "ตอบสนองทุกความต้องการ\nAC 4000W/16A\nUSB C 15W/3.0\nUSB A 12W/2.4",
+        "src": "Soddisfare ogni tipo di esigenza\nAC 4000W/16A\nUSB C 15W/3.0\nUSB A 12W/2.4"
+    },
+    "it/6b/28/it_10388036.jpg": {
+        "mt": "248 มม.\n222 มม.\nวันศุกร์\n10.1 นิ้ว\nเช้า\n11:56\nก่อนเที่ยง\n10,\nมิถุนายน\n2022\nTROCOTN",
+        "ref": "วันศุกร์\nเช้า\n11:56\nA.M.\n10,\nมิถุนายน\n2022",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\n10,\nGIUGNO\n2022"
+    },
+    "it/c0/75/it_10394247.jpg": {
+        "mt": "CORRENTE\n6000A\n26800mAh\nDIPICCO\n24\nTCP1197\nAndiamo avanti !\n8.5L\nFE\n4.0L\n6.0L",
+        "ref": "กระแสสูงสุด\n6000A\n26800 mAh\nไปข้างหน้ากันเถอะ!\n4.0L\n6.0L\n8.5L",
+        "src": "CORRENTE DI PICCO\n6000A\n26800 mAh\nAndiamo avanti !\n4.0L\n6.0L\n8.5L"
+    },
+    "it/ee/e5/it_10373217.jpg": {
+        "mt": "หญิง\nชาย\nผู้สูงอายุ\nคนหนุ่มสาว\nเด็ก ๆ\nเด็ก",
+        "ref": "ผู้หญิง\nผู้ชาย\nผู้สูงอายุ\nวัยรุ่น\nเด็ก\nเด็กชาย",
+        "src": "Donne\nUomini\nAnziano\nGiovani\nBambini\nBambino"
+    },
+    "it/90/80/it_10379274.jpg": {
+        "mt": "ทรอดัท\nปริ้นตี้4912\nเพอร์เฟตโต!\n18 มม.\n47 มม.",
+        "ref": "สมบูรณ์แบบ!",
+        "src": "Perfetto!"
+    },
+    "it/9c/6e/it_10396800.jpg": {
+        "mt": "IT:ซิงโกล\nES:คามา 80\nDE/FR/SE/PL/BE135200cm",
+        "ref": "เตียงเดี่ยว",
+        "src": "Singolo"
+    },
+    "it/bf/7a/it_10377070.jpg": {
+        "mt": "รายการข้อความที่ได้จากการสแกน OCR:",
+        "ref": "มานูเอล่า",
+        "src": "Manuela"
+    },
+    "it/83/58/it_10417003.jpg": {
+        "mt": "ปริศนา\n500\nชิ้น\n0\nD1&S\nซีอีโอ",
+        "ref": "จิ๊กซอว์\n500 ชิ้น\nพระเจ้า",
+        "src": "PUZZLE\n500 PEZZI\nDIOS"
+    },
+    "it/d0/a5/it_10392328.jpg": {
+        "mt": "มอนตาตาในไม่กี่ขั้นตอน",
+        "ref": "ประกอบในไม่กี่ขั้นตอน\n1\n2\n3\n4\n5",
+        "src": "Montata in pochi passaggi\n1\n2\n3\n4\n5"
+    },
+    "it/ed/c8/it_10373632.jpg": {
+        "mt": "จีโอคัตโตโล 3IN 1\nโดนโดโล\nสคิโวโล\nคาเนสโตร",
+        "ref": "ของเล่น 3 IN 1\nโยก\nสไลด์\nตะกร้า",
+        "src": "GIOCATTolo 3 IN 1\nDondolo\nScivolo\nCanestro"
+    },
+    "it/a3/6a/it_10373914.jpg": {
+        "mt": "204 มม.\n156 มม.\nวันศุกร์\n7 นิ้ว\nเช้า\n88.2 มม.\n11:56\nก่อนเที่ยง\n10,\nมิถุนายน\n2022\nTROCOTN",
+        "ref": "วันศุกร์\nเช้า\n11:56\nA.M.\nมิถุนายน\n2022\n7 นิ้ว",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n2022\n7 Pollici"
+    },
+    "it/93/39/it_10409006.jpg": {
+        "mt": "อาเดร",
+        "ref": "ลูกชาย\nลูกชาย\nแม่",
+        "src": "Figlio\nFiglio\nMadre"
+    },
+    "it/47/89/it_10406943.jpg": {
+        "mt": "10\nริสเตรตโต\nอินเทนซิตา\nเอสเปรสโซ\nอิตาลี\nริสเตรตโต\n-10x-\nเอสโซ\nวาย\nเอสโซ\nเปรสโซ\nเมดวิท\nเย\nแคปซูลคอมฟ\nเยส\nเนสเปรส\nเรสโซ",
+        "ref": "ริสเตรตโต\n10\nความเข้ม",
+        "src": "Ristretto\n10\nINTENSITÀ"
+    },
+    "it/ed/e6/it_10373599.jpg": {
+        "mt": "eSTABItOCarbOthcllo\n1400/642",
+        "ref": "STABILO\nCajal\nM 0.5 12",
+        "src": "STABILO\nCajal\nM 0.5 12"
+    },
+    "it/00/77/it_10365222.jpg": {
+        "mt": "uwnd\nอิตาลี",
+        "ref": "PUMA\nอิตาลี",
+        "src": "PUMA\nITALIA"
+    },
+    "it/09/4b/it_10360039.jpg": {
+        "mt": "หินอ่อน\nไม้\nเซรามิก\nหญ้า",
+        "ref": "ไม้\nหินอ่อน\nเซรามิก\nหญ้า",
+        "src": "Di legno\nMarmo\nCeramico\nErba"
+    },
+    "it/91/d3/it_10372068.jpg": {
+        "mt": "9 นิ้ว\nX\nAWESAFE",
+        "ref": "9 นิ้ว",
+        "src": "9 pollici"
+    },
+    "it/6f/bb/it_10375731.jpg": {
+        "mt": "2.5 ซม.\n30 ซม.\n28W\n2800LM\n3K/4K/6K\nIP56 ทนน้ำได้\nเซ็นเซอร์เรดาร์ เซ็นเซอร์แสงสลัว\n30000H\nCRI85",
+        "ref": "28W\n2800LM\n3K/4K/6K\nIP56 กันน้ำ\n30000H\nCRI 85",
+        "src": "28W\n2800LM\n3K/4K/6K\nIP56 Impermeabile\n30000H\nCRI 85"
+    },
+    "it/33/42/it_10378881.jpg": {
+        "mt": "สเปรย์\nฟลักซ์",
+        "ref": "พ่น\nการไหล",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/9a/b6/it_10388908.jpg": {
+        "mt": "Ricarica Rapida\n3.0 ชม.\n12V Ingresso\nUSBC\n4.0 ชม.\n5VIngresso\nios",
+        "ref": "การชาร์จเร็ว\n3.0ชม.\n12V อินพุต\nUSB C\n4.0ชม.\n5V อินพุต\niOS",
+        "src": "Ricarica Rapida\n3.0h\n12V Ingresso\nUSB C\n4.0h\n5V Ingresso\niOS"
+    },
+    "it/fb/65/it_10405319.jpg": {
+        "mt": "บรอนซี",
+        "ref": "Bronzi\n\n€20",
+        "src": "Bronzi\n\n€20"
+    },
+    "it/a1/81/it_10429688.jpg": {
+        "mt": "UV-C\nซิคูรา\nการป้องกัน",
+        "ref": "ฆ่าเชื้อแล้ว\nUV-C\nฆ่าเชื้อแล้ว",
+        "src": "SANIFICATA\nUV-C\nSANITIZED"
+    },
+    "it/b6/01/it_10418706.jpg": {
+        "mt": "1  \nซม.  \nพลาสติกา  \nซม. 10  \nพับบลินาเนีย",
+        "ref": "พลาสติก",
+        "src": "PLASTICA"
+    },
+    "it/50/6f/it_10385745.jpg": {
+        "mt": "ภาพวาด\nสนิม\nไม้\nโลหะ",
+        "ref": "การวาดภาพ\nสนิม\nไม้\nโลหะ",
+        "src": "Pittura\nRuggine\nLegno\nMetallo"
+    },
+    "it/77/f9/it_10404800.jpg": {
+        "mt": "MLPIA\ntrodat\nContinua'Cosi!\nSUPEF\nBLOROT\nPerfetto!",
+        "ref": "สมบูรณ์แบบ!",
+        "src": "Perfetto!"
+    },
+    "it/8a/b7/it_10419746.jpg": {
+        "mt": "ปรับได้\nโฟกัส\nสูง\nกลาง\nต่ำ\nสโตรโบ\nSOS",
+        "ref": "การตั้งค่าไฟที่ปรับได้\nสูง\nกลาง\nต่ำ\nแฟลช\nSOS",
+        "src": "REGOLABILE MESSA A FUOCO\nAlto\nMedio\nBasso\nStrobo\nSos"
+    },
+    "it/14/35/it_10360243.jpg": {
+        "mt": "คอสเช่\nกลูเต\nคาลเกีย\nแอ็บ\nสปาลเล\nบราเซีย",
+        "ref": "ต้นขา\nข้อเท้า\nกล้ามเนื้อสะโพก\nกล้ามเนื้อท้อง\nไหล่\nแขน.",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/62/8a/it_10413719.jpg": {
+        "mt": "ซี\nฟาบิโอ\nอาร์",
+        "ref": "ฟาบิโอ\nจอร์เจีย\nปาโล",
+        "src": "Fabio\nGiorgia\nPaolo"
+    },
+    "it/94/3a/it_10384213.jpg": {
+        "mt": "คาเฟ่\nคอร์ซินี\n1950",
+        "ref": "กาแฟ\nคอร์ซินี\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/50/d8/it_10385899.jpg": {
+        "mt": "พลังงาน\nอันมอสซี่\nTY-E14-LB\nเอ\nบี\nดี\nอี\nอี\nเอฟ\nจี\n2019/2015\n12\nกิโลวัตต์ชั่วโมง/1000ชั่วโมง",
+        "ref": "Anmossi\nTY-E14-LB\n\nE\n\n12\nkWh/1000h",
+        "src": "Anmossi\nTY-E14-LB\n\nE\n\n12\nkWh/1000h"
+    },
+    "it/f9/fa/it_10505837.jpg": {
+        "mt": "มิลาน\nอิตาลี\n60\n15\n30",
+        "ref": "GaG\nมิลาน\nอิตาลี",
+        "src": "GaG\nMILANO\nITALY"
+    },
+    "it/54/5d/it_10368472.jpg": {
+        "mt": "เบเปอร์  \nเบเปอร์  \n2600W  \nเบเปอร์  \n2600W  \nซูเปอร์พาวเวอร์  \nเหล็กรีดผ้า",
+        "ref": "2600W\nเตารีด",
+        "src": "2600W\nFerro da stiro"
+    },
+    "it/80/92/it_10424312.jpg": {
+        "mt": "พ่น\nกระแส",
+        "ref": "พ่น\nการไหล",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/86/bb/it_10395352.jpg": {
+        "mt": "คาเฟ่\nคอร์ซินี\nI 9 5 o",
+        "ref": "กาแฟ\nคอร์ซินี\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/05/14/it_10377266.jpg": {
+        "mt": "204 มม.\n156 มม.\nวันศุกร์\n7 นิ้ว\nตอนเช้า\n88.2 มม.\n11:56\nA.M.\n10,\nมิถุนายน\n2022\nTROCOTN",
+        "ref": "วันศุกร์\nเช้า\n11:56\nA.M.\nมิถุนายน\n2022\n10,\n7 นิ้ว",
+        "src": "VENEDRÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n2022\n10,\n7 Pollici"
+    },
+    "it/64/3d/it_10409850.jpg": {
+        "mt": "ที่อยู่",
+        "ref": "ลูกสาว\nลูกชาย\nแม่",
+        "src": "Figlia\nFiglio\nMadre"
+    },
+    "it/d7/8e/it_10395143.jpg": {
+        "mt": "สเปรย์\nฟลักซ์",
+        "ref": "พ่น\nการไหล",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/97/e1/it_10400298.jpg": {
+        "mt": "รายการข้อความที่ได้รับจาก OCR:\n1. สวัสดีครับ\n2. คุณสบายดีไหม\n3. วันนี้อากาศดีมาก\n4. ฉันชอบกินอาหารไทย\n5. ขอบคุณมากครับ",
+        "ref": "ราซเซลล่า",
+        "src": "Razzella"
+    },
+    "it/e9/b5/it_10405189.jpg": {
+        "mt": "ริคคาร์โด",
+        "ref": "ริคคาร์โด",
+        "src": "Riccardo"
+    },
+    "it/f0/9d/it_10433253.jpg": {
+        "mt": "ผู้หญิง\nผู้ชาย\nผู้สูงอายุ\nคนหนุ่มสาว\nเด็ก ๆ\nเด็กชาย",
+        "ref": "ผู้หญิง\nผู้ชาย\nผู้สูงอายุ\nวัยรุ่น\nเด็ก\nเด็กชาย",
+        "src": "Donne\nUomini\nAnziano\nGiovani\nBambini\nBambino"
+    },
+    "it/c9/53/it_10362206.jpg": {
+        "mt": "ระเบียง\nคาเฟ่\nร้านอาหาร",
+        "ref": "ระเบียง\nคาเฟ่\nร้านอาหาร",
+        "src": "Balcone\nCaffetteria\nRistorante"
+    },
+    "it/ea/64/it_10372846.jpg": {
+        "mt": "6x\n30\ngiorn",
+        "ref": "6x\n30 วัน",
+        "src": "6x\n30 giorni"
+    },
+    "it/34/a5/it_10382700.jpg": {
+        "mt": "ขนาดต่าง ๆ\n18 ลิตร\n28 ซม.\n26.5 ซม.\n5 ซม.\n2b\n30 ลิตร\n41 ลิตร\n30 ซม.\n30 ซม.\n33 ซม.\n38 ซม.",
+        "ref": "ขนาดต่างๆ\n18L\n30L\n41L",
+        "src": "Dimensioni varie\n18L\n30L\n41L"
+    },
+    "it/4d/ba/it_10393073.jpg": {
+        "mt": "อาโอออนา\n-1901\nโอเมกนา-อิตาลี",
+        "ref": "ลากอสตินา\n1901\nโอเมญา - อิตาลี",
+        "src": "Lagostina\n1901\nOMEGNA - ITALIA"
+    },
+    "it/ff/95/it_10422829.jpg": {
+        "mt": "บัลโคนี\nคาเฟ่\nร้านอาหาร",
+        "ref": "ระเบียง\nคาเฟ่\nร้านอาหาร",
+        "src": "Balcone\nCaffetteria\nRistorante"
+    },
+    "it/6b/fb/it_10387940.jpg": {
+        "mt": "คอสเช่\nกลูเต\nคาวิเกลี\nแอ็บส์\nสปัลเล่\nบรัชเชีย",
+        "ref": "ต้นขา\nข้อเท้า\nก้น\nกล้ามท้อง\nไหล่\nแขน",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/61/7f/it_10412409.jpg": {
+        "mt": "ปริศนา\n500\nชิ้น\nD1&S\nซีอี",
+        "ref": "จิ๊กซอว์\n500 ชิ้น\nD10S",
+        "src": "PUZZLE\n500 PEZZI\nD10S"
+    },
+    "it/2c/0d/it_10381956.jpg": {
+        "mt": "ดาวันติ\nลาโต\nดิเอโตร",
+        "ref": "ด้านหน้า\nด้านข้าง\nด้านหลัง",
+        "src": "Davanti\nLato\nDietro"
+    },
+    "it/d4/5b/it_10314329.jpg": {
+        "mt": "มิเลสซิด",
+        "ref": "อเลสเซีย",
+        "src": "Alessia"
+    },
+    "it/fd/47/it_10362611.jpg": {
+        "mt": "บาคคัส.1596\nFSC\nฉลากอีโค\nกระดาษคุณภาพสูง 250 กรัม",
+        "ref": "แบคคัส, 1596",
+        "src": "Bacchus, 1596"
+    },
+    "it/28/36/it_10429597.jpg": {
+        "mt": "คูตูร์\nโมสชิโน\nคูตูร์!\nมิลาน",
+        "ref": "MOSCHINO\nCOUTURE !\nมิลาน",
+        "src": "MOSCHINO\nCOUTURE !\nMilano"
+    },
+    "it/75/e6/it_10428580.jpg": {
+        "mt": "IT:ซิงโกโล\nES:คามา80\nDE/FR/SE/PL/BE140x200cm",
+        "ref": "เตียงเดี่ยว",
+        "src": "Singolo"
+    },
+    "it/85/60/it_10421731.jpg": {
+        "mt": "\"ปั๊บลิเนีย\"\nสร้างมาเพื่อทนทาน!\n20",
+        "ref": "20",
+        "src": "20"
+    },
+    "it/cb/f2/it_10385268.jpg": {
+        "mt": "เมดิพาร์ทเนอร์ส\nคอร์ส นาทูรอล\n1009\n<-\nเอลาสติโก้",
+        "ref": "ยืดหยุ่น",
+        "src": "Elastico"
+    },
+    "it/ef/4f/it_10394278.jpg": {
+        "mt": "STABILO\nCarbOthello\n1400/655***",
+        "ref": "STABILO\nคาปูชิโน\nM 155",
+        "src": "STABILO\nCappuccino\nM 155"
+    },
+    "it/df/37/it_10412261.jpg": {
+        "mt": "เวอร์ชัน\nก่อนหน้า\nมัลติเซนตรัม\nอัลรอน\nแบท\nมัลติเซนตรัม คิดส์\nครบถ้วนตั้งแต่ เอ ถึง ซิงค์\nอาหารเสริม\nรูปลักษณ์ใหม่",
+        "ref": "รูปลักษณ์ใหม่",
+        "src": "NUOVO LOOK"
+    },
+    "it/c7/1d/it_10418764.jpg": {
+        "mt": "IT:ซิงโกโล\nES:คามา 80\nDE/FR/SE/PL/BE 135x200 ซม.",
+        "ref": "เตียงเดี่ยว",
+        "src": "Singolo"
+    },
+    "it/9f/bf/it_10417920.jpg": {
+        "mt": "ตอบสนองทุกความต้องการ\n15W/3.0A\nUSBC\n12W/2.4A",
+        "ref": "ตอบสนองทุกความต้องการ\nAC 4000W/16A\nUSB C 15W/3.0A\nUSB 12W/2.4A",
+        "src": "Soddisfare ogni tipo di esigenza\nAC 4000W/16A\nUSB C 15W/3.0A\nUSB 12W/2.4A"
+    },
+    "it/cf/7a/it_10374165.jpg": {
+        "mt": "หน้ากาก\nเสื้อผ้า\nหมวก\nX\nไมน์\nของเล่น\nรองเท้า\nกระเป๋า",
+        "ref": "หน้ากาก\nเสื้อผ้า\nหมวก\nของเล่น\nรองเท้า\nกระเป๋า",
+        "src": "Maschera\nVestiti\nCappello\nGiocattolo\nScarpe\nBorsa"
+    },
+    "it/55/14/it_10408520.jpg": {
+        "mt": "ซานซาเร\nโมสเค\nโมสเชรินิ\nฟาเลเน\nเวสเป\nโดรโซฟิลา",
+        "ref": "ยุง\nแมลงวัน\nแมลงวันขนาดเล็ก\nผีเสื้อ\nแตน\nแมลงวันผลไม้",
+        "src": "Zanzare\nMosche\nMoscerini\nFalene\nVespe\nDrosophila"
+    },
+    "it/3a/98/it_10431135.jpg": {
+        "mt": "หน้ากาก\nเสื้อผ้า\nหมวก\nX\nกำไล\nของเล่น\nรองเท้า\nกระเป๋า",
+        "ref": "หน้ากาก\nเสื้อผ้า\nหมวก\nของเล่น\nรองเท้า\nกระเป๋า",
+        "src": "Maschera\nVestiti\nCappello\nGiocattolo\nScarpe\nBorsa"
+    },
+    "it/83/c6/it_10340211.jpg": {
+        "mt": "ชันโน\n88056312\n90%\nอูโอโม",
+        "ref": "CHANNON\nS\n90% โพลีเอสเตอร์\nผู้ชาย",
+        "src": "CHANNON\nS\n90% POLY\nUOMO"
+    },
+    "it/1a/32/it_10427922.jpg": {
+        "mt": "คอสเซ่\nกลูเตอิ\nคาวิเกลี\nแอบส์\nสปาเล่\nบราเซีย",
+        "ref": "ต้นขา\nข้อเท้า\nกล้ามเนื้อก้น\nหน้าท้อง\nไหล่\nแขน",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/ce/84/it_10391303.jpg": {
+        "mt": "บรอนซิโอ\nRFID)\nบรอนซี\nแบรนด์อิตาเลียน",
+        "ref": "Bronzi®\nRFID",
+        "src": "Bronzi®\nRFID"
+    },
+    "it/1b/97/it_10400824.jpg": {
+        "mt": "ไอที:ซิงโกโล\nอีเอส:คามา80\nดีอี/เอฟอาร์/เอสอี/พีแอล/บีอี135x200ซม.",
+        "ref": "เตียงเดี่ยว",
+        "src": "Singolo"
+    },
+    "it/e3/69/it_10390282.jpg": {
+        "mt": "กูมซิส\nคอมเมส\nกิตเตอร์\nรอสโซ\n10-2000\nเนตี",
+        "ref": "แดง\nขาว\nทอง",
+        "src": "Rosso\nBianco\nOro"
+    },
+    "it/02/71/it_10367541.jpg": {
+        "mt": "COME SLUSA:ZOLFO PELLETTATO\n1\nCYCASANA\nper.eyca\ndeTesperl\n2\n3",
+        "ref": "วิธีการใช้: กำมะถันเม็ด\n1\n2\n3",
+        "src": "COME SI USA: ZOLFO PELLETTATO\n1\n2\n3"
+    },
+    "it/92/56/it_10389538.jpg": {
+        "mt": "39\nเพชรชะ\nบลูลายน์\nเอ็กซ์บลู\nแพทซ์",
+        "ref": "39\nผลิตในอิตาลี\nBlueline\nXceto",
+        "src": "39\nMADE IN ITALY\nBlueline\nXceto"
+    },
+    "it/20/f7/it_10427110.jpg": {
+        "mt": "พ่น\nกระแส",
+        "ref": "พ่น\nการไหล",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/60/f8/it_10371481.jpg": {
+        "mt": "คาเฟ่\nคอร์ซินี\nโอ",
+        "ref": "กาแฟ\nคอร์ซินี\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/52/85/it_10413413.jpg": {
+        "mt": "รายละเอียด\nเก้าอี้นอน\nลูกบอล\nที่นอนสุนัข",
+        "ref": "รายละเอียด\nเตียง\nลูกบอล\nบ้านพักอาศัย",
+        "src": "DETTAGLI\nLettino\nPallina\nCuccia"
+    },
+    "it/15/6a/it_10378578.jpg": {
+        "mt": "ปุบลิเนเนีย\nสร้างมาให้ทนทาน!\nผลิตในอิตาลี",
+        "ref": "ห้ามเข้า",
+        "src": "Divieto di accesso"
+    },
+    "it/8b/ab/it_10363322.jpg": {
+        "mt": "วันเอสต์\nN'34\nเลย์ลา'",
+        "ref": "เจลทาเล็บ\nN°34\nLAYLA\nเครื่องสำอาง\nมิลาน - อิตาลี",
+        "src": "SMALTO GEL\nN°34\nLAYLA\nCOSMETICS\nMILANO - ITALY"
+    },
+    "it/92/41/it_10389773.jpg": {
+        "mt": "STABILOCarbOthello\n1400/670**",
+        "ref": "STABILO\nคาราเมล\n1401/870",
+        "src": "STABILO\nCaramello\n1401/870"
+    },
+    "it/17/d8/it_10423297.jpg": {
+        "mt": "มอสชิโน\nคูตูร์!\nมิลาน",
+        "ref": "MOSCHINO\nCOUTURE !\nมิลาน",
+        "src": "MOSCHINO\nCOUTURE !\nMilano"
+    },
+    "it/e8/44/it_10407467.jpg": {
+        "mt": "คอสเซ\nกลูเต\nคาวิเกล\nแอ๊บส\nสปาลเล\nบรัสเซีย",
+        "ref": "ต้นขา\nน่อง\nกล้ามเนื้อก้น\nกล้ามเนื้อท้อง\nไหล่\nแขน",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/2f/b5/it_10413979.jpg": {
+        "mt": "ปริศนา\n1000\nชิ้น\nD1&S",
+        "ref": "จิ๊กซอว์\n1000 ชิ้น\nD10S\nดิเอโก้",
+        "src": "PUZZLE\n1000 PEZZI\nD10S\nDiego"
+    },
+    "it/8f/cb/it_10055675.jpg": {
+        "mt": "ปราดา  \nมิลาโน",
+        "ref": "PRADA\nผลิตในอิตาลี\nCE",
+        "src": "PRADA\nMade in Italy\nCE"
+    },
+    "it/b5/94/it_10409462.jpg": {
+        "mt": "ปับบลิมาเนีย\nบิฟท์โทลาสต์!\nเมดอินอิตาลี",
+        "ref": "15",
+        "src": "15"
+    },
+    "it/ef/64/it_10394439.jpg": {
+        "mt": "พลาสติก\nแก้ว\nรวม\nโลหะ\nพับลิมาเนีย\nเปียก\nwww.pubblimania.com\nกระดาษ",
+        "ref": "พลาสติก\nกระจก\nผสม\nโลหะ\nเปียก\nกระดาษ",
+        "src": "PLASTICA\nVETRO\nMISTO\nMETALLO\nUMIDO\nCARTA"
+    },
+    "it/97/22/it_10400159.jpg": {
+        "mt": "สำหรับทุกประเภท\nของเส้นผม",
+        "ref": "สำหรับทุกประเภทของผม\n1\n2A\n2B\n2C\n3A\n3B\n3C",
+        "src": "Per Tutti i Tipi di Capelli\n1\n2A\n2B\n2C\n3A\n3B\n3C"
+    },
+    "it/7b/e4/it_10398026.jpg": {
+        "mt": "พลังงาน\nAnmossi\nTY-CDG40DC-25\nA\nB\nC\nD\nE\nE\nF\nG\n2019/2015\n12\nkWh/1000h",
+        "ref": "Anmossi\nTY-CDG40DC-25\n12\nkWh/1000h",
+        "src": "Anmossi\nTY-CDG40DC-25\n12\nkWh/1000h"
+    },
+    "it/bd/b1/it_10403237.jpg": {
+        "mt": "สำหรับทุกประเภท\nของเส้นผม",
+        "ref": "สำหรับทุกประเภทของผม\n1\n2A\n2B\n2C\n3A\n3B\n3C",
+        "src": "Per Tutti i Tipi di Capelli\n1\n2A\n2B\n2C\n3A\n3B\n3C"
+    },
+    "it/44/70/it_10397559.jpg": {
+        "mt": "ปริศนา\n1000\nชิ้น\nD1&S",
+        "ref": "จิ๊กซอว์ 1000 ชิ้น\nD10S\nดิเอโก\n(10)",
+        "src": "PUZZLE 1000 PEZZI\nD10S\nDiego\n(10)"
+    },
+    "it/d1/43/it_10380722.jpg": {
+        "mt": "บัลโคนี\nบัลโคนี\nอเนกประสงค์\n3\nห้องนอน\nระเบียง",
+        "ref": "หลากหลาย\n1\nระเบียง\n2\nระเบียง\n3\nห้องนอน\n4\nระเบียงหน้าบ้าน",
+        "src": "VERSATILE\n1\nBalcone\n2\nBalcone\n3\nCamera da letto\n4\nPortico"
+    },
+    "it/16/e6/it_10431566.jpg": {
+        "mt": "มีให้เลือก 3 ขนาด  \n20 ซม.  \n80 ซม.  \nM  \n300 ม.  \n120 ซม.  \n30 ซม.  \n160 ซม.",
+        "ref": "มีให้เลือก 3 ขนาด\nS\nM\nL",
+        "src": "Disponibile in 3 Misure\nS\nM\nL"
+    },
+    "it/3e/c9/it_10422279.jpg": {
+        "mt": "โคเซ่\nกลูเต\nคาวิเกล่า\nแอ๊บ\nสปาเล\nบรัชชา",
+        "ref": "ต้นขา\nน่อง\nกล้ามเนื้อก้น\nกล้ามเนื้อท้อง\nไหล่\nแขน",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/28/18/it_10429650.jpg": {
+        "mt": "มัตเตโอ\nคิอารา\nมัตเตีย",
+        "ref": "มาติอา\nเคียร่า\nมัตเตโอ",
+        "src": "Mattia\nChiara\nMatteo"
+    },
+    "it/2a/67/it_10371097.jpg": {
+        "mt": "บ้าน\nสำนักงาน\nกลางแจ้ง",
+        "ref": "บ้าน\nสำนักงาน\nกลางแจ้ง",
+        "src": "Casa\nUfficio\nAll'Aperto"
+    },
+    "it/35/62/it_10403136.jpg": {
+        "mt": "อีอาซโซ",
+        "ref": "สำรับ V1\nมาดาม\nIC 67%",
+        "src": "Mazzo V1\nMadame\nIC 67%"
+    },
+    "it/3b/37/it_10430572.jpg": {
+        "mt": "248 มม.\n222 มม.\nวันศุกร์\n10.1 นิ้ว\nเช้า\n11:56\nA.M.\n10,\nมิถุนายน\n2022\nTROCOTN",
+        "ref": "วันศุกร์\nเช้า\n11:56\nA.M.\nมิถุนายน\n10,\n2022",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n10,\n2022"
+    }
+}

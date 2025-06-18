@@ -1,0 +1,683 @@
+img,reference,predicts,source,BLEU,CHRF,CHRF++,TER,BERT-P,BERT-R,BERT-F1,METEOR,COMET,cluster
+OCRMT30K_04226.jpg,"One billion young people, one billion soldiers. The national humiliation should not be treated by children and grandchildren
+One billion young people, one billion soldiers. The national humiliation should not be treated by children and grandchildren
+Disasters of the Sun
+Defend sovereignty
+From now on
+have succeeded in carrying out an assignment
+Boycott Japanese goods
+To show my determination","""1 billion youths, 1 billion soldiers, the nation calls on its descendants to be prepared.""","十亿青年十亿兵,国耻岂待儿孙平
+十亿青年十亿兵 国耻岂待儿孙平
+灭日之灾
+捍卫主权
+由今之始
+不辱使命
+抵制日货
+表我决心",0.6669881396548238,12.918409612859616,11.7762895383375,89.83050847457628,0.8825531005859375,0.8407507538795471,0.8611449599266052,0.1950422417689392,0.4741743505001068,1
+OCRMT30K_09567.jpg,"World Conference on Artificial Intelligence
+Zheng Nanning
+Sponsor: China Society of Automation
+CAE Member, Chairman of the Chinese Society of Automation
+New Zhiyuan
+Sponsor: China Society of Automation
+New Zhiyuan
+artificial intelligence","AI WORLD 2016  
+World Artificial Intelligence Conference  
+Zheng Nanning  
+Academician of the Chinese Academy of Engineering  
+President of the Chinese Association of Automation","世界人工智能大会
+郑南宁
+主办单位:中国自动化学会
+中国工程院院士、中国自动化学会理事长
+新智元
+主办单位:中国自动化学会
+新智元
+人工智能",6.599825654812756,40.31315751035315,37.202353408273375,71.875,0.861265242099762,0.8697754144668579,0.8654994368553162,0.320804593676692,0.6695788502693176,1
+OCRMT30K_04171.jpg,"Ximen Station
+Police tip: For your safety and others, please do not carry inflammable, explosive and toxic dangerous goods on board!
+Zone 221
+Fire alarm telephone: 119","XI MEN BUS STATION  
+
+221 Route  
+
+(Notice not to climb the bus, hang out, and do behaviors that obstruct the bus; it is dangerous for yourself and others.)  
+
+Chengdu Bus Route 221 Preview Map  
+
+Emergency Contact: 110","西门车站
+民警提示:为了您和他人的安全,请不要携带易燃、易爆有毒等危险品上车!
+221区
+火警电话:119",2.604859149269604,25.71022674653986,22.577319167051154,118.5185185185185,0.8386706113815308,0.8746231198310852,0.8562695980072021,0.180722891566265,0.5769899487495422,1
+OCRMT30K_00417.jpg,"West Area Student Activity Center
+Multifunction Room
+hospital
+to copy
+Student organizations
+Learning Report Hall
+Property Management Office
+Billiard Hall
+Multifunction Room
+Zone B
+auditorium
+Table tennis hall","West Campus Students Activity Center  
+
+3F  
+Multifunction Hall  
+Student Community  
+
+2F  
+Internet Self-study Room  
+Ceremony Hall  
+Academic Lecture Hall  
+Property Management Office  
+
+1F  
+Billiards Hall  
+Table Tennis Hall  
+Gymnasium  
+Fitness Room  
+
+Hospital →  
+","西区学生活动中心
+多功能厅
+医院
+复印
+学生社团
+学习报告厅
+物业管理办公室
+台球馆
+多功能厅
+B区
+礼堂
+乒乓球馆",13.600287923663467,48.470022284100615,43.74337827346055,78.57142857142857,0.8078563809394836,0.8806910514831543,0.8427029252052307,0.5774312324019927,0.7342654466629028,1
+OCRMT30K_00242.jpg,"The 9th (2011) Cross Strait Academy of Information Technology and Application Exchange Seminar
+Member of the Standing Committee of the CPC Jilin Provincial Committee, Director of Publicity
+Mr. Xun Fengxi
+Message from the meeting:
+The 9th (2011) Cross Strait Academy of Information Technology and Application Exchange Seminar
+Office:
+In the hospital network","9th (2011) Cross-Strait Information Technology and Application Exchange Symposium  
+
+Speech by: Fengji Shu  
+Jilin Provincial Party Committee, Minister of Publicity  
+
+2011 Symposium on IT and Application Exchange","第九届(2011)两岸三院信息技术与应用交流研讨会
+吉林省委常委、宣传部长
+荀凤牺先生
+会议致辞:
+第九届(2011)两岸三院信息技术与应用交流研讨会
+办单位:
+院网络中",10.791596762804415,42.436244527702726,38.80640872097043,71.15384615384616,0.8649805188179016,0.8835407495498657,0.8741620779037476,0.3174377224199287,0.619685709476471,1
+OCRMT30K_03047.jpg,"The World's Most Wonderful Hall
+Huaiyang Clay Sculpture Art Museum
+a warm welcome
+blessing
+Zhengzhou University
+Practice Base of the Department of Fine Arts
+preparatory office
+Huaiyang County
+Cultural Exchange Center
+Zhoukou Contact Station
+General agent of Huaiyang
+Welcome!","The First Wonder Museum in the World  
+Huaiyang Clay Sculpture Art Museum  
+Warmly Welcome","天下第一奇馆
+淮阳泥塑艺术馆
+热烈欢迎
+福
+郑州大学
+美术系实习基地
+筹备处
+淮阳县
+文化交流中心
+周口联络站
+淮阳总代理
+欢迎您!",4.66785205014103,23.49612550818239,21.97911545821057,82.5,0.8770514726638794,0.8601647615432739,0.868526041507721,0.2163185378590078,0.5627619028091431,1
+OCRMT30K_06560.jpg,"JD.COM JD
+Vehicle code: 010-03287
+JD.COM
+@Beijing Youth Daily
+Vehicle code
+express
+Small theater
+express
+fast
+Vehicle code: 010-0","Happiness Little Theater  
+JD.COM京东  
+Express  
+Vehicle number: 010-03287","JD.COM京东
+车辆编码:010-03287
+京东
+@北京青年报
+车辆编
+快递
+小剧场
+快递
+快
+辆编码:010-0",6.883039311493184,26.22767362212615,22.30221226403112,76.92307692307693,0.8401938080787659,0.8701810240745544,0.8549245595932007,0.1207729468599033,0.635938823223114,1
+OCRMT30K_00812.jpg,"China's five-star electronic market
+Zhongguancun e World
+Let strength
+S420/S220
+Search ""S"" for details or log in to thinkwold.co
+Test center
+ThinkPadS420/S220
+Gold medal experience center","Zhongguancun e-Plaza  
+China Five-Star Electronics Market  ","中国五星级电子市场
+中关村e世界
+让实力
+S420/S220魅
+详情搜索“S”或登录thinkworld.co
+验中心
+ThinkPadS420/S220采
+金牌体验中心",0.100450502302203,18.626454108444825,14.521208557181616,96.875,0.8521603345870972,0.8162031173706055,0.8337942361831665,0.1670411985018726,0.4267423748970032,1
+OCRMT30K_26256.jpg,"Industrial and Commercial Bank of China
+Welcome ICBC Huibei Life Bank Card users to spend
+Huibei Life
+Welcome to mobile payment
+Download the ""Huibei life"" client, and you can use Alipay, Wechat payment and bank card quick payment
+Customer service: 400-607-8300","ICBC Industrial and Commercial Bank of China  
+Welcome ICBC ICBC Life Bank Card users to consume  
+
+iC贝生活  
+
+Welcome to use mobile payment  
+
+Download ""iC贝生活"" App: Supports Alipay, WeChat Pay, and bank card quick payment  
+
+Customer Service: 400-607-8300  ","中国工商银行
+欢迎工商银行—汇贝生活银行卡用户消费
+汇贝生活
+欢迎使用手机支付
+下载“汇贝生活”客户端，可使用支付宝、微信支付、银行卡快捷支付
+客服：400-607-8300",52.25912752509342,66.11638762880848,64.3824401308597,35.55555555555556,0.8699679970741272,0.9185506105422974,0.8935994505882263,0.6887857472761275,0.7861204743385315,1
+OCRMT30K_03343.jpg,"Resident ID Card
+The People's Republic of China
+Ticket Office
+Ticket Office
+Ticket Office
+Deeply carry out the ""Blue Shield"" action to severely crack down on illegal acts of scalping train tickets
+06Che050
+RMB 11.00
+At 10:26 on January 9, 2010","Ticket Hall  
+Resident Identity Card  
+2010-01-09 04:26  
+One Ticket  
+Hard Seat  ","居民身份证
+中华人民共和国
+售票厅
+售票厅
+售票厅
+深入开展“蓝盾”行动严厉打击倒卖火车票违法行为
+06车050号
+￥11.00元
+2010年01月09日10:26开",1.136186620751729,13.743698666203574,11.647234788660638,95.34883720930232,0.8274810910224915,0.8293957710266113,0.8284373879432678,0.048076923076923,0.4307670891284942,1
+OCRMT30K_08584.jpg,"The era of big intelligence
+Associate Professor of Tokyo University
+How Intelligent Technology Changes Human's economy, society and life
+Understand the past, present and future of AI
+Looking forward to the coming robot society","The Age of Artificial Intelligence  
+How AI technology changes economy, society, and life  
+
+Taught by an Associate Professor of the University of Tokyo","大智能时代
+东大准教授
+智能科技如何改变人类的经济、社会与生活
+了解人工智能的过去、现在和未来
+展望即将到来的机器人社会",9.437717970444922,43.58233676105234,41.26460581892274,62.85714285714285,0.89168381690979,0.8983687162399292,0.8950138092041016,0.4309973523860196,0.768257200717926,1
+OCRMT30K_01523.jpg,"Take a break
+Fat Tiger Concert
+suspend
+Lucky Gate
+Take a step forward
+Take a step back
+Children's play area
+Take a step forward
+To move forward
+Throw dice
+Take a break
+Throw it again","Lucky Door  
+Dice Rules:  
+Move Forward One Step  
+Move Backward One Step  
+Rest for One Turn  
+Roll Again  
+
+Children's Game Area","休息一轮
+胖虎演唱会
+暂停
+幸运之门
+前进一步
+后退一步
+儿童游戏区
+前进一步
+才能前进
+扔骰子
+休息一轮
+再扔一次",2.7864623546813703,20.98415760790393,16.50984751537799,86.11111111111111,0.8004323244094849,0.8558558225631714,0.8272167444229126,0.2126360870957412,0.5798202753067017,1
+OCRMT30K_06494.jpg,"The 29th Dalian International Marathon
+Whether it's a zebra crossing or
+Today are all the runner's route
+@Mu Mian Yi Zi
+Take the lead in Dalian
+Feng Feng
+If you want to lose, lose to the pursuit
+If you want to run, win in Dalian Marathon.","Buick Leading Running Dalian  
+
+29th Dalian International Marathon  
+
+""If you're going to lose, lose to pursuit;  
+If you're going to run, run to win the marathon.""  
+— Lin Lin  ","第29届大连国际马拉松赛
+管它斑马线还是
+今天都是跑者的路线
+@沐绵奕子
+领跑大连
+枫枫
+要输就输给追求
+要跑就跑赢大马",15.071160635067796,40.99019113137707,38.008524062967886,77.55102040816327,0.8560101985931396,0.8696674108505249,0.8627848029136658,0.3634917366972993,0.620453417301178,1
+OCRMT30K_01381.jpg,"Seamless connection with the landmark market of Line 4, enjoy tens of millions from the price of millions!
+The 85 ㎡ villa has a texture of two bedrooms, and the last one will be lost forever!
+Longhu · Shidai Tianjie
+Earth Hour
+Landmark market","Seamlessly connected to Line 4, landmark grand property, prices starting from one million, enjoying the experience of tens of millions!  
+85㎡ exquisite two-bedroom units, last batch available—don't miss it forever!","与四号线无缝连接地标大盘,价格百万起享受千万级!
+85㎡别墅质感两居,最后一栋错过永失!
+龙湖·时代天街
+地球一小时
+地标大盘",7.198382917763185,39.207717895479725,35.504872470570696,81.81818181818183,0.8788772821426392,0.8615709543228149,0.8701380491256714,0.31727078891258,0.5943188071250916,1
+OCRMT30K_19919.jpg,"Dongfeng crankshaft central warehouse Chaochai crankshaft central warehouse
+Crankshaft Monopoly
+Yueda Yonghui Engineering Machinery
+Spare valve Multi way valve
+Tel: 020-82097005 82097006
+Address: E7-8, Zone B, Zhuji Construction Machinery Market, Tianhe District, Guangzhou","Yu Da Yong Yong Engineering Machinery  
+KATO KOBELCO Mitsubishi Kawasaki  
+Address: Guangzhou Tianhe District Zhuji Engineering Machinery Market E7-8  
+Phone: 020-82097005 82097006  
+
+Bei Ling Power  
+Dongfeng Crankshaft Center, Weichai Crankshaft Center  
+Phone: 020-82562324","东风曲轴中心库 朝柴曲轴中心库
+曲轴专卖
+粤达永晖工程机械
+备用阀 多路阀
+电话：020-82097005  82097006
+地址：广州市天河区珠吉工程机械市场B区E7-8",15.989538893465651,47.45919611228836,43.09436183012733,86.48648648648648,0.8567242622375488,0.8911888003349304,0.8736167550086975,0.3547791778032328,0.6681717038154602,1
+OCRMT30K_00574.jpg,"Postbox
+China Post
+Unpacking time
+Guilin Rice noodles
+Shuxiang Fishing
+repair
+The first time: 11:08
+The second time: 18:14
+Professional repair of electric vehicles","Postal Mailbox  
+Local   Out-of-town  
+Opening Times  
+First time: 11:08  
+Second time: 18:14  
+China Post","邮政信筒
+中国邮政
+开箱时间
+桂林米粉
+蜀相渔
+修理
+第一次:11:08
+第二次:18:14
+专业修电动车",30.455588285481,31.78356949219925,30.724091477468985,65.38461538461539,0.8354253172874451,0.852736234664917,0.8439919948577881,0.4626388888888889,0.5319505929946899,1
+OCRMT30K_00486.jpg,"Police Affairs Station
+Safety production is as big as heaven Safety responsibility
+Triangle tire
+Waiting Room
+Origin
+Accompany you safely
+[China Famous Trademark]
+To ensure the safety of passengers","Triangle Tires  
+Accompany You for a Safe Journey  
+
+Police Workstation  
+
+East  
+
+South Square 5.7.9.11.13  
+
+Waiting Room 4.6.8.10  
+
+Safety Production, Paramount Importance","警务工作站
+安全生产大如天安全责
+三角轮胎
+候车室
+发源地
+伴您平安行
+【中国驰名商标】
+为保证旅客乘车安全",4.270787827347555,31.12085686023418,26.35970272997242,87.09677419354838,0.8281893134117126,0.8643660545349121,0.8458910584449768,0.2752491694352159,0.6089025139808655,1
+OCRMT30K_26463.jpg,"Exit
+Guangba Road
+Wuhan University
+Huitong Building
+Yinhai Huating
+Wuhan Metro
+Exit
+Luoyu Road
+Central China Normal University
+Huanshan North Road
+East Lake Scenic Zone Local Taxation Bureau
+Junyi Dynasty Hotel","A Exit  
+Luoyu Road  
+Central China Normal University  
+Huanshan North Road  
+East Lake Scenic Zone Local Taxation Bureau  
+
+K Exit  
+Guangba Road  
+Wuhan University  
+Huitong Building  
+Yinhai Huating Residential Community  
+Junyi Dynasty Hotel","出口
+广八路
+武汉大学
+汇通大厦
+银海华庭
+武汉地铁
+出口
+珞瑜路
+华中师范大学
+环山北路
+东湖风景区地税局
+君宜王朝大饭店",77.08956192084696,90.8573124959859,90.37837380774528,19.35483870967742,0.8634313344955444,0.9250032305717468,0.893157422542572,0.8651750053355286,0.7910676598548889,1
+OCRMT30K_25132.jpg,"Fun Castle
+Parent child early education course
+0 to 6 years old
+Blue Dance
+Chinese dance
+jazz
+Ballet
+Folk dance
+Modern dance
+National art education characteristic unit
+50 meters ahead of Fudi Supermarket","Sliding Blue Dance  
+Chinese Dance  
+Ballet  
+Jazz Dance  
+Ethnic Dance  
+Modern Dance  
+
+Contact numbers:  
+15392811005  
+15022777771  
+
+Address: Inside the residential area 50 meters from Jiangyi Hospital","逗乐堡
+亲子早教课程
+0至6岁
+涓之蓝舞蹈
+中国舞
+爵士舞
+芭蕾舞
+民族舞
+现代舞
+全国艺术教育特色单位
+富迪超市向前50米",11.850997963010965,30.04415019166763,26.482844960758342,84.84848484848484,0.7970823049545288,0.8574667572975159,0.8261725902557373,0.2733630006357278,0.5673466324806213,1
+OCRMT30K_03239.jpg,"Brother Spicy Crab
+green food
+Welcome
+Small pot 38 yuan
+Miscellaneous decoration
+before it's too late
+Medium pot 48 yuan
+Big pot 68 yuan
+Professional unlocking
+Learn to drive and pay later
+Latest launch
+Tel.: 6790
+Air transportation every day","""Brothers Spicy Crab""  
+""Special Food, Open Daily""  
+""New Launch: Small Pot 38 Yuan, Medium Pot 48 Yuan, Large Pot 68 Yuan""  
+""Welcome""","兄弟香辣蟹
+绿色食品
+欢迎光临
+小锅38元
+杂装饰
+趁热
+中锅48元
+大锅68元
+专业开锁
+先学车后付费
+最新推出
+电话:6790
+天天空运",15.218077396531896,20.62415200747181,18.37806405331181,70.73170731707317,0.8508774042129517,0.8515170812606812,0.8511971235275269,0.4087856661094982,0.5484187006950378,1
+OCRMT30K_23415.jpg,"Phone: 86-595-2249 5555
+Address: Metro No. 9 (C), No. 7 Neighborhood, Qingmeng Park, Quanzhou Economic and Technological Development Zone
+Manufacturer: Xtep (China) Co., Ltd.","Manufacturer: Tebu (China) Co., Ltd.  
+Address: No. 7 Block 8(C), Fengze District, Quanzhou Economic and Technological Development Zone  
+Phone: 86-595-2249 5555  ","电话:86-595-2249 5555
+地址:泉州经济技术开发区清蒙园区七号街坊9（C）号地铁
+制造商:特步(中国)有限公司",55.15817051539571,67.60690138901408,66.72052726632191,46.42857142857143,0.923514723777771,0.9349237084388732,0.9291841983795166,0.6029106686568675,0.828799307346344,1
+OCRMT30K_00363.jpg,"Changfa Real Estate is receiving
+Huaji Japanese Cuisine
+Sunwin busSUNWIN
+The garden is quiet
+Jingyi Sichuan style Restaurant
+Lunch business package 20~35 yuan/person
+Get off at the back door
+Reservation Tel: 52122231
+Outgoing telephone: 52125179","Huaji Japanese Cuisine  
+Mid-tier and high-tier private rooms for 20–35 people   
+All-you-can-eat and drink buffet  
+158 RMB per person   
+Includes beer, sashimi, and large platters  
+Reservation phone: 52122231  
+
+Changfa Real Estate Reception Center  ","常发地产接待中
+花吉日本料理
+申沃客车SUNWIN
+园静谧生
+静毅川湘馆
+中午商务套餐20~35元/位
+后门下客
+预约电话:52122231
+外送电话:52125179",6.711706744254715,37.03898041334956,32.582136512666494,79.48717948717949,0.8312640190124512,0.8646337389945984,0.8476205468177795,0.2229917360902004,0.5880267024040222,1
+OCRMT30K_00177.jpg,"Corporate mission: to provide customers with high-quality goods and services
+Corporate vision: to become the most reliable chain brand in the fruit industry!
+Fruits
+Changwa Street Midtown Store
+Vegetables","Vegetables  
+Fruits  
+Corporate mission: To provide customers with quality products and services!  
+Corporate vision: To become the most trusted chain brand in the fruit industry!","企业使命:为顾客提供高品质的商品与服务
+企业愿景:成为水果行业最可信赖的连锁品牌!
+水果
+厂洼街中城店
+蔬菜",56.11658422412668,67.02566406579628,65.60123232501898,31.03448275862069,0.9106821417808532,0.9238874912261964,0.9172372817993164,0.7831924290220819,0.8324368596076965,1
+OCRMT30K_29356.jpg,"Zhongcheng store, Changwa Street
+vegetables
+fruit
+Enterprise vision: to become the most reliable chain brand in the fruit industry!
+Enterprise mission: to provide customers with high quality products and services","Vegetables  
+Fruits  
+
+Corporate Mission: To provide customers with high-quality products and services!  
+Corporate Vision: To become the most trusted chain brand in the fruit and vegetable industry!  ","厂洼街中城店
+蔬菜
+水果
+企业愿景:成为水果行业最可信赖的连锁品牌!
+企业使命:为顾客提供高品质的商品与服务",42.86213056699228,59.82107369156579,55.84619876111727,46.66666666666666,0.8983945846557617,0.8974112272262573,0.8979026675224304,0.6676557863501484,0.7766380310058594,1
+OCRMT30K_28832.jpg,"Famous hair family
+Healthy hair
+recruitment
+We need
+real you
+Waiter: 3000-400
+Hourly workers: 10-15 yuan/hour
+Beautiful Empire",Famous Hair World,"名发世家
+健康秀发
+招聘
+我们需要
+真材实料的你
+服务员：3000-400
+钟点工：10-15元/小
+美丽帝国",0.0257647078294943,6.555484252850677,5.670184021167808,91.66666666666666,0.8927697539329529,0.7947912216186523,0.8409361839294434,0.0546448087431694,0.3903437554836273,1
+OCRMT30K_00872.jpg,"Gome Electric
+November 25th - December 12
+Gome Electric
+Look at Gome in Beijing
+250 million will benefit the whole city
+25th Anniversary Celebration","November 25th - December 12th  
+GOME Electrical Appliances  
+Celebrating 25 Years of GOME  
+All Beijing, Watch GOME  
+2.5 Billion Subsidy Benefit Across the City  
+iPad 32G Present","国美电器
+11月25日—12月12日
+国美电器
+全北京,看国美
+2.5亿让利巨惠全城
+25周年盛世庆典",10.765326248076242,43.43576222943116,37.17676783046349,79.16666666666666,0.8499279022216797,0.8999119400978088,0.8742060661315918,0.3648451730418944,0.6485945582389832,1
+OCRMT30K_08864.jpg,"Telephone number for complaints: 12320
+Smoking is prohibited in indoor public places, workplaces and vehicles
+Three signs to discourage smoking
+Beijing Municipal Regulations on smoking control come into force on June 1
+Haidian District Patriotic Health Campaign Committee
+No
+I do mind","Three Ways to Stop Smoking  
+
+""Beijing Smoking Control Regulations""  
+Effective from June 1  
+
+Smoking is prohibited in indoor public spaces, workplaces, and inside means of public transport.  
+
+Complaint and reporting hotline: 12320  
+
+I object  
+Not allowed  
+Please stop  
+
+Haidian District Patriotic Health Campaign Committee  ","投诉举报电话:12320
+室内公共场所、工作场所和交通工具内禁止吸烟
+三种劝阻吸烟手势
+《北京市控制吸烟条例》6月1日起正式施行
+海淀区爱国卫生运动委员会
+不可以
+我介意",23.93629697073688,58.54561325106759,54.225280808570254,71.42857142857143,0.8543301820755005,0.9200553894042968,0.8859754800796509,0.5587918504023076,0.7656084299087524,1
+OCRMT30K_28853.jpg,"matter
+Offcn Education Technology
+Website: hu.offcn.com
+Address of Offcn Headquarters: 9/F, Offcn Education Building, Lumo Road, Hongshan District, Wuhan
+Tel: 027-8720159, 3986235661","Offcn  
+China Public Education  
+
+China Public Address: Wuhan, Jianghan District, Qiaokou Road, China Public Education Building, 9th Floor  
+Phone: 027-87207159, 13986235661  
+Website: hu.offcn.com  ","事
+中公教育
+网址：hu.offcn.com
+中公总部地址：武汉市洪山区鲁磨路中公教育大厦9楼
+电话：027-8720159，3986235661",25.994839751761,51.24263988137534,48.45081036022961,75.0,0.8687052130699158,0.8998268842697144,0.8839921951293945,0.3880070546737214,0.7834075689315796,1
+OCRMT30K_01220.jpg,"Subway passage
+ECMall Euro American Exchange
+B1 on the first underground floor
+Special line: 82483338
+International Food Parkway
+Escalator to the 6th floor
+Your is not just a ceremony
+It's the most precious memory in my life
+Special line: 68038888","Metro Tunnel  
+ECMall  
+B1 Floor  ","地铁通道
+ECMall欧美汇
+地下一层B1
+专线:82483338
+国际美食百汇
+扶梯至6层
+您的不只是一个仪式
+是一生中最珍贵的回忆
+专线:68038888",0.0085933171929965,4.7021001475266,4.249205211668322,92.6829268292683,0.8675724267959595,0.8236585855484009,0.8450453281402588,0.0510204081632653,0.371318906545639,1
+OCRMT30K_01102.jpg,"Blue Sky Love Fund
+This cabinet is composed of:
+donation
+China Women's Development Foundation
+Donation box
+No Smoking
+More exciting
+Blue Sky Love Fund: 010 -- 65669720","Blue Sky Fund  
+
+JOYCP.NET  
+
+Sponsored by  
+
+China Women's Development Foundation  
+
+Donation Box  
+
+Beijing Capital International Airport Co., Ltd.  
+
+No Smoking","蓝天爱心基金
+此机柜由:
+捐赠
+中国妇女发展基金会
+募捐箱
+禁止吸烟
+更精彩
+蓝天爱心基金:010——65669720",20.01499260101773,45.60094328664166,41.374131120143545,60.71428571428571,0.8190741539001465,0.846621572971344,0.8326201438903809,0.4033485540334855,0.6087494492530823,1
+OCRMT30K_00036.jpg,"Linzhi Digital Cinema City
+Zhenlong Advertising
+@Liuyang -- Triathlon enthusiast
+Thick sweet chestnut
+Bedding
+Tibetan Local Specialties
+Hengfeng Local Specialties
+Thick sweet chestnut
+Wuliangye
+Engraving
+Engraving","Top signage: ""Lhasa Digital Cinema City""  
+Banner on the fence: ""Develop patriotism, love health, maintain hygiene""  
+Store signs (left to right):  
+- ""Jade Red Carving and Seals""  
+- ""Zhenhong Advertisement""  
+- ""Tibetan Ancient Medicinal Hall""  ","林芝数字电影城
+振龙广告
+@浏洋--铁三爱好者
+厚生甘栗
+床上用品
+藏情土特产
+恒丰土特产
+厚生甘栗
+五粮液
+刻章
+刻章",2.80110956684028,29.57918317456481,25.413170998758684,107.40740740740742,0.8050849437713623,0.8282843828201294,0.8165199160575867,0.1732580037664783,0.4713403284549713,1
+OCRMT30K_01773.jpg,"Ticket Office 9
+(Window 82-92)
+Automatic ticket office
+Purchase tickets with second-generation ID card and collect tickets online
+Change, refund and online ticket collection
+Certificate: People of China","Ticket Counter 9  
+(Windows 82-92)  
+Change, Refund, Online Ticket Pickup  
+
+Self-Service Ticket Machine  
+Use Second-Generation ID Card to Purchase or Pick Up Online Tickets","售票处9
+(82—92号窗口)
+自动售票处
+持二代身份证购票、网络取票
+改签、退票、网络取票
+证件为:中华人民",15.71621033503414,35.959847792557994,31.8207591494565,63.33333333333333,0.8648996949195862,0.8910431861877441,0.8777768611907959,0.4852320675105485,0.7536394596099854,1
+OCRMT30K_03209.jpg,"Suzhou Changshu
+Wujiang Car Network
+Supervision telephone: 0512-96520
+Changshu: 5:30
+Changshu: 19:25
+(Average interval per shift: 10 minutes to 15 minutes)","Suzhou - Changshu  
+Convenience Shuttle Bus  
+
+Departure time from Suzhou: 5:30  
+Departure time from Changshu: 5:30  
+Final departure time: 19:25  
+(Average frequency: every 10-15 minutes)  
+
+The Suzhou-Changshu convenience shuttle bus provides fast, comfortable, and convenient services for passengers traveling between the two cities. It ensures high-frequency, direct, safe, and timely transportation. The shuttle service uses spacious and comfortable buses to efficiently transport passengers to their destinations. The route passes through regions including Huaqiao Village, Taiping Village, Shajiabang Town, New Changshu Station, and concludes at Changshu East Entrance Roundabout.  
+
+Customer service hotline: 0512-96520  ","苏州—常熟
+吴江车网
+监督电话:0512—96520
+常熟:5:30
+常熟:19:25
+(平均每班间隔:10分钟至15分钟)",9.88904333063397,32.35557157663413,30.861022161351787,356.0,0.8217585682868958,0.8979339599609375,0.8581591844558716,0.3298305457746479,0.6017305254936218,1

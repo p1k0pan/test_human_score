@@ -1,0 +1,323 @@
+img,reference,predicts,source,BLEU,CHRF,CHRF++,TER,BERT-P,BERT-R,BERT-F1,METEOR,COMET,cluster
+OCRMT30K_28692.jpg,"New address of CCTV
+The housing construction project with the largest single building area in China","New Headquarters of China Central Television  
+The largest single-building construction project in China in terms of floor area.","中央电视台新址
+中国单体建筑面积最大的房建工程。",7.761035889722027,56.90734224691024,51.07121246856708,68.75,0.8966929912567139,0.920272707939148,0.9083298444747924,0.4222525183670378,0.7970994710922241,0
+OCRMT30K_23240.jpg,"Jinxi Advertisement
+Blind Massage
+Nanjiang Zhengyi Real Estate Surveying and Mapping Co., Ltd.
+Sichuan Xinhe Real Estate Evaluation Consulting Co., Ltd.","Jin Xi Advertising  
+Sichuan Jinxin Real Estate Evaluation Co., Ltd.  
+Nanjiang County Property Real Estate Survey Co., Ltd.","金喜广告
+盲人按摩
+南江县正易房地产测绘有限公司
+四川省信和房地产评估咨询有限公司",33.405489187350206,54.372872156858655,53.29173680500253,61.90476190476191,0.9052859544754028,0.9066193103790284,0.9059520959854126,0.6150283491561181,0.6470054388046265,0
+OCRMT30K_03453.jpg,"2011 China Computer Conference
+Special partners of the General Assembly:
+Exclusive strategic cooperation portal:
+Organized by: Shenzhen Advanced Technology Research Institute, Chinese Academy of Sciences
+Harbin Institute of Technology Shenzhen Graduate School","2011 China National Computer Conference  
+Nov. 24-26, 2011 Shenzhen China  
+
+In Cooperation With:  
+
+Conference Special Partners:  
+Supporting Units:  
+Exclusive Strategic Cooperation Partner:","2011中国计算机大会
+大会特别合作伙伴:
+独家战略合作门户:
+承办:中国科学院深圳先进技术研究院
+哈尔滨工业大学深圳研究生院",11.904678580373725,35.70607010049059,32.280766210626666,78.125,0.8392705321311951,0.8626540899276733,0.8508017063140869,0.3261817547531833,0.6120640635490417,0
+OCRMT30K_03553.jpg,"Eeya
+Mass selling KTV
+Lesong Shopping Plaza
+McDonald's","YIYA KTV  
+Self-service KTV 3F  
+TEL: 55555811155558222
+
+Le Song Shopping Plaza  ","咿呀呀
+量贩式KTV
+乐松购物广场
+麦当劳",7.495553473355845,34.09248085173907,31.442473753208933,100.0,0.7996546030044556,0.8515836596488953,0.8248026371002197,0.2747909199522103,0.4972039759159088,0
+OCRMT30K_11311.jpg,"Mahjong parlor
+B1, Niubinkai International Hotel","Mahjong Hall  
+New Kai Kai International Hotel B1 Floor  ","麻将馆
+钮宾凯国际酒店B1楼",11.339582221952003,57.78551009765265,52.10399945829912,100.0,0.8551431894302368,0.8644155263900757,0.8597543239593506,0.4383680555555556,0.6813461184501648,0
+OCRMT30K_28976.jpg,"National Anti-counterfeiting Engineering Technology Research Center
+Engineering and mid-term testing department","Engineering and Pilot Test Department  
+National Counterfeit Protection Engineering Technology Research Center","国家防伪工程技术研究中心
+工程与中试部",27.09198854675628,67.69966973199035,63.517166011245074,72.72727272727273,0.8857050538063049,0.9123360514640808,0.8988233208656311,0.6906906906906908,0.752486526966095,0
+OCRMT30K_02545.jpg,"Don't get too close to me
+Wheel somersault
+Watch out for you","""Don't get too close to me, be careful of rear-ending.""","别跟我太近
+轱辘跟斗
+小心扁你",34.98761149110957,42.524391183182345,43.65146771140597,50.0,0.9010595083236694,0.8849833011627197,0.892949104309082,0.5295299938157081,0.6473565101623535,0
+OCRMT30K_02903.jpg,"Science Forum
+Website: www.21scientist.com
+Computer Science in China
+Prospects and China Opportunities
+Turing Award Winner
+Cloudization","Cloud Computing  
+Science Grand Forum  
+
+Website: www.21scientist.com  
+
+Computer Science in China  
+
+Sponsored by the Chinese Academy of Sciences and the American Academy of Sciences","科学大讲坛
+网站:www.21scientist.com
+计算机科学在中国
+前景与中国机会
+图灵奖得主
+云大化",39.48821678356558,56.17719433945454,53.876441706727576,88.88888888888889,0.8582324385643005,0.8996285200119019,0.8784430623054504,0.5438202247191011,0.7088776230812073,0
+OCRMT30K_04207.jpg,"Guiyang Pingxiang Line was opened
+Bus station
+onlooker
+Your A · 31477","Guiyang - Yuxiang  
+Guiyang to Yuxiang Route Opened","贵阳—凭祥班线开通
+客车站
+看客
+贵A·31477",3.983253478176822,23.04528835736157,18.40077019019916,91.66666666666666,0.8593850135803223,0.818074107170105,0.8382208347320557,0.0862068965517241,0.5228299498558044,0
+OCRMT30K_02759.jpg,"EMU self-service ticketing area
+Xinhuanet",CRH High-Speed Train Self-Service Ticketing Area,"动车组自助售票区
+新华网",30.21375397356768,34.587214300016186,25.940410725012136,80.0,0.9115005135536194,0.8582040071487427,0.884049654006958,0.5773420479302832,0.6882491707801819,0
+OCRMT30K_01797.jpg,"Soochow Noodle Restaurant
+Soochow
+Noodles
+Xinxin Flower Art
+Flowers","East Beauty Inn  
+Dong Wu Noodle House  
+Dream Flower Art  ","东吴面馆
+东吴
+面馆
+馨馨花艺
+鲜花",9.2875289995668,23.874803464078497,23.608644972878658,100.0,0.8341284990310669,0.8414556384086609,0.8377760648727417,0.2808302808302808,0.5708244442939758,0
+OCRMT30K_28916.jpg,"Taiwan Organic Anhydrous Pumpkin Cake
+pumpkin cake
+baked and sold
+5 yuan free for 10 yuan
+12.8 yuan/catties","Authentic Taiwanese Organic Waterless Pumpkin Cake  
+Freshly baked and sold on-site  
+No water, no coloring, no additives, green food  
+Franchise contact: 18828097237  ","台湾有机无水南瓜蛋糕
+南瓜蛋糕
+现烤现卖
+满10元送5元
+12.8元/斤",7.076972675308512,35.67285681349276,32.601775226399894,85.0,0.7946925163269043,0.8347557187080383,0.8142316341400146,0.2992021276595745,0.588022768497467,0
+OCRMT30K_22533.jpg,"China sports lottery
+Helping the Elderly, Saving the Orphans, Relieving the Disasters
+Subscribe to the blessing lottery, give love and fortune","China Sports Lottery  
+Recognize and purchase welfare lottery, contribute love, tie welfare bonds  
+Support the elderly, assist the disabled, help the orphaned, and aid those in distress","中国体育彩票
+扶老救孤济困赈灾
+认购福彩献爱心结福缘",9.31580969196188,34.075920600523354,30.949258704061428,104.76190476190476,0.8524925112724304,0.8604045510292053,0.8564302921295166,0.45,0.6963129639625549,0
+OCRMT30K_26860.jpg,"Great Wall Automobile
+Chuan M · 3167","Great Wall  
+Great Wall Motors","长城汽车
+川M·3167",14.320952289897704,29.04664564608106,27.815266180553994,71.42857142857143,0.815332293510437,0.7967292666435242,0.8059234619140625,0.275735294117647,0.4952583014965057,0
+OCRMT30K_03717.jpg,"Professional Women and Amateur Powerful Challenge Arena
+Cao Youyin
+Dong Ming
+Guizhou Bailing Group
+Tiandong County People's Government
+Baise City
+Sports Bureau",Professional Women vs. Professional Men Go Exhibition Match,"职业女子与业余强豪擂台赛
+曹又尹
+董明
+贵州百灵集团
+田东县人民政府
+百色市
+体育局",2.249185649031725,17.49252706086538,15.088414604480231,91.30434782608695,0.8536369800567627,0.7653037309646606,0.8070605397224426,0.0465116279069767,0.3463696837425232,0
+OCRMT30K_05563.jpg,"China Railway High-Speed
+On duty
+Military front line","Harmony Express  
+MIL001.com  
+Military First Line  ","和谐号
+执勤
+军事第一线",6.567274736060395,19.497772127958857,16.276127516007957,75.0,0.8244813680648804,0.8692883253097534,0.8462921380996704,0.1282051282051282,0.5082647204399109,0
+OCRMT30K_28443.jpg,"China Time-honored Brand
+Hamming Sheraton
+Frame+lens+case=199 yuan
+Hamming Sheraton","中华老字号  
+Frame + Lens + Case = 199 Yuan  ","中华老字号
+汉明喜来登
+镜架+镜片+镜盒 =199元
+汉明喜来登",44.32535465175533,16.91756175149235,12.688171313619256,46.66666666666666,0.8271005153656006,0.8645094037055969,0.8453913331031799,0.0555555555555555,0.7344109416007996,0
+OCRMT30K_00355.jpg,"Citibank Shanghai Zhongshan Park Sub branch
+Ground floor of Longzhimeng Shopping Center, 055
+From this forward","Citibank Shanghai Central Park Branch  
+Level B2, Longzhimeng Shopping Center  
+Tel: 055-**  
+
+From here forward","花旗银行上海中山公园支行
+龙之梦购物中心底楼,055
+由此向前",10.914270930124747,52.83108033459488,48.49071468810279,62.5,0.8710182905197144,0.9299249053001404,0.8995082378387451,0.5165289256198347,0.7426239252090454,0
+OCRMT30K_23728.jpg,"body
+i am alive
+Strengthen small physique","""I am active  
+Strengthen my physique""  ","体
+我是活
+强化小体格",13.134549472120788,53.99567741421754,45.75349080361081,42.85714285714285,0.8799462914466858,0.9098897576332092,0.8946675658226013,0.4445422535211268,0.6264569759368896,0
+OCRMT30K_26250.jpg,"Hanchang Education
+Autumn Intensive Class
+Consulting hotline
+autumn
+Surprise
+Surprise 2
+Surprise 3
+Famous teacher
+Teaching","Hi-companion Education  
+
+Autumn Intensive Class  
+Precise - One Step to Success  
+Hi-companion Helps You Succeed  
+
+Hotline: 0728-3331833  15871888813  
+Famous teachers teaching  ","翰昌教育
+秋季强化班
+咨询热线
+秋
+惊喜
+惊喜二
+惊喜三
+名师
+授课",11.328360454400997,47.50894314699235,41.58059509316439,106.25,0.81109219789505,0.869961142539978,0.839495837688446,0.4230986445783133,0.5512562394142151,0
+OCRMT30K_03048.jpg,"close down
+Opening
+Break through thirst","Great Luck  
+Grand Opening","大吉
+开业
+突破渴",9.688464563433238,22.24846145582787,18.92104749806469,100.0,0.8293238878250122,0.8617935180664062,0.8452469706535339,0.0862068965517241,0.4634678959846496,0
+OCRMT30K_28878.jpg,"Grass is grass
+Zone separation comminution solubilization technology
+Bilayer tablets
+A worm is a worm
+Ji Cao
+Cordyceps sinensis pure powder tablets
+(Bilayer tablets)","Grass is grass  
+Double-layer tablet  
+Worm is worm  
+
+Cordyceps pure powder tablet (double-layer tablet)","草是草
+区离粉碎增溶技术
+双层片
+虫是虫
+极草
+冬虫夏草纯粉片
+(双层片)",8.018644532810551,41.62343893385142,38.05707499454478,62.5,0.8858027458190918,0.8792431950569153,0.882510781288147,0.5249999999999999,0.5779241323471069,0
+OCRMT30K_23176.jpg,"danger from heights
+In case of accident","High place danger, in case of accident.","高处危险
+如有意外",31.55984539112946,55.59339872986981,52.45705414767053,42.85714285714285,0.9095603227615356,0.8913789391517639,0.9003778696060181,0.6722222222222223,0.7909734845161438,0
+OCRMT30K_00052.jpg,"Blue ocean environmental protection
+Smog nemesis
+Dust suppression vehicle","Liushenghua  
+Blue Sky Environmental Protection  
+Thunder Battle Star","蓝海环保
+雾霾克星
+抑尘车",10.786826322527466,33.70534335775385,26.699462083879983,77.77777777777779,0.7972187995910645,0.8596862554550171,0.8272749781608582,0.2871410736579275,0.4401480853557586,0
+OCRMT30K_28651.jpg,"WASH STRIPED CREW NECK T-SHIRT
+Classic style, simple and versatile.
+The fabric has a strong texture.
+(Long sleeve)","Washed Striped Crew Neck T-Shirt (Long Sleeve)  
+
+Classic striped design, suitable for a wide range of occasions.  ","水洗条纹圆领T恤
+经典款型，简洁百搭。
+面料质感结实。
+（长袖）",22.87838649814505,25.18474151465518,23.34094675028385,66.66666666666666,0.8963367342948914,0.9115221500396729,0.90386563539505,0.5037371535347243,0.7233712077140808,0
+OCRMT30K_18290.jpg,"Liuhua Junting Underground Garage
+Automatic rise and fall
+Go slow and be careful","Liuhua Junting Underground Garage  
+Entrance  
+5 (Speed Limit)    
+2.2m (Height Limit)  
+No Fire   
+No Horn  
+Entrance  
+One Vehicle at a Time  
+Automatic Gate Opening  
+Proceed with Caution  ","流花君庭地下车库
+自动起降
+小心慢行",7.939087147543495,48.23904353661764,42.36833214838692,176.9230769230769,0.8022485971450806,0.9073665142059326,0.8515759110450745,0.4288472145615002,0.6056435704231262,0
+OCRMT30K_07395.jpg,"Xinqilin Club Association
+Launching ceremony","2014  
+Xinlu Club Office   
+Launching Ceremony","鑫麒麟俱乐部会所联
+启动礼",17.965205598154213,38.27731139410316,33.5701261189225,60.0,0.8403933048248291,0.8942988514900208,0.8665085434913635,0.5010893246187365,0.8381763100624084,0
+OCRMT30K_17394.jpg,"Thailand) Group Newtown Real Estate Chuxiong Agency
+Thailand) Group International Driving School Chuxiong Agency
+Thailand) Fulai International Tourism Chuxiong Consulting Office","STUDIO  
+(Thailand) Group Wuzhishan Real Estate Agency  
+(Thailand) Group International Smart Real Estate Agency  
+(Thailand) Fumeilai International Tourism Consulting Office","泰国）集团纽霍敦地产楚雄代理处
+泰国）集团国际驾校楚雄代理处
+泰国）福来国际旅游楚雄咨询处",18.91211337754998,63.1125415605696,57.97695536738829,38.095238095238095,0.8625192642211914,0.8863356113433838,0.8742652535438538,0.6658754897194658,0.6864612698554993,0
+OCRMT30K_24500.jpg,"Please take care of your children
+Please hold
+Please be careful of staircase slit
+Do not use a cart","1. Please take good care of your children.  
+2. Please hold the handrail tightly.  
+3. Please watch out for the gap between steps.  
+4. Do not use carts.  ","请牵好孩童
+请紧握扶梯
+请小心梯逢
+勿使用推车",11.554716243103432,52.953971909685336,50.60685899785216,89.47368421052632,0.8631604909896851,0.8978235721588135,0.8801508545875549,0.5548409227338993,0.7626035809516907,0
+OCRMT30K_18060.jpg,"Wuyang
+Electric vehicle
+Tel.: 13813359258","Wuyang Electric Vehicles  
+Phone: 13813352558  ","五羊
+电动车
+电话：13813359258",15.207218222740094,60.85747392617248,54.39686687606133,60.0,0.9076008200645448,0.9394867420196532,0.9232685565948486,0.5434782608695652,0.9260219931602478,0
+OCRMT30K_29762.jpg,"Science and technology LuHua
+International quality
+Won the National Science and Technology Progress Award
+Luhua 5S press process","""Scientific and Technological Lu Hua, National Award Quality  
+Honored with the National Science and Technology Progress Award  
+Lu Hua 5S Pressing Technique  
+Removal of Aflatoxin from Peanut Oil  
+Core Technology of Lu Hua Palm""","科技鲁花
+国奖品质
+荣获国家科学技术进步奖
+鲁花5S压榨工艺",16.98754758382859,57.01377977907463,51.58464052727278,133.33333333333331,0.8364241123199463,0.8980358839035034,0.8661357164382935,0.5431672250139588,0.6266775727272034,0
+OCRMT30K_02762.jpg,"Gangdu European Garden Hotel
+It's a great opening","Chengdu European-Style Garden Hotel  
+Provides Banquets, Affordable Fast Food  
+Order Hotline: 86536916  
+
+Open for Business  ","钢都欧式花园酒店
+开张大吉",4.5739135561238005,40.51968093502957,34.380200010827885,144.44444444444443,0.807085394859314,0.899438202381134,0.8507627844810486,0.2607709750566893,0.5275561809539795,0
+OCRMT30K_02530.jpg,"The kick-off meeting of the 973 Program ""Research on Key Scientific Issues of Multimodal Molecular Impact""
+Develop high technology
+Realize industrialization","973 Program ""Key Scientific Issues in Multi-state Molecular Imaging Research"" Project Launch Meeting  
+Develop Advanced Technology, Achieve Broad Industrialization","973计划“多模态分子影响关键科学问题研究”项目启动会
+发展高科技
+实现产业化",12.5358499346315,54.904887771501855,48.96455505595249,71.42857142857143,0.8988056182861328,0.9035127758979796,0.9011530876159668,0.4735019766931087,0.7762637138366699,0
+OCRMT30K_00996.jpg,"Jinhai
+Zhongshan Street
+High voltage hazard
+State Grid
+Property
+1-2 # cable branch box","Jinhai Mansion  
+State Grid  
+Zhongshan Street  
+1-2 Cable Branch Box  
+High Voltage Danger  ","金海
+中山街
+高压危险
+国家电网
+地产
+1—2#电缆分支箱",21.476890819300504,48.50255303565728,44.67296099993243,37.5,0.8817762136459351,0.9311508536338806,0.9057912230491638,0.7271538141387718,0.793023407459259,0
+OCRMT30K_03003.jpg,"Foxconn general workers
+Shenzhen Factory
+Registration point
+Application Registration Office",Shenzhen Factory Registration Point,"富士康普工
+深圳厂区
+报名点
+应聘登记处",22.31301601484299,37.5644153070395,35.644541658938635,60.0,0.9221919178962708,0.8734564185142517,0.8971627950668335,0.3357712765957447,0.7067431211471558,0
+OCRMT30K_00947.jpg,"Postal Savings Bank of China
+China Post
+Kongliang Traditional Hotpot","Yucun Fish Mansion wishes all citizens a happy New Year, all the best, and a prosperous Spring Festival.  
+Fresh Fish Feast Health Pot  
+China Post  
+Postal Savings Bank of China  ","中国邮政储蓄银行
+中国邮政
+孔亮传统火锅",12.092555992625888,45.40620995285896,44.846381966102285,250.0,0.8155338168144226,0.8688145875930786,0.8413314819335938,0.5160112825618052,0.4864307343959808,0

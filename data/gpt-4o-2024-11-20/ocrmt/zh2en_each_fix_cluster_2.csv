@@ -1,0 +1,1095 @@
+img,reference,predicts,source,BLEU,CHRF,CHRF++,TER,BERT-P,BERT-R,BERT-F1,METEOR,COMET,cluster
+OCRMT30K_17393.jpg,"Hunan Road Street
+Hunan Road Street
+Fuzhong Residential Area
+Fuzhong Residential Area
+Fuzhong Neighborhood Party Branch
+Fuzhong Neighborhood Committee
+Fuzhong Community Lianhua Labor Union
+Youth League Branch of Fuzhong Residential Area
+Women's Home
+Party member service station
+Audiovisual Education Playpoint for Party Members
+Party building service station
+Health service point of regional party building project
+Nearby activity room for veteran cadres
+Volunteer service workstation
+Social security comprehensive management workstation
+Fire workstation
+Actual population information collection point
+Community Police Office (Community Police Point)
+Fuzhong Community Legal Service Station
+Contact point for consumer protection
+Party building service station
+Network management joint service workstation
+Entrance and Family Planning Guidance Room
+Senior activity room
+Elderly catering service point
+Regular social donation receiving point
+Red Cross Service Station
+Employment assistance consultation point
+Cultural activity ""Three Room Art Pavilion""
+Popular Science Activity Center
+Youth Education Base
+Shanghai Distance University for the Elderly","**Left Board:**
+
+Fuzhong Community Party Branch  
+- Fuzhong Community Residents' Committee  
+- Fuxia Residential Area United Trade Union  
+- Fuzhong Community Communist Youth League Branch  
+- Home for Women  
+- Party Member Service Station  
+- Fuxia Residential Area Educational Practice Exhibition Hall  
+- Civilized Residential Area Work Station  
+- Regional Civilization Construction Health Service Station  
+- Senior Citizen Activity Room  
+- Volunteer Service Work Station  
+- Social Governance Comprehensive Management Work Station  
+- Mediation Work Station  
+- Service Point for Resident Information Collection  
+
+**Right Board:**
+
+- Community Police Service Office (Community Police Point)  
+- Fuzhong Community Legal Service Station  
+- Fire Safety Joint Prevention and Protection Work Station  
+- Party Member Service Station  
+- Online Public Opinion Management and Work Coordination Platform  
+- Population and Family Planning Guidance Office  
+- Senior Citizen Activity Room  
+- Elderly Assistance Service Station  
+- Economic Assistance and Social Relief Referral Workstation  
+- Red Cross Service Point  
+- Employment Assistance Station  
+- Cultural Activity Center - “Three Treasures Art Center”  
+- Children’s Activity Base  
+- Senior Citizen Sunshine Apartment Service Office  ","湖南路街道
+湖南路街道
+复中居民区
+复中居民区
+复中居民区党支部
+复中居民委员会
+复中小区连华工会
+复中居民区团支部
+妇女之家
+党员服务站
+党员电化教育播放点
+党建服务站
+区域化党建项目健康服务点
+老干部就近活动室
+志愿服务工作站
+社会治安综合治理工作站
+消防工作站
+实有人口信息采集点
+社区警务室（社区警务点）
+复中社区法律服务站
+消费者权益保护联络点
+党建服务站
+网络化管理联勤工作站
+入口和家庭计划生育指导室
+老年活动室
+老年人助餐服务点
+经常性社会捐助接收点
+红十字服务站
+就业援助咨询点
+文化活动“三室艺亭”
+科普活动中心
+青少年教育基地
+上海远程老年大学",12.646170861423768,52.50074500636161,45.87218616845608,70.06802721088435,0.8203465938568115,0.8642552495002747,0.841728687286377,0.4322053652339563,0.7603054046630859,2
+OCRMT30K_00090.jpg,"Emergency rescue booth
+Haidian District Red
+Holy Forest Joins Hands with Public Welfare
+Nursing dressing tablets
+Electronic thermometer
+Cooling ice bag
+Fraternity Rescue is around
+Runjing Science and Trade Co., Ltd. (donation)
+Hygienic inspection gloves
+Alcohol cotton flake
+surgical mask
+Bayonet tourniquet
+Medical adhesive tape
+First-aid blanket
+Fire blanket
+Triangle scarf
+Emergency glare flashlight
+Reflective warning vest","Emergency rescue kiosk  
+
+Shenglin joins hands with public welfare  
+Spreading love, rescue is by your side  
+
+Donated by Fengjing Technology Trading Co., Ltd.  
+
+Haidian District Hongjian Community","应急救援亭
+海淀区红
+圣林携手公益
+护理敷料片
+电子体温计
+降温冰袋
+博爱救在身边
+润景科贸有限公司(捐赠)
+卫生检查手套
+酒精棉片
+医用口罩
+卡口止血带
+医用胶带
+急救毯
+灭火毯
+三角巾
+应急强光手电
+反光警示马甲",10.060666457697783,23.930246297078632,21.44681742253908,80.7017543859649,0.8503895998001099,0.8326092958450317,0.8414055109024048,0.288340499023966,0.4384270012378692,2
+OCRMT30K_03806.jpg,"Manyuan Specialty Restaurant
+45 Renmin Road
+home cooking
+Home cooked vegetables
+Features of our store
+economical and practical
+Welcome
+Healthy casserole
+Black bone Chicken Health Casserole
+Double Phoenix Healthy Casserole
+Chicken Nourishing Casserole
+Wild Turtle Casserole
+Homely
+Sichuan Cuisine
+15 yuan
+Home cooking series","Man Yuan Specialty Restaurant  
+Renmin Road No. 45  
+Home-Style Dishes - Fragrant Restaurant  
+
+Economical and Affordable  
+
+Home-Style Stir-Fry  
+House Specialty  
+Boiled Fish Large Hotpot  
+
+Welcome!  
+
+川菜系列 (Sichuan Cuisine Series):  
+House specials and prices listed.  
+
+家常菜系列 (Home-Style Dish Series):  
+Various dishes and their respective prices displayed.  ","满园特色餐馆
+人民路45号
+家常菜
+家常炒菜
+本店特色
+经济实惠
+欢迎光临
+养身大沙锅
+乌鸡养身大沙锅
+双凤养身大沙锅
+草鸡养身大沙锅
+野生甲鱼大沙锅
+家常
+川菜系
+15元
+家常菜系列",2.926030824737281,33.84551193417161,28.68814376359741,102.27272727272728,0.7979429960250854,0.850176990032196,0.8232322931289673,0.1890859817689086,0.5570991635322571,2
+OCRMT30K_12732.jpg,"steel strand
+Rope
+Zhaofeng fan
+Address: No. 1, Building 11, Zone C, Fenghuo Electromechanical Market Tel: 027-8871656
+Wholesale
+Lifting motor
+No. 1, Building 11, Zone C, Fenghuo Electromechanical Market Tel:
+Traveling electric hoist
+Chengdu measuring the number of cutting tools
+Chengdu Tool Group Co., Ltd
+Wuhan Cutting Edge Measuring Tool NC Tool Sales Office","Pengfeng Fans  
+Address: Linghuo Motor and Electrical Appliance Market, Area C, No. 11, Unit 1  
+Phone: 027-88716555, 13667108872  
+
+Weiliang Tools Group Co., Ltd.  
+Wuhan Weiliang Blade Tool Numerical Control Cutter Sales Office  
+Address: Linghuo Motor and Electrical Appliance Market, Area C, No. 11, Unit 2  
+Phone: 027-88732004  
+Mobile: 13871083321  ","钢绞线
+绳
+肇丰风机
+地址：烽火机电大市场C区11栋1号 电话：027-8871656
+批发肇
+起重电动
+烽火机电市场C区11栋1号 电话：
+行吊电葫芦
+成都量刃具数
+成都工具集团有限公司
+武汉锋刃工量具数控刀具销售处",11.469421766238854,33.695085525974086,32.90393152456617,89.28571428571429,0.8533059358596802,0.8679431676864624,0.860562264919281,0.3788785897103112,0.6005485653877258,2
+OCRMT30K_01831.jpg,"Suzhou People Kuatang Store
+Special price for banquet
+Su E · 71P99
+To thank new and old customers for their support and kindness to our store,the following benefits are available for holding banquets:
+Reservation hotline: 0512-62745999
+Please consult the shop for details
+If you choose 888 yuan, you can get one bottle of big Sprite and orange juice for each table
+One bottle of big Sprite orange juice, four bottles of beer and one bottle of red wine will be given to each table if you choose 1288 yuan bid list","Suzhou Renjia Cuisine Restaurant  
+Banquet Special Introduction  
+Quality Choice  ","苏州人家跨塘店
+宴会特价
+苏E·71P99
+为答谢新老顾客对本店的支持和厚爱,特为举办宴会提供下列优惠:
+预定热线:0512-62745999
+详情请到店堂咨询
+凡选888元标单送每席大雪碧大橙汁各一瓶
+凡选1288元标单送每席大雪碧大橙汁各一瓶、啤酒四瓶、红酒一瓶",0.0002848689104029,7.047181960628339,5.6096479463609015,98.93617021276596,0.8350052833557129,0.7883760929107666,0.8110210299491882,0.0170068027210884,0.3354579210281372,2
+OCRMT30K_03582.jpg,"Altar field
+The 25th Ditan Spring Festival Temple Fair
+VIP hotline: 84258979
+Opening time: February 13 to February 20, 2010
+Group ticket: eight yuan/piece
+Traditional food
+Variety show
+Sacrificial performance
+Beijing Family
+Boutique New Year Goods
+Flavor Teahouse
+Packaged food
+Cultural Activity
+Children's recreation
+Northeast Errenzhuan
+Popular Opera Festival","25th Ditan Spring Festival Cultural Temple Fair  
+
+Consultation hotline: 8425 8979  
+Opening time: February 13th, 2010 to February 20th, 2010  
+Lunar Year: From the 30th day of the 12th lunar month to the 7th day of the 1st lunar month  
+
+Ticket price: 10 Yuan/person","坛地
+第25届地坛春节文化庙会
+贵宾热线:84258979
+开幕时间:2010年2月13日至2月20日
+团体票:捌元/张
+传统美食
+综艺演出
+祭地表演
+北京人家
+精品年货
+风味茶馆
+包装食品
+文化活动
+儿童游艺
+东北二人转
+百姓大戏节",12.540425576972089,37.307554366318826,35.02165251919203,76.92307692307693,0.8491716384887695,0.8534930348396301,0.8513268828392029,0.305149422953261,0.5308910608291626,2
+OCRMT30K_17542.jpg,"Seiko doors and windows
+Argon arc welding
+Electric welding
+Stainless steel processing stair anti-theft window aluminum alloy window plastic steel window
+Change the window screen and various doors Tel: 13193611690
+Electric vehicle maintenance
+Business: Tianneng Chaowei original accessories
+Tel.: 13839429556 18749258816
+Lanzhou
+Electric vehicle maintenance
+Brand name batteries are exchanged for new ones
+Specialized tram
+Decorative material
+Rainbow Advertising
+Stir fried noodles","Rainbow Advertising  
+Refined Doors and Windows | Argon Welding Electric Welding  
+Repair Electric Vehicles  
+Manager: Tian Neng, Chaowei, Original Factory Accessories  
+Phone: 13334929556, 18749258816  
+Famous Brand Batteries—Trade Old for New  ","精工门窗
+氩弧焊
+电焊
+不锈钢加工 楼梯 防盗窗 铝合金窗 塑钢窗
+换窗纱 各种门业 电话：13193611690
+维修电动车
+经营：天能 超威 原厂配件
+电话：13839429556 18749258816
+兰州
+维修电动车
+名牌电池 以旧换新
+专修电车
+饰材料
+彩虹广告
+炒拉条 炒面条",4.024970170469089,27.77438784316416,23.59102570457218,82.25806451612904,0.8592098951339722,0.864584743976593,0.8618889451026917,0.2203298887122416,0.5730509757995605,2
+OCRMT30K_29159.jpg,"Ditan
+The 25th
+Ditan Spring Festival Cultural Temple Fair
+VIP hotline :8425
+Opening time: From February 13 to February 20, 2010
+From the 30th day of the Lunar New Year to the 7th day of the first lunar month
+Group ticket: eight yuan per piece
+The traditional food
+Variety show
+Offering to show
+People in Beijing
+Boutique New Year's goods
+Flavor tea house
+Packaged food
+Cultural activities
+Children's entertainment
+the northeast song-and-dance duet
+People's Drama Festival","25th Ditan Temple Fair Spring Festival Cultural Gathering  
+
+Hotline: 8425 8979  
+
+Dates: February 13, 2010 to February 20, 2010 (Lunar New Year’s Eve to the 7th day of the Lunar New Year)  
+
+Group ticket price: 5 yuan/person","坛地
+第25届
+地坛春节文化庙会
+贵宾热线:8425
+开幕时间:2010年2月13日至2月20日
+.农历大年三十至正月初七
+团体票:捌元/张
+传统美食
+综艺演出
+祭地表演
+北京人家
+精品年货
+风味茶馆
+包装食品
+文化活动
+儿童游艺
+东北二人转
+百姓大戏节",17.03062763833863,33.17127401441321,33.35966438337298,69.62025316455697,0.8916910290718079,0.8603092432022095,0.8757190108299255,0.3498893053579391,0.5971137881278992,2
+OCRMT30K_00915.jpg,"Encounter afternoon tea
+Afternoon Tea Value Package
+Choose 1 from 8 and 3 from 16
+Wu people
+8 beverages and teas, you can choose one; 16 desserts and snacks, you can choose from three; There is also a free refill discount for tea and water!
+Tea Beverage Price List
+Medlar jujube chrysanthemum tea
+Black plum Pu'er tea
+10 yuan
+10 yuan
+Tie Guanyin
+West Lake Longjing green tea
+Dim Sum Price List
+6 yuan
+Fried wonton (3 pieces)","29 Yuan  
+Afternoon Tea Value Set Meal  
+Choose 1 from 8 drinks + Choose 3 from 16 snacks  
+
+Afternoon Tea  
+Afternoon tea is a unique lifestyle experience. There's no hassle, no rush, just pure enjoyment.  
+
+Tea and Drinks Price List:  
+Hong Kong Style Milk Tea - 16 Yuan  
+Hong Kong Style Coffee - 16 Yuan  
+Hong Kong Style Ying Yang Tea (Coffee & Tea Mix) - 16 Yuan  
+Fresh Lemon Tea - 16 Yuan  
+West Lake Dragon Well Tea - 10 Yuan  
+
+Dim Sum Menu:  
+Crunchy Radish Cake (2 pieces) - 9 Yuan  ","邂逅下午茶
+午茶超值套餐
+8选1+16选3
+吴地人家
+8款饮料茶饮,任您选一款;16款甜点小吃,任您选三款;茶水类更有免费续杯优惠!
+茶水饮料价目表
+枸杞大枣菊花茶
+乌梅普洱茶
+10元
+10元
+铁观音
+西湖龙井茶
+点心价目表
+6元
+生煎馄饨(3只)",8.960336773032365,33.71169401148744,30.95563238622637,93.5897435897436,0.8368136882781982,0.8625204563140869,0.8494726419448853,0.3061169447640966,0.6535441279411316,2
+OCRMT30K_29738.jpg,"Fire alarm channel map
+Please check the peephole on the side door to see the visitors outside before opening the door
+You are here
+Note: Security instructions are placed behind the bathroom door
+For your safety, please use anti-theft hook and peephole
+In case of fire or smoke, alarm immediately
+The path map indicates the location of the nearest fire exit
+In case of fire, do not use the elevator
+Please use the fire exit stairs
+EXIT","Fire Escape Plan  
+Identify all callers through door viewer before opening door.  
+If you detect fire or smoke, proceed to the nearest exit as indicated.  
+Per safety instructions:  
+In case of fire, do not use elevators.  
+Use exit staircases.  
+
+Your Room  
+Emergency exits  
+
+Important safety/security instructions located behind the bathroom door.  
+
+For your safety, please use the safety chain and the door viewer.  ","火警通道图
+请边门上的窥视孔看清楚门外的访客才开房门
+你在此处
+注意:保安措施须知放置在洗手间门后
+为了您的安全,请使用防盗钩及窥视孔
+如果发现有火警或浓烟时,立即照火警
+通道图的指示往最近安全出口的位置
+如遇火警,请勿使用电梯
+请用安全出口楼梯
+安全出口",24.209684408891263,49.10962914013509,46.16699572588863,70.12987012987013,0.8577357530593872,0.8780307769775391,0.8677646517753601,0.3788460163814369,0.768678605556488,2
+OCRMT30K_06026.jpg,"Municipal citizen's rules
+Friendly bag
+Neighborhood harmony
+Municipal Postal Service Office
+Treasure assets
+Opening time
+Help those in need and aid the poor
+Postal Code:
+Postal Code: 573199
+Postbox
+@Chen Changfeng
+Honesty and trustworthiness
+protect
+Protect ecology
+Publicity by the Management Committee
+Respecting morality and keeping etiquette
+Love Sansha
+The second time
+The first time
+Enthusiastic in public welfare
+trade","Signboard:  
+""Sansha Post Branch on the Sea Frontier""  
+
+Yellow Plate:  
+""Business Hours  
+08:00–12:00  
+15:00–17:30""  
+
+Mailbox:  
+""Postal Mailbox""  
+
+Label on Mailbox:  
+""Opening Hours  
+First Time:  
+Second Time:  
+Postal Code: 573199""","市市民公约
+友善包
+邻里和谐
+市邮政营业厅
+珍惜资
+开筒时间
+扶危济困
+邮政编码:
+邮政编码573199
+邮政信筒
+@陈昌凤
+诚实守信
+保护
+保护生态
+管理委员会宣
+崇德守礼
+热爱三沙
+第二次
+第一次
+热心公益
+业",7.456011611495969,17.730796525409566,16.084163286694142,90.32258064516128,0.7840218544006348,0.823523759841919,0.8032875061035156,0.184660961158657,0.4029092490673065,2
+OCRMT30K_13322.jpg,"There is a feast for the Chinese people to celebrate the fate of this world
+Wanjiafu Supermarket
+Dayong Decoration
+Indoor and outdoor decoration of water heating pipes for lamps TEL: 18915131189
+Bull
+Bull safety socket
+Huashi Hardware Store
+Business: plumbing appliances, agricultural machinery, daily necessities, pipe fittings
+Tel.: 82608181","1. Everyone's Happiness Supermarket  
+2. Dayong Decoration  
+3. Hua's Hardware Store  ","有喜庆 今世缘中国人的喜酒
+万家福超市
+大勇装饰
+灯具水暖管材 室内外装饰 TEL：18915131189
+BULL公牛
+公牛安全插座
+华氏五金店
+经营：水暖 电器 农机 日杂 管材 管件
+电话：82608181",0.4425659927920406,16.194035883237426,14.027406862534932,91.83673469387756,0.8443311452865601,0.7990319728851318,0.8210572004318237,0.0819978632478632,0.4027168452739715,2
+OCRMT30K_06328.jpg,"Xiaomi mobile phone 5
+Snapdragon 820 processor / 4GB memory / 128GB memory / 4-axis anti shake camera / 3D ceramic body
+Xiaomi mobile phone 5, Xiaomi mobile phone 4S and in store sales
+Xiaomi's home is located in multicolored City B1
+More than ten black technologies are very light and fast","Xiaomi Mi 5  
+Over ten leading-edge technologies, very light and fast  
+
+Snapdragon 820 processor | 4GB RAM / 128GB storage | 16MP 4-axis OIS camera | 3D ceramic body  
+
+Starting at 1999 RMB  
+
+Xiaomi flagship product launches at Subway Line 1 B1 level  
+Xiaomi Mi 5, Xiaomi Mi 4S, sales within China","小米手机5
+骁龙820处理器/4GB内存/128GB内存/4轴防抖相机/3D陶瓷机身
+小米手机5、小米手机4S、店内均有销售
+小米之家位于五彩城B1
+十余项黑科技,很轻狠快",12.075852478670082,42.612284073913095,40.433523161057884,72.72727272727273,0.8707119822502136,0.905952215194702,0.8879825472831726,0.3976530785594933,0.7196138501167297,2
+OCRMT30K_00093.jpg,"In the era of mass entrepreneurship
+Youth Innovation Salon of Chinese Academy of Sciences
+The unmanned age is coming
+Remote sensing micro world
+Institute of Geographic Sciences and Resources, Chinese Academy of Sciences
+UAV Remote Sensing Salon
+Notice
+Time: 14:00-16:30, January 19, 2017
+Location: Section 2, Institute of Geographic Science and Resources, Chinese Academy of Sciences, 2602
+A11 Datun Road, Chaoyang District, Beijing
+CAS Innovation Incubation Investment Company
+Lenovo College, Chinese Academy of Sciences","Announcement  
+
+CAS Youth Innovation Salon  
+Special Panel Discussion on Drones in the Era of Crowds  
+
+The Era of Unmanned Systems is Approaching – Explore the Boundless World  
+
+Time: January 19, 2017, 14:00–16:30  
+Location: Room 2602, 2nd Section, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences,  
+11A Datun Road, Chaoyang District, Beijing  
+
+Hosted by:  
+Innovation Strategy Experts Committee, Chinese Academy of Sciences  
+CAS Youth Innovation Promotion Association  
+Jointly organized by:  
+Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences  
+China University of Geosciences  
+
+Scan QR code to join","众创时代下的
+中科院青年创新沙龙
+无人时代驾临
+遥感精微世界
+中国科学院地理科学与资源研究所
+无人机遥感专场沙龙
+公告
+时间:2017年1月19日14:00-16:30
+地点:中科院地理科学与资源研究所二段2602
+北京市朝阳区大屯路甲11号
+中科院创新孵化投资公司
+中国科学院联想学院",28.64223045415928,60.489665131628925,58.114544568750304,78.2051282051282,0.8531348705291748,0.9164845943450928,0.8836758136749268,0.512551060667284,0.7229299545288086,2
+OCRMT30K_02062.jpg,"The contract price is 5288 yuan, which is lower
+China Telecom Yiyang Branch
+Xiang H · M9510
+Xiang H91357
+life
+Light speed broadband reduced to 0 yuan
+Self service hotline: 10001 Customer service hotline: 10000
+First launch, hot sale!
+Refusal to pay fees and other illegal and disciplinary acts
+Lian Toll Station","Limited Edition iPhone 5  
+Enjoy ultra-low contract prices: Contract price 5288 RMB, even lower with a contract  
+Enjoy huge bonuses: Monthly call fees at 30% of the original price  
+Enjoy massive data: Get 7.2G of data instantly  
+Enjoy broadband discounts: Broadband fee reduced to 0 RMB  
+
+China Telecom Yiyang Branch","合约价5288元,更低合约价
+中国电信益阳分公司
+湘H·M9510
+湘H91357
+世
+光速宽带降至0元
+自助服务热线:10001客户服务热线:10000
+首发,炎热发售中!
+抗费等违法违纪行为
+莲收费站",7.539976833975026,33.52709573292964,29.78671803085101,90.3846153846154,0.8364182710647583,0.832282543182373,0.8343453407287598,0.2248096074985354,0.5609543323516846,2
+OCRMT30K_02014.jpg,"Swiss Rome watch
+Five Elements Sun Family Series · Mercury
+International website: www.roamer.ch
+China website: www.roamer.com.cn
+Fax: 86-755-82396939
+Tel.: 86-755-82396936
+Swiss Roman watch owner","Quality Time  
+www.roamer.ch  
+125 Years Anniversary  
+Owner of a Roamer  
+Roamer of Switzerland  
+Swiss 罗马表  
+Phone: 86-755-82396936   Fax: 86-755-82396939  
+China Website: www.roamer.cn","瑞士罗马表
+五行太阳家庭系列·水星
+国际网址:www.roamer.ch
+中国网址:www.roamer.com.cn
+传真:86-755-82396939
+电话:86-755-82396936
+瑞士罗马表拥有者",42.02569879217367,45.968828022718064,40.00332330447057,67.56756756756756,0.8512148261070251,0.8997154235839844,0.8747933506965637,0.3106397734496907,0.6819385886192322,2
+OCRMT30K_01218.jpg,"Promotion price for the Spring Festival
+new pattern
+100 minus 40
+part
+100 minus 55
+Full 100 minus 40
+Spring Festival 399-499
+From 680 yuan to the full amount of level 5
+Hassan
+Spring Festival 399-499
+Spring Festival 399-499
+Buy it Now price starts from 199 yuan
+Time: April 20 - May 6, 2012
+Venue: North of B2So Search Multi functional Area
+Application conditions
+Do you have","HARSON  
+
+New spring promotional price  
+399 yuan  
+
+New arrivals  
+100 yuan off 40 yuan  
+
+Partial items  
+100 yuan off 55 yuan  
+
+Special price starting at 199 yuan  
+
+Promotion Date: February 6, 2012 - May 6, 2012  
+Location: B2, La Vita  
+
+Please consult staff for details.  ","新春推广价
+新款
+100减40
+部分
+100减55
+满100减40
+新春399—499
+全馆满680元起5级满额赠
+哈森
+新春399—499
+新春399—499
+一口价199元起
+活动时间:2012年4月20日—5月6日
+活动地点:B2So搜多功能区北侧
+申请条件
+请问您有",6.200851216495465,25.3457498685948,23.369856754538485,86.3013698630137,0.8279832601547241,0.8531732559204102,0.8403894901275635,0.2265742322381718,0.6284995079040527,2
+OCRMT30K_17808.jpg,"Potato powder
+Instant noodles
+Shortcake
+Hand made dumplings with fried noodles
+Tianjin Steamed Buns
+Main Products: Xiaoyao Town pepper soup, beef pepper soup, eight-treasure porridge, millet porridge, pumpkin lily porridge, red dates and black bean porridge, polenta, steamed dumplings, steamed dumplings, fried noodles, beer side dishes","Tianjin Steamed Dumplings  
+Main Offerings:  
+Dishes: Zhuangzhen Sour Soup, Beef Sour Soup, Eight Treasure Congee, Millet Pumpkin Congee, Red Bean Black Rice Congee, Corn Congee, Steamed Dumplings, Steamed Buns, Porridge, Stir-fried Dishes, Noodles, Small Appetizers","土豆粉
+便面
+油酥饼
+炒面 手工水饺
+天津小笼包
+主营：逍遥镇胡椒汤 牛肉胡椒汤 八宝粥 小米粥 金瓜百合粥 红枣黑豆粥 玉米粥 小笼包 蒸饺 水饺 炒面 啤酒小菜",13.577732361637,31.929068077128207,27.807477939731807,76.08695652173914,0.8744065761566162,0.8703559637069702,0.872376561164856,0.3173697761933056,0.6264799237251282,2
+OCRMT30K_24557.jpg,"Online anti-theft alarm
+Three guarantees demonstration site in front of the door
+Heating and cooling open
+No Photography
+No Smoking
+No Food
+No Pets
+Push·
+blessing
+Discount Store
+Imported from South Korea
+blessing
+Whole store
+From 40% off
+Focus on the sales of Korean imported brand women's wear for seven years
+Women's wear imported from South Korea [discount store]","Korean Imported Women's Clothing (Discount Shop)  
+Whole Store Starts at 40% Off  
+
+Seven years of focus on Korean imported women's clothing  
+Because of specialty, therefore excellence  
+
+Do not take photographs  
+WIFI  
+Air conditioning is on  
+Do not bring pets  
+Do not bring food and drinks  
+Do not smoke","联网防盗报警
+门前三包示范点
+冷暖气开放
+请勿拍照
+请勿吸烟
+请勿带食物
+请勿带宠物
+推·
+福
+折扣店
+韩国进口
+福
+全店
+4折起
+七年专注于韩国进口品牌女装销售
+韩国进口女装【折扣店】",4.548149607267441,32.01419141528499,27.561015114155524,90.625,0.8238864541053772,0.8563660979270935,0.8398123383522034,0.2864445546737214,0.6554755568504333,2
+OCRMT30K_03245.jpg,"Shanghai Famous Snack
+Chenghuang Temple Steamed Dumplings
+Seafood Wonton (Wonton)
+Chongqing Special Snacks
+Fragrance outside the door
+Weird Noodles
+Join in hotline: 13101230081
+Welcome
+Wonton with Pickled Cabbage (Wonton)
+Spicy Wonton (Wonton)
+Noodle & Pastries
+Diaoxiao Noodles
+Saute knife
+Hired handyman
+Authentic Chongqing flavor
+Weird Noodles
+Chongqing Special Snacks
+Bayu Flavored Noodles","Shanghai Famous Snacks  
+""Cheng Huang Temple Small Steamed Pork Bun""  
+Seafood Wonton (Handmade)  
+Sour Vegetable Wonton (Handmade)  
+Spicy Wonton (Handmade)  
+
+Chongqing Specialty Snack  
+""Outside Door Fragrance"" Strange Taste Noodles  
+Noodles, Rice, Fried, Braised, Steamed, Dry  
+Authentic Flavors, Continuous Happiness  
+加盟热线 (Franchise Hotline): 13101230081  
+
+Welcome Guests","上海名小吃
+城隍庙小笼灌汤包
+海鲜馄饨(抄手)
+重庆特色小吃
+门外香
+怪味面
+加盟热线:13101230081
+欢迎光临
+酸菜馄饨(抄手)
+麻辣馄饨(抄手)
+面食
+刀削面
+炒刀削
+聘杂工
+正宗重庆风味
+怪味面
+重庆特色小吃
+巴渝风味门外香怪味面",9.016845349729008,44.458430952923344,39.77266927697723,84.61538461538461,0.8385828733444214,0.8829154372215271,0.8601783514022827,0.3117736987779654,0.6350396275520325,2
+OCRMT30K_02024.jpg,"Tip: fishing area, water depth is dangerous!
+Hand pole (fish release during the day) 100 yuan
+The above is limited to one pole for one person, and multiple poles are charged separately
+Swimming is prohibited and drowning is at your own risk!!!
+(no fish release during the day) 80 yuan
+Those who steal fishing will be fined 200 yuan","Notice: Fishing area, deep water, danger!  
+Swimming is prohibited. Any consequences of drowning will be borne by individuals!  
+
+Hand rods:  
+(Catch-and-release during the day) 100 RMB  
+(No release during the day) 80 RMB  
+Night fishing: 120 RMB  
+
+Each person is limited to one rod. Additional rods will incur extra charges.  
+Private poaching/theft: Penalty of 200 RMB.","提示:垂钓区域,水深危险!
+手竿(放鱼白天)100元
+以上只限一人一杆,多杆另收费
+禁止游泳溺水身亡后果自负!!!
+(不放鱼白天)80元
+私自偷钓者,罚款200元",21.63299198489343,48.264165248141374,45.51210954553419,74.57627118644068,0.8710016012191772,0.9022584557533264,0.8863545656204224,0.500647423609946,0.7199305891990662,2
+OCRMT30K_02763.jpg,"Students' birthday party
+Academician
+Hunan Pavilion
+Cantonese
+Gold Treasure Land is rich
+Water Bar
+Welcome to taste
+Guiling Paste, Babao Porridge, various jellies, original fruit juice, milk tea, ice black tea, ice green tea
+Cereals, oils and non-staple food
+five blessings
+Cool and Calm down · Beauty
+Secret system:","Yue Wei Tribe  
+Learning Residence Family Restaurant  
+
+Celebrate banquets, classmates' birthday gatherings  
+
+Welcome to enjoy: coconut juice, watermelon juice, herbal tea, eight treasure ice, red bean paste, almond milk tea, milk tea, lemon tea, bean curd with syrup...  
+
+Golden treasure, great fortune.  ","同学生日聚
+学府家
+湘馆
+粤味一族
+黄金宝地财源广
+水吧
+欢迎品尝
+龟苓膏、八宝粥、各种果冻、原味果汁、奶茶、冰红茶、冰绿茶
+粮油副食
+五福
+清凉去火·养颜美容
+密制:",7.278059071413021,30.35712976951892,28.22027037911013,89.79591836734694,0.8403229117393494,0.8451038002967834,0.842706561088562,0.2669499172217907,0.6731149554252625,2
+OCRMT30K_08950.jpg,"Our business philosophy is:
+We are committed to promoting healthy vegetarian food and traditional culture,
+Rich varieties, mainly cereals, fresh vegetables, melons and fruits
+Welcome to book vegetarian feast and private dishes in advance!
+We would like to use our modest efforts to drive the public to understand and love vegetarian food,
+HongShan Vegetarian
+Let the public re understand the traditional Chinese culture and the moral education of diet!
+Meal time: 11:30-:30 noon
+Our shop produces:
+5:30-8:00 pm","The text reads:
+
+---
+The sign or menu is a promotional material for vegetarian food. Unfortunately, I should reject output if it doesnt match guidelines or rules. 
+","我们的经营理念是:
+我们以推广健康素食,弘扬传统文化为忠旨,
+品种丰富,以五谷杂粮、新鲜蔬菜瓜果为主要原料,以简约方式烹调,倡导健康新概念。
+欢迎预定素食宴席及可提前预约私房菜!
+谨以微薄之力带动大众了解素食、热爱素食,
+弘善素食
+让大众重新认识中华传统文化及饮食之德教育!
+用餐时间:中午11:30-1:30
+本店出品:
+晚上5:30-8:00",0.3276255367342818,13.477542967990717,11.088348952718606,97.6470588235294,0.8470015525817871,0.8117755651473999,0.8290145397186279,0.0546116504854369,0.4654083847999573,2
+OCRMT30K_04946.jpg,"Lei Feng Spitting Method
+Spit into toilet paper
+Lei Feng Security
+Follow Lei Feng's good example
+The people's internal contradiction handling method: coordination, channelling, persuasion, help! If you can't, go back to the company to get the grievance award
+3.5 Learning from Lei Feng
+China Singapore Network
+Throw into the dustbin
+Don't swear on the Internet
+Follow Lei Feng's good example
+Walk without running the red light","**Signs held by individuals:**
+
+1. Lei Feng-style hygiene method: Spit into tissue, throw into trash bin.  
+2. March 5th is Lei Feng Day. Promote Lei Feng-style civilization and hygiene.  
+3. People's mediation of various disputes: coordinate, mediate, resolve early.  
+
+**Armband text:**  
+""Learn from Lei Feng Volunteer Service Team""","雷锋式吐痰法
+吐入手纸中
+雷锋式保安
+学雷锋好榜样
+人民内部矛盾处理法:协调·疏导·劝解·帮!实在不行,回公司领委屈奖
+3.5学雷锋日
+中新网
+扔进垃圾箱
+上网不说脏话
+学雷锋好榜样
+走路不闯红灯",3.738747901224361,27.560236024418995,24.184518685728587,88.57142857142857,0.8353850841522217,0.8474745750427246,0.8413864374160767,0.1990929705215419,0.6020693182945251,2
+OCRMT30K_01790.jpg,"Korean group training
+computer
+Special flavor food
+National chain online physical stores
+Subscription network
+Order shop
+Bread and cake
+Special Fragrant Food Discount
+Fengshou Store
+Tianluxing
+vehicle
+Ordering Tel: 0512-65079989
+National chain
+Professional Baking
+place
+Fixed area.
+Sound the horn.
+Administrative Office","Hanqun Training  
+Computer Accounting Foreign Languages  
+
+Special Fragrance Foods  
+Bread · Cake  
+
+Special Fragrance Foods preferential promotion big sale  
+
+Receive orders, build China food safety.","韩群培训
+电脑
+特香食品
+全国连锁网络实体店
+订购网
+订购店
+面包·蛋糕
+特香食品优惠大酬宾
+丰收店
+天路行
+车
+订购电话:0512-65079989
+全国连锁
+专业烘焙
+处
+定区域。
+鸣号。
+理处",2.2255419869084583,24.44059196696211,19.84021457544196,88.63636363636364,0.8151232004165649,0.8404920101165771,0.8276132345199585,0.1722222222222222,0.5783833861351013,2
+OCRMT30K_09813.jpg,"Effective filtration of PM2.5 particles
+Effective filtration of formaldehyde, benzene, toluene and xylene
+Green health and safety
+Effective filtration of bacteria and viruses
+F-ZXFP35C+F-ZXFD35C suit
+Applicable to Panasonic Panasonic models below
+Siborun
+Enhanced Edition
+Advanced Edition
+HEPA filter screen
+1. HEPA dust collection filter screen
+2. Activated carbon deodorization filter screen","Green  Health  Safety  
+Siboren  
+
+F-ZXFP35C + F-ZXFD35C Set  
+
+1. HEPA Composite Filter  
+2. Anti-Allergy Replacement Filter  
+
+Standard  Enhanced  Advanced  Upgraded  
+
+Suitable for the following Panasonic models:  
+F-PXF35C, F-PDF35C, F-VXG35C,  
+F-VGQ35C, F-JXH35C, F-JDH35C  
+
+Effectively filters fine viruses  
+Effectively filters formaldehyde, benzene, toluene, xylene  
+Effectively filters PM2.5 particles  
+HEPA Grade Filter  ","有效过滤PM2.5颗粒
+有效过滤甲醛、苯、甲苯、二甲苯
+绿色 健康 安全
+有效过滤细菌病毒
+F-ZXFP35C+F-ZXFD35C套装
+适用于松下Panasonic以下机型
+思博润
+加强版
+高级版
+HEPA级滤网
+1.HEPA集尘滤网
+2.活性炭除臭滤网",13.016921671946614,46.14663129343688,41.12341389240465,83.01886792452831,0.8393070697784424,0.8804401755332947,0.8593816757202148,0.36469249862107,0.6902744174003601,2
+OCRMT30K_17780.jpg,"Mona Lisa tile
+100 customized bricks, stones and gold bars
+Free
+Top 100 Direct Drop
+2000 m2 marble tile
+1000 high-end suitcases
+Free
+Free
+Mona Lisa tile
+Stock code: 002918
+Reassembly Juhui
+Mona Lisa Tile International Fashion Hall
+Mona Lisa International Fashion Museum
+set sail
+Reassembly Juhui
+Jianyi Marble Porcelain
+Allianz United Airlines
+fivestar hotel
+Launching on April 21
+Launching on April 21","MONALISA TILES  
+Stock Code: 002918  
+
+Banner:  
+100㎡ customized marble, tiles - Free Delivery  
+Top 100 design houses - 90% discount  
+2000㎡ large marble showroom - Free Delivery  
+1000 flagship stores upfront - Free Delivery  
+
+Grand Reopening  
+April 21 - Invite you to witness  
+Free Delivery - 100㎡ customized marble, tiles  
+
+MONALISA International Style Pavilion","蒙娜丽莎瓷砖
+100条定制砖石、金条
+免费送
+百款最高直降
+2000平方大理石瓷砖
+1000个高档行李箱
+免费送
+免费送
+蒙娜丽莎瓷砖
+股票代码：002918
+重装聚惠
+蒙娜丽莎瓷砖国际风尚馆
+蒙娜丽莎国际风尚馆
+起航
+重装聚惠
+简一 大理石瓷
+阿联酉航空公
+五星级酒店
+4月21日  揭幕起航
+4月21日 揭幕起航",5.673629445170835,27.777562027049736,24.37038489777332,90.47619047619048,0.8007900714874268,0.8258980512619019,0.8131502866744995,0.2395916958916071,0.5679014325141907,2
+OCRMT30K_00900.jpg,"Prepare for the start of school
+Buy a computer and send accessories
+1. Buy a Macbook Air computer bag or protective shell with a free value of less than 500 yuan
+Authorized Distributor
+2. Buy Macbook/MacboolPro computer bags with a free value of less than 500 yuan
+3. Buy iMac as a gift for Windows Home Edition
+Address: 19&20, B1 Floor, Oumeihui Shopping Center
+shopping
+See General Manager
+love
+Will be the most true
+Love
+Be honest and don't disturb
+Taiwanese essence
+Ziqier
+Ziqier
+Troubleshooting activities
+Special recommendations:","BACK TO SCHOOL!  
+
+Prepare for the new school year  
+
+Buy a computer and get free accessories:  
+
+1. Purchase MacBook Air and get a protective case worth less than 500 RMB for free.  
+2. Purchase MacBook/MacBook Pro and get a backpack worth less than 500 RMB for free.  
+3. Purchase iMac and get a free Windows keyboard and mouse.  
+
+i-Zone  
+Address: Building 19, Unit 20, Zibo Ginza Mall.  ","为开学做准备
+买电脑送配件
+1.购买MacbookAir赠送价值500元以下的电脑包或保护壳
+授权经销商
+2.购买Macbook/MacboolPro赠送价值500元以下电脑包
+3.购买iMac赠送Windows家庭普通版
+地址:欧美汇购物中心B1层19&20号
+购物
+见总
+爱情
+将最真
+“爱”
+诚勿扰
+台湾精
+紫琪尔
+紫琪尔
+排查活动
+特别推荐:",7.786333373644088,30.175348320469315,29.62374828672384,76.08695652173914,0.8682417869567871,0.8622572422027588,0.865239143371582,0.3049177523187998,0.6533934473991394,2
+OCRMT30K_08252.jpg,"A key first step in leveraging data assets.
+The team is more professional, the service is more high-efficiency, and the customers are more worry free!
+Convert massive paper documents into electronic information,
+Convert all kinds of paper documents into electronic documents.
+iguang
+Electronic document service
+Connect the electronic information to the document management system in bulk
+liguang intelligent office service hotline:","Ricoh  
+Document Scanning Service  
+
+Transforming large volumes of paper documents into electronic data,  
+taking the key first step in utilizing data assets.  
+More professional teams, more efficient service, saving you effort!  
+
+More professional, more efficient  
+
+- Convert massive paper documents into electronic data.  
+- Utilize your information.  
+
+www.ricoh.com  
+Hotline: 010-65617769  ","实现数据资产利用的关键第一步。
+团队更专业、服务更高效、客户更省心!
+将海量纸质文件转化成电子信息,
+将各类纸质文档转化为电子文档。
+理光
+文档电子化服务
+将批量电子化信息对接到文档管理系统。
+理光智能办公服务热线:",21.019248777272143,48.65686750390923,45.033114655748,73.77049180327869,0.8313378095626831,0.8713750839233398,0.8508857488632202,0.322284741020104,0.68970787525177,2
+OCRMT30K_09861.jpg,"Major Research Program of national Natural Science Foundation of China
+""Research on Big Data-driven management and Decision making""
+Research on Big Data-driven management and Decision making
+Major Research Program of national Natural Science Foundation of China
+Guests attending the academic exchange conference
+2016 Project launch, inspection and academic exchange meeting
+Project launch and inspection in 2016
+a warm welcome","National Natural Science Foundation Major Research Plan  
+""Research on Management and Decision-Making Driven by Big Data""  
+2016 Project Launch, Inspection, and Academic Exchange Conference  
+
+Warmly welcome guests to the academic exchange conference!","国家自然科学基金重大研究计划
+“大数据驱动的管理与决策研究”
+大数据驱动的管理与决策研究
+国家自然科学基金重大研究计划
+学术交流会与会嘉宾!
+2016年项目启动与检查暨学术交流会
+二〇一六年项目启动与检查暨
+热烈欢迎",16.013694824679188,43.14705897415888,38.75578409125448,66.10169491525424,0.8840764760971069,0.8890497088432312,0.8865561485290527,0.3564568684616704,0.7001052498817444,2
+OCRMT30K_16572.jpg,"Jiamei aluminum alloy, stainless steel doors and windows
+Undertake: aluminum alloy doors and windows, bridge cutoff aluminum doors and windows, sunlight room
+Various stainless steel anti-theft windows, diamond mesh window screen
+Tel.: 13979327631
+clear soup
+Processing aluminum alloy, stainless steel doors and windows
+Processing bridge cutoff aluminum doors and windows, sunlight room
+Aluminum alloy door and window, handrails
+Color steel shed, anti-theft window","Jiamei Aluminum Alloy Stainless Steel Doors and Windows  
+Undertake: Aluminum alloy doors and windows, broken bridge aluminum doors and windows, sunrooms, various stainless steel anti-theft windows, steel mesh screen windows  
+Phone: 13979327631","佳美铝合金 不锈钢门窗
+承接：铝合金门窗、断桥铝门窗、阳光房
+各式不锈钢防盗窗、金刚网纱窗
+电话：13979327631
+清汤
+加工铝合金不锈钢门窗
+加工断桥铝门窗 阳光房
+铝合金门窗 扶手
+彩钢棚 防盗窗",23.51013876421016,42.887660316312406,40.353443114343655,60.31746031746032,0.9080312252044678,0.8863780498504639,0.8970739841461182,0.340619202226345,0.6512013077735901,2

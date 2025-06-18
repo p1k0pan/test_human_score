@@ -1,0 +1,14 @@
+错误日志 - /mnt/data/users/liamding/data/MTI/evaluations/gemini-2.0-flash-001/dataset100/zh2ru - zh2ru
+==================================================
+
+警告: /mnt/data/users/liamding/data/MTI/evaluations/gemini-2.0-flash-001/dataset100/zh2ru/logo/zh2ru.json 中的图片 logo/logo_0008.jpg - 'mt'值为None，将使用空字符串参与评估
+
+
+==================== 汇总信息 ====================
+总计处理文件数: 19
+包含错误的文件数: 0
+总计处理项目数: 100
+有效项目数: 100
+无效项目数: 0
+有效率: 100.00%
+

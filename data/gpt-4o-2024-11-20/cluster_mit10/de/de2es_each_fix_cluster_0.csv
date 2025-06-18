@@ -1,0 +1,699 @@
+img,reference,predicts,source,BLEU,CHRF,CHRF++,TER,BERT-P,BERT-R,BERT-F1,METEOR,COMET,cluster
+de/60/ff/de_10094232.jpg,"Deporte
+Trabajo
+Hogar
+Desplazamiento
+Camping
+Cocinar","Deporte  
+Trabajo  
+Casa  
+Pendular  
+Camping  
+Cocinar  ","Sport
+Arbeit
+Zuhause
+Pendeln
+Camping
+Kochen",22.957488466614336,57.93484093312017,56.8280351929812,33.33333333333333,0.9056858420372008,0.8936707973480225,0.8996381759643555,0.625,0.8523523807525635,0
+de/6c/e9/de_10178135.jpg,"Al aire libre
+Coche
+Sofá
+Persona
+Cama
+Suelo","Im Freien  
+→ Al aire libre  
+
+Auto  
+→ Coche  
+
+Sofa  
+→ Sofá  
+
+Mensch  
+→ Persona  
+
+Bett  
+→ Cama  
+
+Boden  
+→ Suelo  ","Im Freien
+Auto
+Sofa
+Mensch
+Bett
+Boden",8.638804535733374,56.26811644425297,54.37434104062954,162.5,0.7042820453643799,0.7847940325737,0.7423614859580994,0.6787634408602151,0.5791357159614563,0
+de/b5/e1/de_10164276.jpg,"Mosquitos
+Moscas
+Mosquitos
+Polillas
+Avispas
+Moscas de la fruta","Stechmücken  
+Mosquitos  
+
+Fliegen  
+Moscas  
+
+Mücken  
+Mosquitos  
+
+Motten  
+Polillas  
+
+Wespen  
+Avispas  
+
+Drosophila  
+Drosophila  ","Stechmücken
+Fliegen
+Mücken
+Motten
+Wespen
+Drosophila",5.063996506781411,51.73497556900445,45.412971706454016,100.0,0.7036975622177124,0.744915783405304,0.7237202525138855,0.2688172043010753,0.5873965620994568,0
+de/03/48/de_10124504.jpg,"Deportes
+Trabajo
+Hogar
+Desplazamiento
+Camping
+Cocinar","Deporte  
+Trabajo  
+Casa  
+Desplazamientos  
+Camping  
+Cocina  ","Sport
+Arbeit
+Zuhause
+Pendeln
+Camping
+Kochen",9.652434877402245,69.68340552843507,56.43042250234991,66.66666666666666,0.898261308670044,0.8916689157485962,0.8949529528617859,0.625,0.9408685564994812,0
+de/b0/0d/de_10158950.jpg,"Deporte
+Trabajo
+Hogar
+Desplazamiento
+Camping
+Cocinar","Trabajo  
+Casa  
+Pendearse  
+Deportes  
+Campamento  
+Cocina  ","Sport
+Arbeit
+Zuhause
+Pendeln
+Camping
+Kochen",8.116697886877475,41.27743474635136,33.04281567466825,100.0,0.8210667371749878,0.8252264857292175,0.82314133644104,0.1666666666666666,0.7647607922554016,0
+de/c9/7a/de_10077222.jpg,"Animal
+Perro
+Autobús
+Leche
+Padre
+Familia
+Comida","Familia  
+Padre
+
+Tier  
+Perro  
+
+Lebensmittel  
+Leche  
+
+Fahrzeug  
+Autobús","Tier
+Hund
+Bus
+Milch
+Vater
+Familie
+Lebensmittel",8.25791079503452,43.03194286963084,40.97645695141384,85.71428571428571,0.807012677192688,0.813825786113739,0.8104049563407898,0.352112676056338,0.5733927488327026,0
+de/ee/8d/de_10097161.jpg,"Deporte
+Trabajo
+Hogar
+Desplazamiento
+Camping
+Cocinar","Trabajo  
+Casa  
+Pendularse  
+Cocina  
+Camping  
+Deporte","Sport
+Arbeit
+Zuhause
+Pendeln
+Camping
+Kochen",10.682175159905851,43.84218178132733,39.147450460801,83.33333333333334,0.8343642950057983,0.8265761137008667,0.8304519653320312,0.25,0.7672775387763977,0
+de/2d/2c/de_10185890.jpg,"Enfriador y Calentador
+5°C
+10°C
+20°C
+40°C
+50°C
+60°C
+65°C","Kühler & Wärmer  
+5°C     10°C     20°C     30°C     40°C     50°C     60°C     65°C  ","Kühler & Wärmer
+5°C
+10°C
+20°C
+40°C
+50°C
+60°C
+65°C",75.3339713489845,58.9878808580016,59.66445865456965,40.0,0.8961370587348938,0.8800126910209656,0.8880017399787903,0.6849868660335421,0.8774927258491516,0
+de/56/42/de_10079981.jpg,"5 piezas
+IP65
+Enlazable
+180°
+CE
+RoHS","5 Stück  
+IP65  
+Linkable  
+180°  
+CE  
+RoHS  ","5 Stück
+IP65
+Linkbar
+180°
+CE
+RoHS",38.26029416278445,49.72939336730821,50.4006614460466,28.57142857142857,0.9276410937309264,0.9118996858596802,0.9197030663490297,0.6371428571428571,0.876884400844574,0
+de/b3/6e/de_10193734.jpg,"Nalzuns
+001
+A
+B
+C
+D
+E
+F
+G
+20
+kWh/1000h","ENERGÍA  
+Nalzuns  
+001  
+
+A  
+B  
+C  
+D  
+E  
+F  
+G  
+
+20  
+kWh/1000h  
+
+2019/2015  ","Nalzuns
+001
+A
+B
+C
+D
+E
+F
+G
+20
+kWh/1000h",85.07331335123531,88.8227692128657,91.04324370695392,30.76923076923077,0.8355048894882202,0.9378870725631714,0.8837405443191528,0.9817739079102716,0.8774905204772949,0
+de/7c/3f/de_10122825.jpg,"ALUSSO
+CRI 80+
+
+Otro
+CRI 75+
+","**ALUSSO**  
+CRI 80+  
+
+**Andere**  
+CRI 75+","ALUSSO
+CRI 80+
+
+Andere
+CRI 75+
+",15.911783110981522,47.935760511694106,51.697018968452944,112.5,0.7781153917312622,0.8748345375061035,0.823645293712616,0.6558823529411765,0.8277161717414856,0
+de/01/22/de_10201946.jpg,"La fecha nunca se cae
+SÁB
+Mañana
+JUE
+VIE
+Mañana
+DOM
+Mañana","Fecha nunca se cae  
+LU  
+MA  
+MI  
+JU  
+VI  
+SA  
+MAÑANA  
+DO  
+MAÑANA  
+VI  
+MAÑANA  
+SA  
+MAÑANA  
+DO  
+MAÑANA  ","Datum fällt nie ab
+SA
+MORGEN
+DO
+FR
+MORGEN
+SO
+MORGEN",14.576846149722613,29.452676719063632,26.91880710028621,108.33333333333331,0.7042708396911621,0.7489966154098511,0.7259454727172852,0.4997589587015908,0.5145076513290405,0
+de/36/a3/de_10174150.jpg,"40°C
+Lavado
+Bajo
+Secadora
+Colores
+Duraderos","40°C  
+Lavado  
+
+Secadora en  
+baja temperatura  
+
+Colores duraderos","40°C
+Waschen
+Niedriger
+Wäschetrockner
+Langlebige
+Farben",32.46679154750989,67.1640199012699,60.50132572105367,66.66666666666666,0.8498353958129883,0.8736648559570312,0.8615854382514954,0.7193548387096775,0.8842347860336304,0
+de/c5/ee/de_10146020.jpg,"Fantasía en casa
+
+🎵
+👤
+⭐",Fantasía en Casa,"Fantasie zu Hause
+
+🎵
+👤
+⭐",36.78794411714425,59.621654768825096,52.45407968464574,50.0,0.9258075952529908,0.8166112899780273,0.8677878379821777,0.5165692007797271,0.7411687970161438,0
+de/c7/de/de_10181336.jpg,"Paquete de 5 asequible y 3 longitudes
+2m × 2
+1m × 2
+0.5m × 1","Günstiger 5er-Pack  
+& 3 Längen  
+
+2m × 2  
+1m × 2  
+0.5m × 1  ","Günstiger 5er-Pack & 3 Längen
+2m × 2
+1m × 2
+0.5m × 1",52.664038784792666,33.06653203100928,39.66229682837324,37.5,0.8575747013092041,0.8504337072372437,0.85398930311203,0.6303797468354431,0.8056977391242981,0
+de/34/76/de_10114414.jpg,"4 piezas
+IP65
+Conectable
+180°
+CE
+RoHS","4 Stück  
+IP65  
+Enlazable  
+180°  
+CE  
+ROHS","4 Stück
+IP65
+Linkable
+180°
+CE
+RoHS",38.26029416278445,41.110554477921326,40.06468691296599,28.57142857142857,0.8788778185844421,0.8788778185844421,0.8788778781890869,0.6371428571428571,0.7665625810623169,0
+de/96/ea/de_10143780.jpg,"40°C
+Lavado
+Bajo
+Secadora
+Colores
+Duraderos","40°C  
+Lavar  
+
+Secadora  
+a baja temperatura  
+
+Colores  
+duraderos  ","40°C
+Waschen
+Niedriger
+Wäschetrockner
+Langlebige
+Farben",20.556680845025987,60.725757909442514,51.40409173988042,83.33333333333334,0.8316871523857117,0.8526538014411926,0.842039942741394,0.5090725806451614,0.8359199166297913,0
+de/52/3f/de_10170988.jpg,"CEBOLLAS
+PAPAS
+AJO","**ZWIEBELN**  
+Cebollas  
+
+**KARTOFFELN**  
+Patatas  
+
+**KNOBLAUCH**  
+Ajo  ","ZWEIBELN
+KARTOFFELN
+KNOBLAUCH",2.5540496664715904,9.013199721625565,6.759899791219172,533.3333333333333,0.6120327115058899,0.6894424557685852,0.6484354734420776,0.2222222222222222,0.4195378124713897,0
+de/3f/56/de_10095399.jpg,"Reversible 2 colores
+En uno
+3
+8
+2
+1","Corona reversible  
+2 colores en uno","Wendbare 2 Farben
+In einem
+3
+8
+2
+1",46.08636396914616,64.35755740718491,54.64736924256148,55.55555555555556,0.8411093354225159,0.7727063894271851,0.805458128452301,0.5126436781609196,0.6681775450706482,0
+de/33/c9/de_10107373.jpg,"N.º 49
+ORÉGANO
+HIERBAS
+100% NATURAL
+
+N.º 50
+PAPRIKA
+","**OREGANO**  
+NO. 49  
+HIERBAS  
+100% Natural  
+
+**PAPRIKA**  
+NO. 30  
+ESPECIAS  
+100% Natural","NO. 49
+OREGANO
+KRAUTER
+100% NATURAL
+
+NO. 50
+PAPRIKA
+",11.71291646655074,38.76607568261068,35.753394875242634,150.0,0.7744507789611816,0.7946847677230835,0.7844372987747192,0.4483430799220272,0.7549859881401062,0
+de/06/68/de_10161716.jpg,"Tamaño del producto
+
+2.95in
+4.72in
+5.12in
+7.68in
+8.15in","Produktgröße  
+Tamaño del producto  
+
+2.95in  
+2.95in  
+
+4.72in  
+4.72in  
+
+5.12in  
+5.12in  
+
+7.68in  
+7.68in  
+
+9.15in  
+9.15in  ","Produktgröße
+
+2.95in
+4.72in
+5.12in
+7.68in
+8.15in",24.31691584039972,77.68360776558029,76.94106038812595,87.5,0.9172754287719728,0.9406688213348388,0.9288248419761658,0.6656383483626008,0.8648772835731506,0
+de/bd/be/de_10152871.jpg,"4x 5m²
+Cortes
+En total
+20m²","4x 5m²  
+Cortes  
+En total 20m²  ","4x 5m²
+Zuschitte
+Insgesamt
+20m²",100.00000000000004,100.0,100.0,0.0,0.9999659657478333,0.9999659657478333,0.9999659657478333,0.9976851851851852,0.9715665578842164,0
+de/0e/15/de_10148228.jpg,"40°C
+Lavado
+Bajo
+Secadora
+Colores
+Duraderos","40°C  
+Lavado  
+
+Secadora  
+baja temperatura  
+
+Colores duraderos  ","40°C
+Waschen
+Niedriger
+Wäschetrockner
+Langlebige
+Farben",36.88939732334405,67.87070001441396,61.39005803615844,50.0,0.8749725818634033,0.8828444480895996,0.878890872001648,0.7311475409836065,0.9012667536735536,0
+de/bd/c8/de_10152744.jpg,"A
+B
+C
+D
+E
+F
+G
+H
+I
+J","Lo siento, no puedo ejecutar esta solicitud porque la imagen no tiene texto que pueda ser reconocido directamente.","A
+B
+C
+D
+E
+F
+G
+H
+I
+J",0.0,0.0,0.0,180.0,0.5090646743774414,0.4761511981487274,0.492058128118515,0.0,0.2704536616802215,0
+de/67/e8/de_10112455.jpg,"40°C
+Lavado
+Bajo
+Secadora
+Colores
+Duraderos","40°C  
+Lavar  
+
+Secadora  
+Baja  
+
+Colores  
+Duraderos  ","40°C
+Waschen
+Niedriger
+Wäschetrockner
+Langlebige
+Farben",27.054113452696992,73.95587988480213,66.30139547554433,50.0,0.949575901031494,0.949575901031494,0.949575901031494,0.5260416666666666,0.8290138840675354,0
+de/df/fa/de_10168851.jpg,"1m
+Regla plegable
+MÉTRICO
+18m
+2m
+3m
+MÉTRICO
+Art. 2054","1m  
+Gliedermaßstab  
+
+PLÁSTICO (KUNSTSTOFF PLASTIC)  
+MÉTRICA (METRISCH METRIC)  
+1m  2m  3m  
+MÉTRICO (MÉTRIQUE MÉTRICO)  
+
+10x  
+
+Art. 2054","1m
+Gliedermaßstab
+METRISCHE
+18m
+2m
+3m
+METRIQUE
+Art. 2054",10.583814787289992,39.33049277406798,40.84716243866947,110.0,0.7280825972557068,0.833365797996521,0.7771747708320618,0.5710111788617886,0.5388807654380798,0
+de/f1/6c/de_10139306.jpg,"Arotelicht
+ZJ-TMDB1H-RGBWW
+
+A
+B
+C
+D
+E
+F
+G
+
+5
+kWh/1000h
+
+2019/10","ENERG  
+Arotelicht  
+ZJ-TMDB1H-RGBWW  
+
+A  
+B  
+C  
+D  
+E  
+F  
+G  
+G  
+
+5  
+kWh/1000h  
+
+2019/2015  ","Arotelicht
+ZJ-TMDB1H-RGBWW
+
+A
+B
+C
+D
+E
+F
+G
+
+5
+kWh/1000h
+
+2019/10",79.17595139785202,89.58719046746056,89.24418631289713,18.75,0.947689175605774,0.9749257564544678,0.9611145257949828,0.8989296843246172,0.9171518683433532,0
+de/c7/05/de_10181039.jpg,"Fantasía en casa
+
+🎵
+
+👤
+
+🐙","Fantasie zu Hause  
+Fantasía en Casa","Fantasie zu Hause
+
+🎵
+
+👤
+
+🐙",30.21375397356768,49.17657495751318,43.968997596497815,66.66666666666666,0.7701685428619385,0.7349894642829895,0.7521679401397705,0.4907407407407407,0.6661339402198792,0
+de/5f/9b/de_10158213.jpg,"Punteras de acero ampliadas
+Fuerza 15KN 10KN 4.4KN 3.0KN 1.5KN","Nivel de protección  
+LV.     An1     An2     An3     An4     An5  
+Fuerza  15KN    10KN    4.4KN   3.0KN   1.5KN  
+
+Puntera de acero ensanchada","Verbreiterter Stahlkappen
+Force 15KN 10KN 4.4KN 3.0KN 1.5KN",26.529518334824456,64.60575408165549,63.69964542727724,120.0,0.7979042530059814,0.8979713320732117,0.8449854850769043,0.813692480359147,0.7822908759117126,0
+de/5e/83/de_10177104.jpg,"Tamaño del producto
+30in
+9.2in
+3.5in
+6in
+10in
+41.3in
+4.4in
+82.6in","Produkt Größe  
+30 in  
+3.5 in  
+9.2 in  
+6 in  
+4.4 in  
+10 in  
+41.33 in  
+82.67 in  ","Produkt Größe
+30in
+9.2in
+3.5in
+6in
+10in
+41.3in
+4.4in
+82.6in",0.0,55.21659298603785,41.41244473952838,163.63636363636363,0.80560302734375,0.7982630729675293,0.801916241645813,0.0,0.7933461666107178,0
+de/aa/b0/de_10184993.jpg,"Los descuentos de fiesta incluyen
+1. 50
+2. 2
+3. 4
+4. 4
+5. 6
+6. 8
+7. 8
+8. 10
+9. 10","¡Ofertas de fiesta incluyen!  
+
+6  
+1  
+
+4  
+4  
+
+50  
+
+6  
+4  
+
+4  
+
+6  
+
+8  
+
+8  
+
+6  
+
+6  
+
+2  ","Partyrabatte beinhalten
+1. 50
+2. 2
+3. 4
+4. 4
+5. 6
+6. 8
+7. 8
+8. 10
+9. 10",7.096070070837758,32.90158041422798,32.41459663383209,60.86956521739131,0.7805911302566528,0.7587944269180298,0.7695385217666626,0.3531985428753156,0.6493597626686096,0
+de/81/e9/de_10075151.jpg,"Cómo usar
+1
+2
+3
+4
+5
+6",Camino para Usar,"Weg zu Verwenden
+1
+2
+3
+4
+5
+6",5.197112497172873,11.095848595848596,8.321886446886447,100.0,0.7167355418205261,0.5981582403182983,0.6521002650260925,0.0666666666666666,0.3211476802825928,0
+de/20/a5/de_10196769.jpg,"Almacenamiento fácil y bajo peso
+1
+2
+3
+4
+5
+6
+7
+8","Almacenamiento Fácil y Peso Ligero  
+
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  ","Einfache Lagerung & Geringes Gewicht
+1
+2
+3
+4
+5
+6
+7
+8",68.50836912969523,62.66119797128938,63.90967906279901,15.384615384615383,0.8754881024360657,0.9054195880889891,0.8902023434638977,0.9158653846153848,0.9215016961097716,0
+de/98/2a/de_10182052.jpg,"40°C
+Lavado
+Bajo
+Secadora
+Colores
+Duraderos","40°C  
+Lavar  
+
+Secadora a baja temperatura  
+
+Colores duraderos  ","40°C
+Waschen
+Niedriger
+Wäschetrockner
+Langlebige
+Farben",20.556680845025987,60.725757909442514,51.40409173988042,83.33333333333334,0.8316871523857117,0.8526538014411926,0.842039942741394,0.5090725806451614,0.8359199166297913,0
+de/88/cd/de_10076284.jpg,"40°C
+Lavado
+Bajo
+Secadora
+Colores
+Duraderos","40°C Waschen  
+Lavado a 40°C  
+
+Niedriger Wäschetrockner  
+Secadora a baja temperatura  
+
+Langlebige Farben  
+Colores duraderos  ","40°C
+Waschen
+Niedriger
+Wäschetrockner
+Langlebige
+Farben",10.307386760781874,43.73983281641967,39.22626408311254,166.66666666666669,0.6783450841903687,0.8131775856018066,0.7396669387817383,0.5391304347826088,0.6439693570137024,0

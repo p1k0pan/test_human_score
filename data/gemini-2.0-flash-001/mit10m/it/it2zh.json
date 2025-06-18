@@ -1,0 +1,502 @@
+{
+    "it/43/53/it_10412664.jpg": {
+        "mt": "95\n人\n父亲\n50\n食物\n牛奶\n149\n儿\n动物\n车辆\n猫\n公共汽车\n公共汽车\n1\n动物\n狗\n狗\n147",
+        "ref": "狗\n猫\n父亲\n公交车\n牛奶",
+        "src": "Cane\nGatto\nPadre\nAutobus\nLatte"
+    },
+    "it/8f/ac/it_10417366.jpg": {
+        "mt": "雪\n沙尘暴\n太阳\n冰雹\n灰尘\n雨",
+        "ref": "雪\n沙尘暴\n太阳\n灰尘\n冰雹\n雨",
+        "src": "Neve\nTempesta di sabbia\nSole\nPolvere\nGrandine\nPioggia"
+    },
+    "it/03/d9/it_10388340.jpg": {
+        "mt": "Montaggio semplice\nBastano pochi passaggi\n简单组装\n只需几个步骤",
+        "ref": "简单组装\n只需几个步骤\n1\n2\n3\n4\n5",
+        "src": "Montaggio semplice\nBastano pochi passaggi\n1\n2\n3\n4\n5"
+    },
+    "it/97/1b/it_10400237.jpg": {
+        "mt": "安装",
+        "ref": "安装\n1\n2\n3\n4",
+        "src": "installazione\n1\n2\n3\n4"
+    },
+    "it/06/41/it_10408485.jpg": {
+        "mt": "户外\n沙发\n汽车\n人的\n地板\n床上",
+        "ref": "户外\n汽车\n人类\n沙发\n床\n地板",
+        "src": "All'aperto\nAuto\nUmano\nDivano\nLetto\nPavimenti"
+    },
+    "it/43/44/it_10412741.jpg": {
+        "mt": "好的！\ntrodat\nprinty 4910\n好！",
+        "ref": "好！",
+        "src": "Buono!"
+    },
+    "it/e9/ba/it_10405277.jpg": {
+        "mt": "腿\n脚踝\n臀部\n腹肌\n肩膀\n手臂",
+        "ref": "大腿\n小腿\n臀部\n腹部\n肩膀\n手臂",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/9a/ca/it_10388965.jpg": {
+        "mt": "里卡多",
+        "ref": "里卡多",
+        "src": "Riccardo"
+    },
+    "it/e2/91/it_10381137.jpg": {
+        "mt": "迪莱塔",
+        "ref": "迪莱塔",
+        "src": "Diletta"
+    },
+    "it/14/cd/it_10360277.jpg": {
+        "mt": "满足各种需求\n交流电\n4000瓦/16安\nUSB A\n12瓦/2.4安\nUSB C\n15瓦/3.0安",
+        "ref": "满足各种需求\n交流电 4000W/16A\nUSB C 15W/3.0\nUSB A 12W/2.4",
+        "src": "Soddisfare ogni tipo di esigenza\nAC 4000W/16A\nUSB C 15W/3.0\nUSB A 12W/2.4"
+    },
+    "it/6b/28/it_10388036.jpg": {
+        "mt": "163毫米\n126毫米\n248毫米\n222毫米\n星期五\n上午\n10.1英寸\n11:56 上午\n10,\n六月 2022\nTROCOTN",
+        "ref": "星期五\n早上\n11:56\n上午\n10,\n六月\n2022",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\n10,\nGIUGNO\n2022"
+    },
+    "it/c0/75/it_10394247.jpg": {
+        "mt": "峰值电流 6000A 26800mAh\n\nMRT CP 1197\n越野车\n\n我们前进吧！\n4.OL 6.OL 8.51\n\nBRPOM\n00",
+        "ref": "峰值电流\n6000A\n26800 毫安时\n我们继续前进！\n4.0L\n6.0L\n8.5L",
+        "src": "CORRENTE DI PICCO\n6000A\n26800 mAh\nAndiamo avanti !\n4.0L\n6.0L\n8.5L"
+    },
+    "it/ee/e5/it_10373217.jpg": {
+        "mt": "唐纳\n乌米尼\n安齐亚诺\n乔瓦尼\n班比尼\n班比诺",
+        "ref": "女性\n男性\n老年人\n年轻人\n儿童\n孩子",
+        "src": "Donne\nUomini\nAnziano\nGiovani\nBambini\nBambino"
+    },
+    "it/90/80/it_10379274.jpg": {
+        "mt": "trodat\nprinty 4912\nPerletto!",
+        "ref": "完美！",
+        "src": "Perfetto!"
+    },
+    "it/9c/6e/it_10396800.jpg": {
+        "mt": "意大利语：单人床\n西班牙语：80床\n德语/法语/瑞典语/波兰语/比利时语：135 x 200 厘米",
+        "ref": "单人",
+        "src": "Singolo"
+    },
+    "it/bf/7a/it_10377070.jpg": {
+        "mt": "曼uela",
+        "ref": "马努埃拉",
+        "src": "Manuela"
+    },
+    "it/83/58/it_10417003.jpg": {
+        "mt": "拼图\n500\n片\nD1os\n条形码：8058379565335\n集团代码：MPN5000000",
+        "ref": "拼图\n500片\n上帝",
+        "src": "PUZZLE\n500 PEZZI\nDIOS"
+    },
+    "it/d0/a5/it_10392328.jpg": {
+        "mt": "几步组装",
+        "ref": "几步组装完成\n1\n2\n3\n4\n5",
+        "src": "Montata in pochi passaggi\n1\n2\n3\n4\n5"
+    },
+    "it/ed/c8/it_10373632.jpg": {
+        "mt": "玩具 3 合 1\n\n摇马\n滑梯\n篮球",
+        "ref": "玩具 3 合 1\n摇摆\n滑梯\n篮子",
+        "src": "GIOCATTolo 3 IN 1\nDondolo\nScivolo\nCanestro"
+    },
+    "it/a3/6a/it_10373914.jpg": {
+        "mt": "143毫米\n88.2毫米\n204毫米\n156毫米\n星期五\n上午\n7英寸\n11:56 上午\n10,\n六月 2022\nTROCOTN",
+        "ref": "星期五\n早上\n11:56\n上午\n六月\n2022年\n7英寸",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n2022\n7 Pollici"
+    },
+    "it/93/39/it_10409006.jpg": {
+        "mt": "儿子\n儿子\n马德雷",
+        "ref": "儿子\n儿子\n母亲",
+        "src": "Figlio\nFiglio\nMadre"
+    },
+    "it/47/89/it_10406943.jpg": {
+        "mt": "浓缩咖啡\nYESPRESSO\n那就是意大利！\n我咖啡\n浓缩咖啡\n-10×\n10\n强度\n浓缩咖啡\nYESPRESSO\n在内制作\n胶囊与 NESPRESSO 兼容\nNESPRESSO 胶囊",
+        "ref": "浓缩咖啡\n10\n强度",
+        "src": "Ristretto\n10\nINTENSITÀ"
+    },
+    "it/ed/e6/it_10373599.jpg": {
+        "mt": "STABILO 卡博泰罗 1000/642 ****",
+        "ref": "STABILO\nCajal\nM 0.5 12",
+        "src": "STABILO\nCajal\nM 0.5 12"
+    },
+    "it/00/77/it_10365222.jpg": {
+        "mt": "PUMA\n意大利",
+        "ref": "彪马\n意大利",
+        "src": "PUMA\nITALIA"
+    },
+    "it/09/4b/it_10360039.jpg": {
+        "mt": "大理石\n陶瓷\n草地\nDi legno",
+        "ref": "木材\n大理石\n陶瓷\n草",
+        "src": "Di legno\nMarmo\nCeramico\nErba"
+    },
+    "it/91/d3/it_10372068.jpg": {
+        "mt": "9 英寸",
+        "ref": "9英寸",
+        "src": "9 pollici"
+    },
+    "it/6f/bb/it_10375731.jpg": {
+        "mt": "W\n30厘米\n2.5厘米\n28瓦\n2800流明\n3千/4千/6千\nIP56 防水\n雷达传感器 黄昏传感器 30000小时\n显色指数85",
+        "ref": "28W\n2800LM\n3K/4K/6K\nIP56 防水\n30000H\nCRI 85",
+        "src": "28W\n2800LM\n3K/4K/6K\nIP56 Impermeabile\n30000H\nCRI 85"
+    },
+    "it/33/42/it_10378881.jpg": {
+        "mt": "Spruzzare\n\nFlusso",
+        "ref": "喷雾\n流动",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/9a/b6/it_10388908.jpg": {
+        "mt": "快速充电\n\n3.0小时 12V 输入\nUSB-C\n\n4.0小时 5V 输入\niOS",
+        "ref": "快速充电\n3.0小时\n12V输入\nUSB C\n4.0小时\n5V输入\niOS",
+        "src": "Ricarica Rapida\n3.0h\n12V Ingresso\nUSB C\n4.0h\n5V Ingresso\niOS"
+    },
+    "it/fb/65/it_10405319.jpg": {
+        "mt": "Bronzi\n品牌意大利语",
+        "ref": "Bronzi\n\n€20",
+        "src": "Bronzi\n\n€20"
+    },
+    "it/a1/81/it_10429688.jpg": {
+        "mt": "经过消毒的\n紫外线-C\n已消毒的\n保护",
+        "ref": "消毒过\nUV-C\n消毒过",
+        "src": "SANIFICATA\nUV-C\nSANITIZED"
+    },
+    "it/b6/01/it_10418706.jpg": {
+        "mt": "塑料\ncm 10\ncm 15",
+        "ref": "塑料",
+        "src": "PLASTICA"
+    },
+    "it/50/6f/it_10385745.jpg": {
+        "mt": "油漆\n锈\n木\n金属",
+        "ref": "绘画\n锈\n木头\n金属",
+        "src": "Pittura\nRuggine\nLegno\nMetallo"
+    },
+    "it/77/f9/it_10404800.jpg": {
+        "mt": "--- OCR Start ---\nPorfetto\ntrodat\nprinty 4912\n我喜欢\n太棒了！\n继续这样！\n超级\nVOTO\n太棒了！\nP\n--- OCR End ---",
+        "ref": "完美！",
+        "src": "Perfetto!"
+    },
+    "it/8a/b7/it_10419746.jpg": {
+        "mt": "可调节\n聚焦\n\n高\n中\n低\n闪光\n求救",
+        "ref": "可调火焰设置\n高\n中\n低\n闪烁\n求救",
+        "src": "REGOLABILE MESSA A FUOCO\nAlto\nMedio\nBasso\nStrobo\nSos"
+    },
+    "it/14/35/it_10360243.jpg": {
+        "mt": "大腿\n脚踝\n臀肌\n腹肌\n肩膀\n手臂",
+        "ref": "大腿\n脚踝\n臀部\n腹部\n肩膀\n手臂",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/62/8a/it_10413719.jpg": {
+        "mt": "法比奥\n乔治亚\n保罗",
+        "ref": "法比奥\n乔治亚\n保罗",
+        "src": "Fabio\nGiorgia\nPaolo"
+    },
+    "it/94/3a/it_10384213.jpg": {
+        "mt": "咖啡\n科西尼\n1950",
+        "ref": "咖啡\n科尔西尼\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/50/d8/it_10385899.jpg": {
+        "mt": "能源\nAnmossi\nTY-E14-LB\nA\nB\nC\nD\nE\nE\nF\nG\n12\n千瓦时/1000小时\n2019/2015",
+        "ref": "Anmossi\nTY-E14-LB\n\nE\n\n12\n千瓦时/1000小时",
+        "src": "Anmossi\nTY-E14-LB\n\nE\n\n12\nkWh/1000h"
+    },
+    "it/f9/fa/it_10505837.jpg": {
+        "mt": "GaGà\n\n米兰\n意大利\n\n60\n45\n15\n30",
+        "ref": "GaG\n米兰\n意大利",
+        "src": "GaG\nMILANO\nITALY"
+    },
+    "it/54/5d/it_10368472.jpg": {
+        "mt": "beper\n400ml\n喷雾\n蒸汽\n25克/分钟\n0.5\n蒸汽\n冲击\n防滴\n自动\n清洁\n防\n水垢\n2600W\n超能力\nFerro da stiro\n电熨斗\nbeper\n不锈钢底板\n耐刮擦\n有效清洁衬衫和垂直悬挂的衣服\n精密熨烫\n易于清洁",
+        "ref": "2600W\n熨斗",
+        "src": "2600W\nFerro da stiro"
+    },
+    "it/80/92/it_10424312.jpg": {
+        "mt": "喷洒\n水流",
+        "ref": "喷雾\n流动",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/86/bb/it_10395352.jpg": {
+        "mt": "咖啡\n科西尼\n1950",
+        "ref": "咖啡\n科尔西尼\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/05/14/it_10377266.jpg": {
+        "mt": "143毫米\n88.2毫米\n204毫米\n156毫米\n星期五\n早上\n7英寸\n11:56 上午\n10,\n六月 2022\nTROCOTN\n",
+        "ref": "星期五\n早上\n11:56\n上午\n六月\n2022年\n10,\n7英寸",
+        "src": "VENEDRÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n2022\n10,\n7 Pollici"
+    },
+    "it/64/3d/it_10409850.jpg": {
+        "mt": "女儿\n儿子\n母亲",
+        "ref": "女儿\n儿子\n母亲",
+        "src": "Figlia\nFiglio\nMadre"
+    },
+    "it/d7/8e/it_10395143.jpg": {
+        "mt": "喷洒\n\n流动",
+        "ref": "喷雾\n流量",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/97/e1/it_10400298.jpg": {
+        "mt": "拉斐拉",
+        "ref": "拉扎拉",
+        "src": "Razzella"
+    },
+    "it/e9/b5/it_10405189.jpg": {
+        "mt": "里卡多",
+        "ref": "里卡多",
+        "src": "Riccardo"
+    },
+    "it/f0/9d/it_10433253.jpg": {
+        "mt": "女性\n男性\n老年人\n青少年\n儿童\n儿童",
+        "ref": "女性\n男性\n老年人\n年轻人\n儿童\n孩子",
+        "src": "Donne\nUomini\nAnziano\nGiovani\nBambini\nBambino"
+    },
+    "it/c9/53/it_10362206.jpg": {
+        "mt": "阳台\n咖啡店\n餐厅",
+        "ref": "阳台\n咖啡厅\n餐厅",
+        "src": "Balcone\nCaffetteria\nRistorante"
+    },
+    "it/ea/64/it_10372846.jpg": {
+        "mt": "6x\n30 giorni",
+        "ref": "6x\n30天",
+        "src": "6x\n30 giorni"
+    },
+    "it/34/a5/it_10382700.jpg": {
+        "mt": "尺寸各异\n18升\n30升\n41升",
+        "ref": "各种尺寸\n18L\n30L\n41L",
+        "src": "Dimensioni varie\n18L\n30L\n41L"
+    },
+    "it/4d/ba/it_10393073.jpg": {
+        "mt": "Lagostina\n1901\nOMEGNA - 意大利",
+        "ref": "拉戈斯蒂纳\n1901\n奥梅尼亚 - 意大利",
+        "src": "Lagostina\n1901\nOMEGNA - ITALIA"
+    },
+    "it/ff/95/it_10422829.jpg": {
+        "mt": "阳台\n咖啡厅\n餐厅",
+        "ref": "阳台\n咖啡厅\n餐厅",
+        "src": "Balcone\nCaffetteria\nRistorante"
+    },
+    "it/6b/fb/it_10387940.jpg": {
+        "mt": "大腿\n脚踝\n臀部\n腹肌\n肩膀\n手臂",
+        "ref": "大腿\n脚踝\n臀部\n腹肌\n肩膀\n手臂",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/61/7f/it_10412409.jpg": {
+        "mt": "拼图\n500\n块\n\nD1OS\n",
+        "ref": "拼图\n500块\nD10S",
+        "src": "PUZZLE\n500 PEZZI\nD10S"
+    },
+    "it/2c/0d/it_10381956.jpg": {
+        "mt": "正面\n侧面\n背面",
+        "ref": "正面\n侧面\n背面",
+        "src": "Davanti\nLato\nDietro"
+    },
+    "it/d4/5b/it_10314329.jpg": {
+        "mt": "阿莱西娅",
+        "ref": "阿莱西娅",
+        "src": "Alessia"
+    },
+    "it/fd/47/it_10362611.jpg": {
+        "mt": "巴克斯，1596\n\nFSC\n生态标签\n\n250 克高质量纸张",
+        "ref": "巴克斯，1596年",
+        "src": "Bacchus, 1596"
+    },
+    "it/28/36/it_10429597.jpg": {
+        "mt": "莫斯奇诺\nCOUTURE！\n米兰\n\n莫斯奇诺\nCOUTURE！\n米兰",
+        "ref": "莫斯奇诺\n时尚！\n米兰",
+        "src": "MOSCHINO\nCOUTURE !\nMilano"
+    },
+    "it/75/e6/it_10428580.jpg": {
+        "mt": "IT：单人\nES：Cama 80\nDE/FR/SE/PL/BE：140 x 200 厘米",
+        "ref": "单人",
+        "src": "Singolo"
+    },
+    "it/85/60/it_10421731.jpg": {
+        "mt": "Pubblimania®\n经久耐用！",
+        "ref": "20",
+        "src": "20"
+    },
+    "it/cb/f2/it_10385268.jpg": {
+        "mt": "medipartners\n关怀自然\nElastico",
+        "ref": "弹性",
+        "src": "Elastico"
+    },
+    "it/ef/4f/it_10394278.jpg": {
+        "mt": "施德楼 CarboOthello 1000/655★★★",
+        "ref": "STABILO\n卡布奇诺\nM 155",
+        "src": "STABILO\nCappuccino\nM 155"
+    },
+    "it/df/37/it_10412261.jpg": {
+        "mt": "之前的版本\nMulticentrum\n婴儿\nMulticentrum\n儿童\n从 A 到锌完整\nHALRON\n食品补充剂\n多种维生素\n- 多种矿物质\n全新外观",
+        "ref": "新外观",
+        "src": "NUOVO LOOK"
+    },
+    "it/c7/1d/it_10418764.jpg": {
+        "mt": "意大利语：单人床\n西班牙语：80号床\n德语/法语/瑞典语/波兰语/比利时：135 x 200 厘米",
+        "ref": "单人",
+        "src": "Singolo"
+    },
+    "it/9f/bf/it_10417920.jpg": {
+        "mt": "满足各种需求\n交流\n4000w/16A\nUSB C\n15W/3.0A\nUSB A\n12W/2.4A",
+        "ref": "满足各种需求\n交流电 4000W/16A\nUSB C 15W/3.0A\nUSB 12W/2.4A",
+        "src": "Soddisfare ogni tipo di esigenza\nAC 4000W/16A\nUSB C 15W/3.0A\nUSB 12W/2.4A"
+    },
+    "it/cf/7a/it_10374165.jpg": {
+        "mt": "面罩\n衣服\n帽子\n玩具\n鞋子\n包",
+        "ref": "口罩\n衣服\n帽子\n玩具\n鞋子\n包",
+        "src": "Maschera\nVestiti\nCappello\nGiocattolo\nScarpe\nBorsa"
+    },
+    "it/55/14/it_10408520.jpg": {
+        "mt": "蚊子\n苍蝇\n小飞虫\n飞蛾\n黄蜂\n果蝇",
+        "ref": "蚊子\n苍蝇\n小黑蚊\n蛾\n黄蜂\n果蝇",
+        "src": "Zanzare\nMosche\nMoscerini\nFalene\nVespe\nDrosophila"
+    },
+    "it/3a/98/it_10431135.jpg": {
+        "mt": "面具\n衣服\n帽子\n玩具\n鞋\n袋子",
+        "ref": "口罩\n衣服\n帽子\n玩具\n鞋子\n包",
+        "src": "Maschera\nVestiti\nCappello\nGiocattolo\nScarpe\nBorsa"
+    },
+    "it/83/c6/it_10340211.jpg": {
+        "mt": "40\nCIF B 88056312 S 90% POL\nCHANNO\n男士",
+        "ref": "CHANNON\nS\n90% 聚酯\n男",
+        "src": "CHANNON\nS\n90% POLY\nUOMO"
+    },
+    "it/1a/32/it_10427922.jpg": {
+        "mt": "大腿\n脚踝\n臀部\n腹肌\n肩膀\n手臂",
+        "ref": "大腿\n脚踝\n臀部\n腹部\n肩膀\n手臂",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/ce/84/it_10391303.jpg": {
+        "mt": "Bronzi\n意大利品牌\nVT EKB BCE EBC 2015\n50\nBronziⓇ\nRFID)))\ne\n",
+        "ref": "Bronzi®\nRFID",
+        "src": "Bronzi®\nRFID"
+    },
+    "it/1b/97/it_10400824.jpg": {
+        "mt": "IT: Singolo\nES: Cama 80\nDE/FR/SE/PL/BE: 135 x 200 cm\n意大利语：单人\n西班牙语：Cama 80\n德语/法语/瑞典语/波兰语/比利时语：135 x 200 厘米",
+        "ref": "单人",
+        "src": "Singolo"
+    },
+    "it/e3/69/it_10390282.jpg": {
+        "mt": "Blanco\n净重：4克\n\nOro\n\nSigWong\nGlitter Commestibile\nRosso\n40-200微米\n净重：4克",
+        "ref": "红色\n白色\n金色",
+        "src": "Rosso\nBianco\nOro"
+    },
+    "it/02/71/it_10367541.jpg": {
+        "mt": "使用方法：颗粒状硫磺\nCYCASANA\n西卡斯专用肥料\n1\n西卡桑\n西卡斯专用肥料\n2\n专家建议\n3",
+        "ref": "如何使用：颗粒硫\n1\n2\n3",
+        "src": "COME SI USA: ZOLFO PELLETTATO\n1\n2\n3"
+    },
+    "it/92/56/it_10389538.jpg": {
+        "mt": "39\nMADE IN CROZIA\n克罗地亚制造\nBlueline\nXBlue\nPAT. PENDING",
+        "ref": "39\n意大利制造\nBlueline\nXceto",
+        "src": "39\nMADE IN ITALY\nBlueline\nXceto"
+    },
+    "it/20/f7/it_10427110.jpg": {
+        "mt": "喷洒\n\n水流",
+        "ref": "喷雾\n流动",
+        "src": "Spruzzare\nFlusso"
+    },
+    "it/60/f8/it_10371481.jpg": {
+        "mt": "咖啡\n科尔西尼\n1950",
+        "ref": "咖啡\n科尔西尼\n1950",
+        "src": "CAFFÈ\nCORSINI\n1950"
+    },
+    "it/52/85/it_10413413.jpg": {
+        "mt": "细节\n小床\n球\n窝",
+        "ref": "细节\n床\n球\n窝",
+        "src": "DETTAGLI\nLettino\nPallina\nCuccia"
+    },
+    "it/15/6a/it_10378578.jpg": {
+        "mt": "建成持久！\n\n意大利制造",
+        "ref": "禁止入内",
+        "src": "Divieto di accesso"
+    },
+    "it/8b/ab/it_10363322.jpg": {
+        "mt": "ONESTEP\nGEL NAIL POLISH\n凝胶指甲油\nN°34\nSMALTO GEL\nLAYLA\nCOSMETICS\n米兰 - 意大利",
+        "ref": "凝胶指甲油\n第34号\nLAYLA\n化妆品\n米兰 - 意大利",
+        "src": "SMALTO GEL\nN°34\nLAYLA\nCOSMETICS\nMILANO - ITALY"
+    },
+    "it/92/41/it_10389773.jpg": {
+        "mt": "施德楼\nCarbOthello 1400/670 ***",
+        "ref": "STABILO\n焦糖\n1401/870",
+        "src": "STABILO\nCaramello\n1401/870"
+    },
+    "it/17/d8/it_10423297.jpg": {
+        "mt": "莫斯奇诺\n时装！\n米兰\n\n莫斯奇诺\nCOUTURE！\n米兰",
+        "ref": "莫斯奇诺\n时装 !\n米兰",
+        "src": "MOSCHINO\nCOUTURE !\nMilano"
+    },
+    "it/e8/44/it_10407467.jpg": {
+        "mt": "大腿\n脚踝\n臀部\n腹肌\n肩部\n手臂",
+        "ref": "大腿\n小腿\n臀部\n腹肌\n肩膀\n手臂",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/2f/b5/it_10413979.jpg": {
+        "mt": "拼图\n1000\nPEZZI\nD10S",
+        "ref": "拼图\n1000片\nD10S\n迭戈",
+        "src": "PUZZLE\n1000 PEZZI\nD10S\nDiego"
+    },
+    "it/8f/cb/it_10055675.jpg": {
+        "mt": "PRADA Made in Italy C\nPRADA MILANO",
+        "ref": "普拉达\n意大利制造\nCE",
+        "src": "PRADA\nMade in Italy\nCE"
+    },
+    "it/b5/94/it_10409462.jpg": {
+        "mt": "内置耐用！\n意大利制造",
+        "ref": "15",
+        "src": "15"
+    },
+    "it/ef/64/it_10394439.jpg": {
+        "mt": "塑料\n玻璃\n混合\n金属\n湿\n纸张",
+        "ref": "塑料\n玻璃\n混合\n金属\n湿\n纸",
+        "src": "PLASTICA\nVETRO\nMISTO\nMETALLO\nUMIDO\nCARTA"
+    },
+    "it/97/22/it_10400159.jpg": {
+        "mt": "适合所有类型的头发",
+        "ref": "适合所有发型\n1\n2A\n2B\n2C\n3A\n3B\n3C",
+        "src": "Per Tutti i Tipi di Capelli\n1\n2A\n2B\n2C\n3A\n3B\n3C"
+    },
+    "it/7b/e4/it_10398026.jpg": {
+        "mt": "能源\n安莫西\nTY-CDG40DC-25\nA\nB\nC\nD\nE\nE\nF\nG\n12\n千瓦时/1000小时\n2019/2015",
+        "ref": "Anmossi\nTY-CDG40DC-25\n12\n千瓦时/1000小时",
+        "src": "Anmossi\nTY-CDG40DC-25\n12\nkWh/1000h"
+    },
+    "it/bd/b1/it_10403237.jpg": {
+        "mt": "适合所有发质",
+        "ref": "适合所有发型\n1\n2A\n2B\n2C\n3A\n3B\n3C",
+        "src": "Per Tutti i Tipi di Capelli\n1\n2A\n2B\n2C\n3A\n3B\n3C"
+    },
+    "it/44/70/it_10397559.jpg": {
+        "mt": "拼图\n1000\n块\n\nD10S\n小组代码：MRP 2000\n8056379158486\n迭戈\n（10）",
+        "ref": "拼图 1000 块\nD10S\n迭戈\n(10)",
+        "src": "PUZZLE 1000 PEZZI\nD10S\nDiego\n(10)"
+    },
+    "it/d1/43/it_10380722.jpg": {
+        "mt": "1\n阳台\n\n2\n阳台\n\n3\n卧室\n\n4\n门廊",
+        "ref": "多功能\n1\n阳台\n2\n阳台\n3\n卧室\n4\n门廊",
+        "src": "VERSATILE\n1\nBalcone\n2\nBalcone\n3\nCamera da letto\n4\nPortico"
+    },
+    "it/16/e6/it_10431566.jpg": {
+        "mt": "有3种尺寸可选\nS\nT\n20厘米\n1\n80 厘米\nM\nT\n30厘米\n1\n长\nT\n30厘米\n1\n-120 厘米\n160 厘米",
+        "ref": "提供3种尺寸\nS\nM\nL",
+        "src": "Disponibile in 3 Misure\nS\nM\nL"
+    },
+    "it/3e/c9/it_10422279.jpg": {
+        "mt": "大腿\n脚踝\n臀部\n腹肌\n肩\n手臂",
+        "ref": "大腿\n小腿\n臀部\n腹肌\n肩膀\n手臂",
+        "src": "Cosce\nCaviglie\nGlutei\nAbs\nSpalle\nBraccia"
+    },
+    "it/28/18/it_10429650.jpg": {
+        "mt": "玛蒂亚\n基娅拉\n马泰奥",
+        "ref": "马蒂亚\n基亚拉\n马特奥",
+        "src": "Mattia\nChiara\nMatteo"
+    },
+    "it/2a/67/it_10371097.jpg": {
+        "mt": "家\n办公室\n户外",
+        "ref": "家\n办公室\n户外",
+        "src": "Casa\nUfficio\nAll'Aperto"
+    },
+    "it/35/62/it_10403136.jpg": {
+        "mt": "MAZZO 1/3\nMadame\nALT. 1673\n打开此牌堆以开始游戏",
+        "ref": "甲板 V1\n夫人\nIC 67%",
+        "src": "Mazzo V1\nMadame\nIC 67%"
+    },
+    "it/3b/37/it_10430572.jpg": {
+        "mt": "163毫米\n126毫米\n248毫米\n222毫米\n星期五\n上午\n10.1英寸\n11:56 上午\n10,\n六月 2022\nTROCOTN",
+        "ref": "星期五\n早上\n11:56\n上午\n六月\n10,\n2022",
+        "src": "VENERDÌ\nMATTINA\n11:56\nA.M.\nGIUGNO\n10,\n2022"
+    }
+}
